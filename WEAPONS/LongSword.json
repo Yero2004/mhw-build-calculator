@@ -1,0 +1,4170 @@
+[
+  {
+    "id": 1,
+    "kind": "long-sword",
+    "name": "Hope Edge I",
+    "description": "A long sword made specifically\r\nfor the expedition. A blade\r\nimbued with spirit to aid its\r\nmighty swings.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 40,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        22
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "long-sword",
+    "name": "Hope Edge II",
+    "description": "A long sword made specifically\r\nfor the expedition. A blade\r\nimbued with spirit to aid its\r\nmighty swings.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 50,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        27
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "long-sword",
+    "name": "Hope Edge III",
+    "description": "A long sword made specifically\r\nfor the expedition. A blade\r\nimbued with spirit to aid its\r\nmighty swings.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        31
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "long-sword",
+    "name": "Hope Edge IV",
+    "description": "A long sword made specifically\r\nfor the expedition. A blade\r\nimbued with spirit to aid its\r\nmighty swings.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "long-sword",
+    "name": "Hope Edge V",
+    "description": "A long sword made specifically\r\nfor the expedition. A blade\r\nimbued with spirit to aid its\r\nmighty swings.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 80,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        78
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "long-sword",
+    "name": "Rey Tonitrus I",
+    "description": "A long sword imbued with Rey\r\nDau's thunder. Adversaries\r\nbuckle with one kiss from its\r\nconductive edge.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 150,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "139": 3,
+        "141": 1,
+        "142": 2
+      },
+      "previous_id": 22,
+      "branches": [
+        7
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 7,
+    "kind": "long-sword",
+    "name": "Rey Tonitrus II",
+    "description": "A long sword imbued with Rey\r\nDau's thunder. Adversaries\r\nbuckle with one kiss from its\r\nconductive edge.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 130,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "104": 3,
+        "536": 2,
+        "579": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 8,
+    "kind": "long-sword",
+    "name": "Rey Tonitrus III",
+    "description": "A long sword imbued with Rey\r\nDau's thunder. Adversaries\r\nbuckle with one kiss from its\r\nconductive edge.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 120,
+      "green": 80,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 1,
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "143": 1,
+        "144": 1,
+        "350": 4,
+        "352": 3
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 9,
+    "kind": "long-sword",
+    "name": "Tonitrus Clairblade",
+    "description": "An upgraded Rey Tonitrus.\r\nWith one flash of its edge,\r\nrocks sunder and thick shocks\r\nof lightning hail down.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 110,
+      "green": 70,
+      "blue": 70,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 1,
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "348": 6,
+        "349": 4,
+        "351": 1,
+        "661": 5
+      },
+      "previous_id": 8,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 10,
+    "kind": "long-sword",
+    "name": "Khanga Edge I",
+    "description": "Made of Seregios blades,\r\nits golden sheen will\r\nnever fade no matter how\r\nmany times it is polished.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        11
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 11,
+    "kind": "long-sword",
+    "name": "Khanga Rebellion",
+    "description": "A revolutionary blade,\r\nthis enhanced version of\r\nthe Khanga Edge can cut\r\nthrough absolutely anything.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 10,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 12,
+    "kind": "long-sword",
+    "name": "Stahlfakt I",
+    "description": "An eldritch Gore Magala long\r\nsword that condemns wielders\r\nto anguish and beholders to\r\neternal damnation.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 70,
+      "blue": 40,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 34,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 13,
+    "kind": "long-sword",
+    "name": "Stahlrecht",
+    "description": "An upgraded Stahlfakt. Its bite\r\nconfers eternal pain, a hell that\r\nforever denies the relief of death.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 60,
+      "blue": 40,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 12,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 14,
+    "kind": "long-sword",
+    "name": "Uth Khlunda I",
+    "description": "An Uth Duna long sword.\r\nA water-soaked scabbard keeps\r\nthe thirsty blade sated and\r\nmaintains its gleam.",
+    "rarity": 3,
+    "raw": 160,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "324": 1,
+        "326": 2,
+        "328": 1
+      },
+      "previous_id": 49,
+      "branches": [
+        15
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 15,
+    "kind": "long-sword",
+    "name": "Uth Khlunda II",
+    "description": "An Uth Duna long sword.\r\nA water-soaked scabbard keeps\r\nthe thirsty blade sated and\r\nmaintains its gleam.",
+    "rarity": 5,
+    "raw": 190,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 120,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "62": 1,
+        "315": 1,
+        "596": 3
+      },
+      "previous_id": 14,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 16,
+    "kind": "long-sword",
+    "name": "Uth Khlunda III",
+    "description": "An Uth Duna long sword.\r\nA water-soaked scabbard keeps\r\nthe thirsty blade sated and\r\nmaintains its gleam.",
+    "rarity": 7,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 120,
+      "green": 80,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 32,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "327": 1,
+        "331": 3,
+        "333": 5,
+        "335": 3
+      },
+      "previous_id": 15,
+      "branches": [
+        17
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 17,
+    "kind": "long-sword",
+    "name": "Khlunda-of-the-Waves",
+    "description": "An upgraded Uth Khlunda. With\r\na gallant blade like this,\r\na worthy warrior could part\r\nthe raging tides.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 100,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "330": 6,
+        "332": 6,
+        "334": 1,
+        "661": 5
+      },
+      "previous_id": 16,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 18,
+    "kind": "long-sword",
+    "name": "Windclaw Blade I",
+    "description": "Made from Hirabami materials,\r\nthis long sword's curved blade\r\ncarves a unique path when\r\nslicing foes.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "353": 3,
+        "356": 2,
+        "599": 1
+      },
+      "previous_id": 27,
+      "branches": [
+        19
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 19,
+    "kind": "long-sword",
+    "name": "Windclaw Blade II",
+    "description": "Made from Hirabami materials,\r\nthis long sword's curved blade\r\ncarves a unique path when\r\nslicing foes.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 100,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 23,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "361": 4,
+        "362": 1,
+        "600": 3
+      },
+      "previous_id": 18,
+      "branches": [
+        20
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 20,
+    "kind": "long-sword",
+    "name": "Windclaw Blade III",
+    "description": "Made from Hirabami materials,\r\nthis long sword's curved blade\r\ncarves a unique path when\r\nslicing foes.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 30,
+      "blue": 140,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "359": 5,
+        "425": 3
+      },
+      "previous_id": 19,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 21,
+    "kind": "long-sword",
+    "name": "Windclaw Kiribami",
+    "description": "An upgraded Windclaw Blade said\r\nto have been wielded by a great\r\nhero. The force of its attacks is\r\nsure to overwhelm any opponent.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 30,
+      "blue": 120,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "360": 6,
+        "424": 1,
+        "659": 5
+      },
+      "previous_id": 20,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 22,
+    "kind": "long-sword",
+    "name": "Quematrice Lima I",
+    "description": "A Quematrice long sword that\r\nsprays oil from its scabbard on\r\nthe draw to ignite the blade.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 50,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "88": 3,
+        "90": 1,
+        "299": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        6,
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 23,
+    "kind": "long-sword",
+    "name": "Quematrice Lima II",
+    "description": "A Quematrice long sword that\r\nsprays oil from its scabbard on\r\nthe draw to ignite the blade.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 60,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "55": 1,
+        "91": 1,
+        "580": 1
+      },
+      "previous_id": 22,
+      "branches": [
+        24
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 24,
+    "kind": "long-sword",
+    "name": "Quematrice Lima III",
+    "description": "A Quematrice long sword that\r\nsprays oil from its scabbard on\r\nthe draw to ignite the blade.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 80,
+      "green": 50,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "303": 5,
+        "304": 3,
+        "305": 2
+      },
+      "previous_id": 23,
+      "branches": [
+        25
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 25,
+    "kind": "long-sword",
+    "name": "Quematrice Lima IV",
+    "description": "A Quematrice long sword that\r\nsprays oil from its scabbard on\r\nthe draw to ignite the blade.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 80,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "302": 6,
+        "389": 3,
+        "594": 5
+      },
+      "previous_id": 24,
+      "branches": [
+        26
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 26,
+    "kind": "long-sword",
+    "name": "Firetrail Ferrocere",
+    "description": "An upgraded Quematrice Lima.\r\nTo approach this gnash of fire\r\nis to embrace one's immolation.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 80,
+      "green": 80,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "301": 6,
+        "388": 1,
+        "659": 5
+      },
+      "previous_id": 25,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 27,
+    "kind": "long-sword",
+    "name": "Iron Katana I",
+    "description": "A sword forged with historic\r\nEastern techniques. Durable,\r\nbut requires regular upkeep.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 30,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        18,
+        28,
+        55
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 28,
+    "kind": "long-sword",
+    "name": "Iron Katana II",
+    "description": "A sword forged with historic\r\nEastern techniques. Durable,\r\nbut requires regular upkeep.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 27,
+      "branches": [
+        29
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 29,
+    "kind": "long-sword",
+    "name": "Iron Katana III",
+    "description": "A sword forged with historic\r\nEastern techniques. Durable,\r\nbut requires regular upkeep.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 28,
+      "branches": [
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 30,
+    "kind": "long-sword",
+    "name": "Keen Edge",
+    "description": "The saw-like teeth of this\r\nblade makes it deadly, but\r\nrequires much training to\r\nutilize effectively.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 29,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 31,
+    "kind": "long-sword",
+    "name": "Wyvern Blade \"Ash\" I",
+    "description": "A Guardian Rathalos long sword.\r\nLike a blazing fire, its\r\nwielder's spirit never abates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 60,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        32
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 32,
+    "kind": "long-sword",
+    "name": "Wyvern Blade \"Ash\" II",
+    "description": "A Guardian Rathalos long sword.\r\nLike a blazing fire, its\r\nwielder's spirit never abates.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 120,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 31,
+      "branches": [
+        33
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 33,
+    "kind": "long-sword",
+    "name": "Wyvern Blade \"Lily\"",
+    "description": "An upgraded Wyvern Blade \"Ash.\"\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 150,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 32,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 34,
+    "kind": "long-sword",
+    "name": "Wyvern Blade \"Blood\" I",
+    "description": "A Rathalos long sword hued\r\nlike the rust of the setting sun.\r\nEach cut delivers burning agony.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 30,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 29,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 36,
+      "branches": [
+        12,
+        35
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 35,
+    "kind": "long-sword",
+    "name": "Wyvern Blade \"Maple\"",
+    "description": "The upgraded form of the\r\nWyvern Blade \"Blood.\" With\r\ntwilight strokes, it paints the\r\nworld's fiery end.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 34,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 36,
+    "kind": "long-sword",
+    "name": "Wyvern Blade \"Verde\" I",
+    "description": "A Rathian long sword with\r\nthe same deep green hues,\r\nthis masterwork achieves\r\nsharpness and power alike.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        34,
+        37
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 37,
+    "kind": "long-sword",
+    "name": "Wyvern Blade \"Verde\" II",
+    "description": "A Rathian long sword with\r\nthe same deep green hues,\r\nthis masterwork achieves\r\nsharpness and power alike.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 40,
+      "green": 120,
+      "blue": 30,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 36,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 38,
+    "kind": "long-sword",
+    "name": "Wyvern Blade \"Holly\"",
+    "description": "The upgraded form of the Wyvern\r\nBlade \"Verde.\" Its sharpness\r\nand power can only be called\r\npeerless.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 30,
+      "green": 110,
+      "blue": 30,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 37,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 39,
+    "kind": "long-sword",
+    "name": "Barina Flamberge I",
+    "description": "A Lala Barina long sword with\r\na monochrome blade and scabbard,\r\nand a bite that leaves prey\r\nparalyzed.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 40,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 48,
+      "branches": [
+        40,
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 40,
+    "kind": "long-sword",
+    "name": "Barina Flamberge II",
+    "description": "A Lala Barina long sword with\r\na monochrome blade and scabbard,\r\nand a bite that leaves prey\r\nparalyzed.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 2,
+        "515": 1
+      },
+      "previous_id": 39,
+      "branches": [
+        41
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 41,
+    "kind": "long-sword",
+    "name": "Barina Flamberge III",
+    "description": "A Lala Barina long sword with\r\na monochrome blade and scabbard,\r\nand a bite that leaves prey\r\nparalyzed.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 40,
+      "branches": [
+        42
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 42,
+    "kind": "long-sword",
+    "name": "Barina Flamberge IV",
+    "description": "A Lala Barina long sword with\r\na monochrome blade and scabbard,\r\nand a bite that leaves prey\r\nparalyzed.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 41,
+      "branches": [
+        43
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 43,
+    "kind": "long-sword",
+    "name": "Lala Ornithocton",
+    "description": "An upgraded Barina Flamberge.\r\nEach effortless slash leaves\r\ncrimson evidence of its\r\nsuperior make.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 100,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 42,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 44,
+    "kind": "long-sword",
+    "name": "Blood Cry I",
+    "description": "A slender long sword resembling\r\na Nerscylla's leg, so sharp\r\nthat prey die before feeling\r\nits sting.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "513": 3,
+        "515": 2,
+        "605": 1
+      },
+      "previous_id": 39,
+      "branches": [
+        45
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 45,
+    "kind": "long-sword",
+    "name": "Blood Cry II",
+    "description": "A slender long sword resembling\r\na Nerscylla's leg, so sharp\r\nthat prey die before feeling\r\nits sting.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "521": 1,
+        "606": 3
+      },
+      "previous_id": 44,
+      "branches": [
+        46
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 46,
+    "kind": "long-sword",
+    "name": "Blood Cry III",
+    "description": "A slender long sword resembling\r\na Nerscylla's leg, so sharp\r\nthat prey die before feeling\r\nits sting.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "425": 3,
+        "480": 2,
+        "490": 3,
+        "520": 5
+      },
+      "previous_id": 45,
+      "branches": [
+        47
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 47,
+    "kind": "long-sword",
+    "name": "Blood Scream",
+    "description": "The Blood Cry's upgraded form—\r\nits supple blade now thickened\r\nout for additional rigidity.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 100,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 46,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 48,
+    "kind": "long-sword",
+    "name": "Bone Shotel I",
+    "description": "A long sword carved from bone.\r\nExcess weight has been pared\r\naway to allow for a quick flurry\r\nof blows.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 70,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        39,
+        49,
+        59
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 49,
+    "kind": "long-sword",
+    "name": "Bone Shotel II",
+    "description": "A long sword carved from bone.\r\nExcess weight has been pared\r\naway to allow for a quick flurry\r\nof blows.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 1,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 48,
+      "branches": [
+        14,
+        50
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 50,
+    "kind": "long-sword",
+    "name": "Bone Shotel III",
+    "description": "A long sword carved from bone.\r\nExcess weight has been pared\r\naway to allow for a quick flurry\r\nof blows.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 49,
+      "branches": [
+        51
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 51,
+    "kind": "long-sword",
+    "name": "Bone Shotel IV",
+    "description": "A long sword carved from bone.\r\nExcess weight has been pared\r\naway to allow for a quick flurry\r\nof blows.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 50,
+      "branches": [
+        52
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 52,
+    "kind": "long-sword",
+    "name": "Hard Bone Shotel",
+    "description": "Thorough polishing has\r\nsharpened the Bone Shotel into\r\na razor edge that rivals metal.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 100,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 51,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 53,
+    "kind": "long-sword",
+    "name": "Gnashing Fulgur I",
+    "description": "A Guardian Fulgur Anjanath\r\nlong sword. Only one able to\r\ntame its brutality through\r\nreason can wield it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 100,
+      "yellow": 110,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 29,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": null,
+      "branches": [
+        54
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 54,
+    "kind": "long-sword",
+    "name": "Fulgurblade Guardiana",
+    "description": "An upgraded Gnashing Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 120,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 53,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 55,
+    "kind": "long-sword",
+    "name": "Rompo Hacker I",
+    "description": "A serrated Rompopolo long\r\nsword laced with toxins that\r\nfacilitate simultaneous\r\nresection and poisoning.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 100,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "336": 3,
+        "337": 2,
+        "601": 1
+      },
+      "previous_id": 27,
+      "branches": [
+        56
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 56,
+    "kind": "long-sword",
+    "name": "Rompo Hacker II",
+    "description": "A serrated Rompopolo long\r\nsword laced with toxins that\r\nfacilitate simultaneous\r\nresection and poisoning.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 90,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "342": 3,
+        "345": 1,
+        "602": 3
+      },
+      "previous_id": 55,
+      "branches": [
+        57
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 57,
+    "kind": "long-sword",
+    "name": "Rompo Hacker III",
+    "description": "A serrated Rompopolo long\r\nsword laced with toxins that\r\nfacilitate simultaneous\r\nresection and poisoning.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 50,
+      "yellow": 100,
+      "green": 30,
+      "blue": 100,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "105": 1,
+        "343": 4,
+        "389": 3
+      },
+      "previous_id": 56,
+      "branches": [
+        58
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 58,
+    "kind": "long-sword",
+    "name": "Rompo Mytoxin",
+    "description": "An upgraded Rompo Hacker with\r\nimproved severing efficiency.\r\nThe more the prey struggles, the\r\nmore potent its venom becomes.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 100,
+      "green": 30,
+      "blue": 100,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "344": 3,
+        "659": 5
+      },
+      "previous_id": 57,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 59,
+    "kind": "long-sword",
+    "name": "Dosha Fatecleaver I",
+    "description": "A Doshaguma long sword that\r\nsprings with a howl from its\r\nscabbard at the first sight\r\nof an adversary.",
+    "rarity": 2,
+    "raw": 140,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "sharpness": {
+      "red": 30,
+      "orange": 90,
+      "yellow": 80,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "34": 3,
+        "35": 2,
+        "36": 1
+      },
+      "previous_id": 48,
+      "branches": [
+        60,
+        64,
+        67
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 60,
+    "kind": "long-sword",
+    "name": "Dosha Fatecleaver II",
+    "description": "A Doshaguma long sword that\r\nsprings with a howl from its\r\nscabbard at the first sight\r\nof an adversary.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "33": 3,
+        "392": 1,
+        "588": 1
+      },
+      "previous_id": 59,
+      "branches": [
+        61
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 61,
+    "kind": "long-sword",
+    "name": "Dosha Fatecleaver III",
+    "description": "A Doshaguma long sword that\r\nsprings with a howl from its\r\nscabbard at the first sight\r\nof an adversary.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 90,
+      "green": 60,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "319": 6,
+        "320": 4,
+        "321": 2
+      },
+      "previous_id": 60,
+      "branches": [
+        79
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 62,
+    "kind": "long-sword",
+    "name": "Blanberge I",
+    "description": "A Blangonga long sword with\r\na distinct rippled blade.\r\nOn the draw, it unleashes\r\na tsunami of amplified cold.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 100,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "538": 5,
+        "539": 4,
+        "541": 2,
+        "577": 4
+      },
+      "previous_id": null,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 63,
+    "kind": "long-sword",
+    "name": "Blangongaberge",
+    "description": "An upgraded Blanberge.\r\nOne flash of this icy blade\r\ncould sunder a fire god and\r\nfreeze him to the soul.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 100,
+      "green": 80,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "424": 1,
+        "537": 6,
+        "540": 4,
+        "660": 5
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 64,
+    "kind": "long-sword",
+    "name": "Dosha Gravecleaver I",
+    "description": "A Guardian Doshaguma long\r\nsword. To its defiers it shows\r\nno mercy, brutally returning\r\nthem to nature.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 70,
+      "yellow": 120,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "390": 3,
+        "392": 2,
+        "393": 1
+      },
+      "previous_id": 59,
+      "branches": [
+        65
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 65,
+    "kind": "long-sword",
+    "name": "Dosha Gravecleaver II",
+    "description": "A Guardian Doshaguma long\r\nsword. To its defiers it shows\r\nno mercy, brutally returning\r\nthem to nature.",
+    "rarity": 6,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 100,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "397": 6,
+        "398": 4,
+        "399": 2,
+        "608": 1
+      },
+      "previous_id": 64,
+      "branches": [
+        66
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 66,
+    "kind": "long-sword",
+    "name": "Gravecleaver Urkemush",
+    "description": "An upgraded Dosha Gravecleaver.\r\nIts destructive impulses\r\ntransform wielders into violence\r\nincarnate.",
+    "rarity": 8,
+    "raw": 250,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 90,
+      "green": 90,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "395": 6,
+        "660": 5,
+        "665": 6
+      },
+      "previous_id": 65,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 67,
+    "kind": "long-sword",
+    "name": "G. Veldian Ensis I",
+    "description": "A long sword made from Guardian\r\nspoils. When facing a wyvern,\r\nits hilt seems to nestle\r\ncloser in hand.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 59,
+      "branches": [
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 68,
+    "kind": "long-sword",
+    "name": "G. Veldian Ensis II",
+    "description": "A long sword made from Guardian\r\nspoils. When facing a wyvern,\r\nits hilt seems to nestle\r\ncloser in hand.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 60,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 67,
+      "branches": [
+        69,
+        70
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 69,
+    "kind": "long-sword",
+    "name": "G. Righteous Lancelot",
+    "description": "An upgraded G. Veldian Ensis.\r\nIt exists for the sake of others,\r\nits edge trained upon injustice.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 68,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 70,
+    "kind": "long-sword",
+    "name": "Veldian Ensis I",
+    "description": "An Arkveld long sword. A weapon\r\nlike this once hung at the side\r\nof a wyvern-hunting knight.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 90,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 32,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 68,
+      "branches": [
+        80
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 71,
+    "kind": "long-sword",
+    "name": "Artian Saber I",
+    "description": "A weapon assembled from\r\nunearthed fragments. The mass\r\nof matter at its core maintains\r\nits high sharpness.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 72,
+    "kind": "long-sword",
+    "name": "Artian Saber II",
+    "description": "A weapon assembled from\r\nunearthed fragments. The mass\r\nof matter at its core maintains\r\nits high sharpness.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 73,
+    "kind": "long-sword",
+    "name": "Dimensius",
+    "description": "An ancient weapon with latent\r\npotential. In its original\r\nform, its blade could part\r\nspace itself.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 74,
+    "kind": "long-sword",
+    "name": "Zoh Rafel I",
+    "description": "A Zoh Shia long sword with\r\na shroud that wards against\r\ndeath.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        75
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 75,
+    "kind": "long-sword",
+    "name": "Blazing Rafel",
+    "description": "Rafel harketh from on high:\r\nThou who seekest protection,\r\nmay thy swinging blade guard\r\nagainst even thy reincarnation.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 74,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 78,
+    "kind": "long-sword",
+    "name": "Esperanza Edge",
+    "description": "A fully field-tested Hope Edge.\r\nA hundred slashes cut a\r\nthousand walls, opening\r\na path to tomorrow.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 60,
+      "blue": 40,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 79,
+    "kind": "long-sword",
+    "name": "Fatecleaver Kimkemush",
+    "description": "An upgraded Dosha Fatecleaver.\r\nLike an angry, thirsty fang,\r\nit craves blood—anyone's,\r\neveryone's.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 110,
+      "green": 50,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "318": 6,
+        "660": 5
+      },
+      "previous_id": 61,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 80,
+    "kind": "long-sword",
+    "name": "Righteous Lancelot",
+    "description": "An upgraded Veldian Ensis.\r\nIts knight-wielder felled any who\r\nthreatened an ideal kingdom.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 70,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 81,
+    "kind": "long-sword",
+    "name": "Kakaru Kumo Naki I",
+    "description": "The katana of a samurai war\r\nhero. Beautiful and deadly\r\nin equal measure.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        82
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 82,
+    "kind": "long-sword",
+    "name": "Tamonowo",
+    "description": "The upgraded Kakaru Kumo\r\nNaki. Cuts life's threads with\r\ndecisiveness.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 81,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 86,
+    "kind": "long-sword",
+    "name": "Thunderclap I",
+    "description": "A Lagiacrus long sword crafted\r\nwith Eastern methods. Blue-\r\nwhite sparks run down its blade.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "30201": 1,
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        87
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 87,
+    "kind": "long-sword",
+    "name": "Heaven's Thunder",
+    "description": "An upgraded Thunderclap\r\nthat feels like wielding\r\na bolt of lightning straight\r\nfrom the heavens.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 70,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "30201": 1,
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 86,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 91,
+    "kind": "long-sword",
+    "name": "Headsman's Hamus",
+    "description": "As death swallows all, the\r\ncycle of rebirth shall be destroyed.\r\nThe screams of those now cut off\r\nshall be heard forever more.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 92,
+    "kind": "long-sword",
+    "name": "Headsman's Hamus",
+    "description": "As death swallows all, the\r\ncycle of rebirth shall be destroyed.\r\nThe screams of those now cut off\r\nshall be heard forever more.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 95,
+    "kind": "long-sword",
+    "name": "Scavenger Pickaxe",
+    "description": "A pickaxe-looking long sword\r\nfilled with the spirit of its\r\nore-crazy master. Mine away!",
+    "rarity": 7,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 40,
+      "yellow": 70,
+      "green": 100,
+      "blue": 90,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "28385": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "56": 10,
+        "542": 4,
+        "581": 1,
+        "769": 2
+      },
+      "previous_id": null,
+      "branches": [
+        96
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -547584512
+  },
+  {
+    "id": 96,
+    "kind": "long-sword",
+    "name": "Mad Scavenger Pickaxe",
+    "description": "A Scavenger Pickaxe tempered by\r\nthousands of swings. Entrust your\r\ndreams to the vein, and mine.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 30,
+      "yellow": 60,
+      "green": 90,
+      "blue": 100,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "28385": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "545": 1,
+        "582": 10,
+        "661": 5,
+        "769": 1
+      },
+      "previous_id": 95,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -547584512
+  },
+  {
+    "id": 99,
+    "kind": "long-sword",
+    "name": "Headsman's Hamus",
+    "description": "As death swallows all, the\r\ncycle of rebirth shall be destroyed.\r\nThe screams of those now cut off\r\nshall be heard forever more.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  }
+]

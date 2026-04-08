@@ -1,0 +1,4046 @@
+[
+  {
+    "id": 1,
+    "kind": "hunting-horn",
+    "name": "Hope Horn I",
+    "description": "A hunting horn made specifically\r\nfor the expedition. Its tunes\r\nproduce a variety of effects.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        65
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "hunting-horn",
+    "name": "Hope Horn II",
+    "description": "A hunting horn made specifically\r\nfor the expedition. Its tunes\r\nproduce a variety of effects.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 60,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        11,
+        18
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "hunting-horn",
+    "name": "Hope Horn III",
+    "description": "A hunting horn made specifically\r\nfor the expedition. Its tunes\r\nproduce a variety of effects.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        36
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "hunting-horn",
+    "name": "Hope Horn IV",
+    "description": "A hunting horn made specifically\r\nfor the expedition. Its tunes\r\nproduce a variety of effects.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 70,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "hunting-horn",
+    "name": "Hope Horn V",
+    "description": "A hunting horn made specifically\r\nfor the expedition. Its tunes\r\nproduce a variety of effects.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 80,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        73
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "hunting-horn",
+    "name": "Bone Horn I",
+    "description": "A hunting horn designed for\r\nnovices, but popular with\r\nmany hunters due to its solid\r\nperformance.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 60,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "1758661504": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        15,
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 7,
+    "kind": "hunting-horn",
+    "name": "Bone Horn II",
+    "description": "A hunting horn designed for\r\nnovices, but popular with many\r\nhunters due to its solid\r\nperformance.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 90,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1758661504": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 8,
+    "kind": "hunting-horn",
+    "name": "Bone Horn III",
+    "description": "A hunting horn designed for\r\nnovices, but popular with\r\nmany hunters due to its solid\r\nperformance.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 100,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 9,
+    "kind": "hunting-horn",
+    "name": "Bone Horn IV",
+    "description": "A hunting horn designed for\r\nnovices, but popular with\r\nmany hunters due to its solid\r\nperformance.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 80,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 8,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 10,
+    "kind": "hunting-horn",
+    "name": "Hardened Bone Horn",
+    "description": "Not only does this upgraded Bone\r\nHorn go bigger on the wham factor,\r\nbut it's easier to wield, too.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 70,
+      "green": 70,
+      "blue": 90,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 11,
+    "kind": "hunting-horn",
+    "name": "Metal Bagpipe I",
+    "description": "A metal hunting horn that delivers\r\nclear, sonorous tones and inspires\r\ncourage in all who hear it.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        12,
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 12,
+    "kind": "hunting-horn",
+    "name": "Metal Bagpipe II",
+    "description": "A metal hunting horn that delivers\r\nclear, sonorous tones and inspires\r\ncourage in all who hear it.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 60,
+      "yellow": 90,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 13,
+    "kind": "hunting-horn",
+    "name": "Metal Bagpipe III",
+    "description": "A metal hunting horn that delivers\r\nclear, sonorous tones and inspires\r\ncourage in all who hear it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 12,
+      "branches": [
+        14,
+        39
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 14,
+    "kind": "hunting-horn",
+    "name": "Great Bagpipe",
+    "description": "The precious ores in this upgraded\r\nMetal Bagpipe richen its tones,\r\nigniting the heart of every hunter.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 15,
+    "kind": "hunting-horn",
+    "name": "War Bongo I",
+    "description": "A Congalala drum and fife with a\r\nrousing timbre that reminds one of\r\nhappy tavern gatherings.",
+    "rarity": 2,
+    "raw": 110,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 50,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "504": 3,
+        "505": 2,
+        "506": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 16,
+    "kind": "hunting-horn",
+    "name": "War Bongo II",
+    "description": "A Congalala drum and fife with a\r\nrousing timbre that reminds one of\r\nhappy tavern gatherings.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 100,
+      "yellow": 60,
+      "green": 60,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "510": 5,
+        "511": 4,
+        "572": 2,
+        "585": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        17
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 17,
+    "kind": "hunting-horn",
+    "name": "War Conga",
+    "description": "An upgraded War Bongo.\r\nWithout missing a beat, it can end\r\nthe beating of foes' hearts.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 90,
+      "yellow": 60,
+      "green": 60,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 2,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "512": 2,
+        "659": 5
+      },
+      "previous_id": 16,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 18,
+    "kind": "hunting-horn",
+    "name": "Balahara Horn I",
+    "description": "A Balahara hunting horn that\r\nproduces sound by rotating its bell\r\nagainst an internal claw.",
+    "rarity": 2,
+    "raw": 110,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "81": 3,
+        "82": 1,
+        "595": 1
+      },
+      "previous_id": 2,
+      "branches": [
+        19,
+        26
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 19,
+    "kind": "hunting-horn",
+    "name": "Balahara Horn II",
+    "description": "A Balahara hunting horn that\r\nproduces sound by rotating its bell\r\nagainst an internal claw.",
+    "rarity": 4,
+    "raw": 150,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 30,
+      "yellow": 100,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "80": 2,
+        "83": 1,
+        "392": 1
+      },
+      "previous_id": 18,
+      "branches": [
+        20
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 20,
+    "kind": "hunting-horn",
+    "name": "Balahara Horn III",
+    "description": "A Balahara hunting horn that\r\nproduces sound by rotating its bell\r\nagainst an internal claw.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 23,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "314": 2,
+        "315": 2,
+        "596": 2,
+        "704": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        21
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 21,
+    "kind": "hunting-horn",
+    "name": "Balahara Horn IV",
+    "description": "A Balahara hunting horn that\r\nproduces sound by rotating its bell\r\nagainst an internal claw.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "313": 5,
+        "335": 3
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 22,
+    "kind": "hunting-horn",
+    "name": "Sandsea Ghantisil",
+    "description": "An enhanced Balahara Horn. Its\r\nhard tones echo across the sands,\r\nsending all creatures into a panic.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 100,
+      "green": 90,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "312": 6,
+        "334": 1,
+        "659": 5
+      },
+      "previous_id": 21,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 23,
+    "kind": "hunting-horn",
+    "name": "Dosha Farsounder I",
+    "description": "A Doshaguma drum and fife that\r\nasserts dominance and brutality\r\non all within hearing distance.",
+    "rarity": 2,
+    "raw": 140,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 70,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-893407296": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "34": 3,
+        "35": 2,
+        "36": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        24,
+        33,
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 24,
+    "kind": "hunting-horn",
+    "name": "Dosha Farsounder II",
+    "description": "A Doshaguma drum and fife that\r\nasserts dominance and brutality\r\non all within hearing distance.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 90,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "-893407296": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "33": 3,
+        "392": 1,
+        "588": 1
+      },
+      "previous_id": 23,
+      "branches": [
+        25
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 25,
+    "kind": "hunting-horn",
+    "name": "Dosha Farsounder III",
+    "description": "A Doshaguma drum and fife that\r\nasserts dominance and brutality\r\non all within hearing distance.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 90,
+      "yellow": 90,
+      "green": 50,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "319": 6,
+        "320": 4,
+        "321": 2
+      },
+      "previous_id": 24,
+      "branches": [
+        74
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 26,
+    "kind": "hunting-horn",
+    "name": "Rey Perun I",
+    "description": "A hunting horn imbued with\r\nRey Dau's thunder. Its anthems\r\nannounce the coming of a lord,\r\nand invoke fear.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 160,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "139": 3,
+        "141": 1,
+        "142": 2
+      },
+      "previous_id": 18,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 27,
+    "kind": "hunting-horn",
+    "name": "Rey Perun II",
+    "description": "A hunting horn imbued with\r\nRey Dau's thunder. Its anthems\r\nannounce the coming of a lord,\r\nand invoke fear.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 140,
+      "green": 100,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 23,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "104": 3,
+        "536": 2,
+        "579": 1
+      },
+      "previous_id": 26,
+      "branches": [
+        28
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 28,
+    "kind": "hunting-horn",
+    "name": "Rey Perun III",
+    "description": "A hunting horn imbued with\r\nRey Dau's thunder. Its anthems\r\nannounce the coming of a lord,\r\nand invoke fear.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 130,
+      "green": 80,
+      "blue": 80,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "143": 1,
+        "144": 1,
+        "350": 4,
+        "352": 3
+      },
+      "previous_id": 27,
+      "branches": [
+        29
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 29,
+    "kind": "hunting-horn",
+    "name": "Perun Clairhorn",
+    "description": "An upgraded Rey Perun. May it\r\nshake the world far and wide to\r\ndemonstrate its master's power\r\nand authority.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 120,
+      "green": 70,
+      "blue": 70,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "348": 6,
+        "349": 4,
+        "351": 1,
+        "661": 5
+      },
+      "previous_id": 28,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 30,
+    "kind": "hunting-horn",
+    "name": "Ajara Reverberator I",
+    "description": "An Ajarakan hunting horn that\r\nshakes the skies with searing\r\nvibrations, kindling the spirits\r\nof listeners.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 70,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "363": 3,
+        "365": 2,
+        "367": 1
+      },
+      "previous_id": 11,
+      "branches": [
+        31,
+        41
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 31,
+    "kind": "hunting-horn",
+    "name": "Ajara Reverberator II",
+    "description": "An Ajarakan hunting horn that\r\nshakes the skies with searing\r\nvibrations, kindling the spirits\r\nof listeners.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 90,
+      "green": 40,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "368": 1,
+        "372": 3,
+        "373": 2,
+        "375": 2
+      },
+      "previous_id": 30,
+      "branches": [
+        32
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 32,
+    "kind": "hunting-horn",
+    "name": "Ajara-Jivaka",
+    "description": "An Ajara Reverberator by its\r\ntrue name. Its player needs\r\nno words to inspire armies\r\nten thousand strong.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 50,
+      "green": 90,
+      "blue": 40,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "371": 6,
+        "374": 1,
+        "660": 5
+      },
+      "previous_id": 31,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 33,
+    "kind": "hunting-horn",
+    "name": "Dosha Grudgesounder I",
+    "description": "A Guardian Doshaguma hunting\r\nhorn. To its defiers it shows no\r\nmercy, clamorously returning them\r\nto nature.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 70,
+      "yellow": 120,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "390": 3,
+        "392": 2,
+        "393": 1
+      },
+      "previous_id": 23,
+      "branches": [
+        34
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 34,
+    "kind": "hunting-horn",
+    "name": "Dosha Grudgesounder II",
+    "description": "A Guardian Doshaguma hunting\r\nhorn. To its defiers it shows no\r\nmercy, clamorously returning them\r\nto nature.",
+    "rarity": 6,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 90,
+      "yellow": 110,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "397": 6,
+        "398": 4,
+        "399": 2,
+        "608": 1
+      },
+      "previous_id": 33,
+      "branches": [
+        35
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 35,
+    "kind": "hunting-horn",
+    "name": "Grudgesounder Urga",
+    "description": "An upgraded Dosha Grudgesounder.\r\nIts destructive impulses transform\r\nwielders into violence incarnate.",
+    "rarity": 8,
+    "raw": 250,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 80,
+      "yellow": 100,
+      "green": 70,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "395": 6,
+        "660": 5,
+        "665": 6
+      },
+      "previous_id": 34,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 36,
+    "kind": "hunting-horn",
+    "name": "Albirath Feroce I",
+    "description": "A Guardian Rathalos hunting\r\nhorn. Like a blazing fire, its\r\nwielder's spirit never abates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 70,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        37
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 37,
+    "kind": "hunting-horn",
+    "name": "Albirath Feroce II",
+    "description": "A Guardian Rathalos hunting\r\nhorn. Like a blazing fire, its\r\nwielder's spirit never abates.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 120,
+      "yellow": 50,
+      "green": 50,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 36,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 38,
+    "kind": "hunting-horn",
+    "name": "G. Rathalos Feroce",
+    "description": "An upgraded Albirath Feroce.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 150,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 37,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 39,
+    "kind": "hunting-horn",
+    "name": "Jin Dhaang I",
+    "description": "A Jin Dahaad hunting horn.\r\nThe evenly arranged materials\r\nproduce a cold, solemn timbre.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 50,
+      "green": 100,
+      "blue": 110,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 47,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "421": 4,
+        "422": 5,
+        "425": 1,
+        "707": 1
+      },
+      "previous_id": 13,
+      "branches": [
+        40
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 40,
+    "kind": "hunting-horn",
+    "name": "Precipice Kovira",
+    "description": "An upgraded Jin Dhaang.\r\nIts chilling tones freeze the air\r\nand announce an eternal winter.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 120,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "420": 4,
+        "423": 4,
+        "424": 1,
+        "661": 5
+      },
+      "previous_id": 39,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 41,
+    "kind": "hunting-horn",
+    "name": "Nihil Chord I",
+    "description": "A Xu Wu string instrument that\r\nproduces a timbre so lovely and\r\neldritch that it transcends music.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 60,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "440": 3,
+        "443": 2,
+        "444": 1
+      },
+      "previous_id": 30,
+      "branches": [
+        42
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 42,
+    "kind": "hunting-horn",
+    "name": "Nihil Chord II",
+    "description": "A Xu Wu string instrument that\r\nproduces a timbre so lovely and\r\neldritch that it transcends music.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 70,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "298": 2,
+        "445": 1,
+        "450": 6,
+        "451": 4
+      },
+      "previous_id": 41,
+      "branches": [
+        43
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 43,
+    "kind": "hunting-horn",
+    "name": "Kae-Jin's Lament",
+    "description": "An upgraded Nihil Chord—\r\nno mere instrument, but an\r\nimpostor waiting to devour\r\nthose it enchants.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 50,
+      "green": 50,
+      "blue": 60,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "448": 6,
+        "449": 4,
+        "452": 1,
+        "660": 5
+      },
+      "previous_id": 42,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 44,
+    "kind": "hunting-horn",
+    "name": "G. Veldian Sibilus I",
+    "description": "A hunting horn made from\r\nGuardian materials. Its song\r\nliberates the heart and\r\nfortifies one's will.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 23,
+      "branches": [
+        45
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 45,
+    "kind": "hunting-horn",
+    "name": "G. Veldian Sibilus II",
+    "description": "A hunting horn made from\r\nGuardian materials. Its song\r\nliberates the heart and\r\nfortifies one's will.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 44,
+      "branches": [
+        46,
+        64
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 46,
+    "kind": "hunting-horn",
+    "name": "G. Resounding Galahad",
+    "description": "An upgraded G. Veldian Sibilus.\r\nIt echoes finality into the abyss,\r\nmourning the imprisoned souls.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 80,
+      "yellow": 50,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 45,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 47,
+    "kind": "hunting-horn",
+    "name": "Kut-Ku's Song I",
+    "description": "Who knew Yian Kut-Ku possessed\r\na secret song as strange and\r\nstirring as this hunting horn's?",
+    "rarity": 5,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 100,
+      "yellow": 60,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 41,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "522": 5,
+        "524": 2,
+        "526": 3,
+        "527": 1
+      },
+      "previous_id": null,
+      "branches": [
+        48,
+        56
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 48,
+    "kind": "hunting-horn",
+    "name": "Kut-Ku's Song II",
+    "description": "Who knew Yian Kut-Ku possessed\r\na secret song as strange and\r\nstirring as this hunting horn's?",
+    "rarity": 7,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 120,
+      "yellow": 40,
+      "green": 70,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 47,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "389": 2,
+        "525": 4,
+        "534": 1,
+        "594": 4
+      },
+      "previous_id": 47,
+      "branches": [
+        49
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 49,
+    "kind": "hunting-horn",
+    "name": "Kut-Ku Cantabile",
+    "description": "The upgraded form of Kut-Ku's\r\nSong. Its odd tones and fiery\r\noutbursts are the talk of both\r\nfield and town.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 110,
+      "orange": 120,
+      "yellow": 30,
+      "green": 60,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "388": 1,
+        "523": 6,
+        "659": 5
+      },
+      "previous_id": 48,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 50,
+    "kind": "hunting-horn",
+    "name": "Poisoned Capri I",
+    "description": "A hunting horn made from\r\nGypceros parts; modeled after\r\nits unique beak and crest.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 110,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 31,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "529": 5,
+        "530": 3,
+        "531": 2,
+        "533": 1
+      },
+      "previous_id": null,
+      "branches": [
+        51
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 51,
+    "kind": "hunting-horn",
+    "name": "Poisoned Capri II",
+    "description": "A hunting horn made from\r\nGypceros parts; modeled after\r\nits unique beak and crest.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 80,
+      "green": 60,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 34,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "532": 4,
+        "547": 2,
+        "602": 4
+      },
+      "previous_id": 50,
+      "branches": [
+        52
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 52,
+    "kind": "hunting-horn",
+    "name": "Crazed Melody",
+    "description": "An upgraded Poisoned Capri that\r\norchestrates its prey's descent\r\ninto death with a hollow gaze.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 110,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 1,
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "529": 6,
+        "534": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 51,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 53,
+    "kind": "hunting-horn",
+    "name": "Valkyrie Chordmaker I",
+    "description": "A Rathian hunting horn...\r\nor is it a bell...maybe a fife?\r\nThe designer clearly had\r\na lot in mind.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 110,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        54,
+        60
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 54,
+    "kind": "hunting-horn",
+    "name": "Valkyrie Chordmaker II",
+    "description": "A Rathian hunting horn...\r\nor is it a bell...maybe a fife?\r\nThe designer clearly had\r\na lot in mind.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 40,
+      "green": 120,
+      "blue": 40,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 53,
+      "branches": [
+        55
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 55,
+    "kind": "hunting-horn",
+    "name": "Queen Chordmaker",
+    "description": "An upgraded Valkyrie Chordmaker.\r\nIts dulcet, regal song evokes the\r\nnew life of spring.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 30,
+      "green": 120,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 54,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 56,
+    "kind": "hunting-horn",
+    "name": "Deafening Fulgur I",
+    "description": "A Guardian Fulgur Anjanath\r\nhunting horn. Only one able\r\nto tame its brutality through\r\nreason can wield it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 100,
+      "yellow": 120,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 34,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 47,
+      "branches": [
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 57,
+    "kind": "hunting-horn",
+    "name": "Fulgurhowl Guardiana",
+    "description": "An upgraded Deafening Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 120,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 56,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 58,
+    "kind": "hunting-horn",
+    "name": "Vadya Muse I",
+    "description": "A hunting horn forged from\r\nSeregios claws. The melody it\r\ncreates drives its victims mad.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        59
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 59,
+    "kind": "hunting-horn",
+    "name": "Allysyl Muse",
+    "description": "The spirit of rebellion\r\nlives on in the enhanced\r\nform of the Vadya Muse.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 58,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 60,
+    "kind": "hunting-horn",
+    "name": "Flame Feroce I",
+    "description": "A hunting horn that joins\r\nRathalos bone and plating to\r\na wing membrane to produce\r\na fascinating sound.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 34,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 53,
+      "branches": [
+        61,
+        62
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 61,
+    "kind": "hunting-horn",
+    "name": "Rathalos Feroce",
+    "description": "The Flame Feroce's enhanced form—\r\na polished instrument that heralds\r\nthe victory of a future king.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 60,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 62,
+    "kind": "hunting-horn",
+    "name": "Kummerklang I",
+    "description": "A demonic Gore Magala hunting\r\nhorn. It's said that a single blow\r\nwould spell destruction for all\r\nin sight.",
+    "rarity": 7,
+    "raw": 170,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 70,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 60,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 63,
+    "kind": "hunting-horn",
+    "name": "Gramklang",
+    "description": "The Kummerklang's enhanced\r\nform. Its strains rid the world\r\nof hope and despair alike,\r\nleaving nothing.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 60,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 64,
+    "kind": "hunting-horn",
+    "name": "Veldian Sibilus I",
+    "description": "An Arkveld hunting horn. This\r\ntreasure was heaven's gift to\r\na knight who survived many\r\nordeals.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 100,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 37,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 2,
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 45,
+      "branches": [
+        75
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 65,
+    "kind": "hunting-horn",
+    "name": "Sonic Horn I",
+    "description": "The faint lamentations of queens\r\nturned into insects can be heard\r\nin this Vespoid horn's timbre.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 90,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1500129152": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "94": 2,
+        "573": 3,
+        "603": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        66
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1496386176
+  },
+  {
+    "id": 66,
+    "kind": "hunting-horn",
+    "name": "Sonic Horn II",
+    "description": "The faint lamentations of queens\r\nturned into insects can be heard\r\nin this Vespoid horn's timbre.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 90,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 1,
+      "1500129152": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "489": 2,
+        "498": 2,
+        "515": 1,
+        "575": 3
+      },
+      "previous_id": 65,
+      "branches": [
+        67
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1496386176
+  },
+  {
+    "id": 67,
+    "kind": "hunting-horn",
+    "name": "Sonic Horn III",
+    "description": "The faint lamentations of queens\r\nturned into insects can be heard\r\nin this Vespoid horn's timbre.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 80,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 31,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 1,
+      "1500129152": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "310": 2,
+        "488": 4,
+        "574": 5
+      },
+      "previous_id": 66,
+      "branches": [
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1496386176
+  },
+  {
+    "id": 68,
+    "kind": "hunting-horn",
+    "name": "Sonic Horn IV",
+    "description": "The faint lamentations of queens\r\nturned into insects can be heard\r\nin this Vespoid horn's timbre.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 90,
+      "green": 90,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      30,
+      20
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 37,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 1,
+      "1500129152": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "499": 4,
+        "604": 5,
+        "656": 3
+      },
+      "previous_id": 67,
+      "branches": [
+        69
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1496386176
+  },
+  {
+    "id": 69,
+    "kind": "hunting-horn",
+    "name": "Glass Royale",
+    "description": "Now deeper and richer in tone,\r\nthis Vespoid hunting horn plays\r\na paean to the lost queens.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 80,
+      "blue": 90,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 2,
+      "1500129152": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "490": 4,
+        "534": 1,
+        "576": 5,
+        "659": 5
+      },
+      "previous_id": 68,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1496386176
+  },
+  {
+    "id": 70,
+    "kind": "hunting-horn",
+    "name": "Artian Sounder I",
+    "description": "A device assembled from unearthed\r\nfragments. Intriguingly, it features\r\na complex amplifying mechanism.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 71,
+    "kind": "hunting-horn",
+    "name": "Artian Sounder II",
+    "description": "A device assembled from unearthed\r\nfragments. Intriguingly, it features\r\na complex amplifying mechanism.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 72,
+    "kind": "hunting-horn",
+    "name": "Omiltika",
+    "description": "An ancient device with latent\r\npotential. At full bellow, it\r\nsings of the civilization it lost.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 73,
+    "kind": "hunting-horn",
+    "name": "Esperanza Horn",
+    "description": "A fully field-tested Hope Horn.\r\nIts inspiring tones restore courage\r\nand destroy all despair.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 60,
+      "blue": 40,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 74,
+    "kind": "hunting-horn",
+    "name": "Farsounder Honga",
+    "description": "An upgraded Dosha Farsounder,\r\nnow just a savage roar that\r\ndestroys courage and demands\r\nsurrender.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 120,
+      "green": 50,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1237438336": 1,
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "318": 6,
+        "660": 5
+      },
+      "previous_id": 25,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 75,
+    "kind": "hunting-horn",
+    "name": "Resounding Galahad",
+    "description": "An upgraded Veldian Sibilus.\r\nEver a servant of the people,\r\nits knight was sainted and\r\nbecame legend.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 90,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1237438336": 2,
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 64,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 76,
+    "kind": "hunting-horn",
+    "name": "Zoh Gariel I",
+    "description": "A Zoh Shia hunting horn with\r\na resounding judgment cry that\r\nbeckons in the second coming.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 100,
+      "green": 40,
+      "blue": 50,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        77
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 77,
+    "kind": "hunting-horn",
+    "name": "Blazing Gariel",
+    "description": "Gariel harketh from on high:\r\nThou who seekest judgment,\r\nmay the melody of this horn\r\nproclaim the cessation of all.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 100,
+      "green": 40,
+      "blue": 30,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 76,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 79,
+    "kind": "hunting-horn",
+    "name": "Poetic Bell I",
+    "description": "An elegant bell left by a\r\nfamous military strategist.\r\nIts clear tone brings death.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        80
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 80,
+    "kind": "hunting-horn",
+    "name": "Summoning Bell",
+    "description": "An enhanced Poetic Bell.\r\nIts elegant sound cleanses\r\nsouls before their crossing.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 79,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 83,
+    "kind": "hunting-horn",
+    "name": "Lagia Horn I",
+    "description": "A hunting horn modeled after a\r\nLagiacrus. Its thunder summons\r\nstorms across the seven seas.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        84
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 84,
+    "kind": "hunting-horn",
+    "name": "Lagia Thunderpeal",
+    "description": "A painstakingly improved Lagia\r\nHorn. It brings rough seas as\r\nthunder echoes across the land.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 60,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 45,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 83,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 86,
+    "kind": "hunting-horn",
+    "name": "Onyx Choros",
+    "description": "A grotesque melody that thirsts\r\nfor potential, tormenting its host\r\nwith no coda ever to come.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 87,
+    "kind": "hunting-horn",
+    "name": "Onyx Choros",
+    "description": "A grotesque melody that thirsts\r\nfor potential, tormenting its host\r\nwith no coda ever to come.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 88,
+    "kind": "hunting-horn",
+    "name": "Onyx Choros",
+    "description": "A grotesque melody that thirsts\r\nfor potential, tormenting its host\r\nwith no coda ever to come.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  }
+]

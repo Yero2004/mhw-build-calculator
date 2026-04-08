@@ -1,0 +1,4587 @@
+[
+  {
+    "id": 1,
+    "kind": "sword-shield",
+    "name": "Hope Sword I",
+    "description": "A sword & shield made specifically\r\nfor the expedition. Allows a hunter\r\nto unleash attacks without pause.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 40,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        19,
+        64
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "sword-shield",
+    "name": "Hope Sword II",
+    "description": "A sword & shield made specifically\r\nfor the expedition. Allows a hunter\r\nto unleash attacks without pause.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 40,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        26,
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "sword-shield",
+    "name": "Hope Sword III",
+    "description": "A sword & shield made specifically\r\nfor the expedition. Allows a hunter\r\nto unleash attacks without pause.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        32
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "sword-shield",
+    "name": "Hope Sword IV",
+    "description": "A sword & shield made specifically\r\nfor the expedition. Allows a hunter\r\nto unleash attacks without pause.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "sword-shield",
+    "name": "Hope Sword V",
+    "description": "A sword & shield made specifically\r\nfor the expedition. Allows a hunter\r\nto unleash attacks without pause.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 70,
+      "blue": 60,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        82
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "sword-shield",
+    "name": "Rey Kuara I",
+    "description": "A sword & shield imbued with\r\nRey Dau's thunder that disintegrates\r\nmatter with each galvanic swing.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 140,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "139": 3,
+        "141": 1,
+        "142": 2
+      },
+      "previous_id": 44,
+      "branches": [
+        7
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 7,
+    "kind": "sword-shield",
+    "name": "Rey Kuara II",
+    "description": "A sword & shield imbued with\r\nRey Dau's thunder that disintegrates\r\nmatter with each galvanic swing.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 120,
+      "green": 100,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "104": 3,
+        "536": 2,
+        "579": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 8,
+    "kind": "sword-shield",
+    "name": "Rey Kuara III",
+    "description": "A sword & shield imbued with Rey\r\nDau's thunder that disintegrates\r\nmatter with each galvanic swing.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 110,
+      "green": 80,
+      "blue": 80,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "143": 1,
+        "144": 1,
+        "350": 4,
+        "352": 3
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 9,
+    "kind": "sword-shield",
+    "name": "Kuara Clairsword",
+    "description": "An upgraded Rey Kuara. With each\r\nflash of the blade, it announces\r\nitself in a scream of lightning.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 100,
+      "green": 70,
+      "blue": 70,
+      "white": 90,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "348": 6,
+        "349": 4,
+        "351": 1,
+        "661": 5
+      },
+      "previous_id": 8,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 10,
+    "kind": "sword-shield",
+    "name": "Naab Sword I",
+    "description": "A sword & shield created\r\nfrom Seregios scales.\r\nIts spiked blade penetrates\r\ndeep into flesh.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        11
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 11,
+    "kind": "sword-shield",
+    "name": "Feral Fangs",
+    "description": "Those that wield this enhanced\r\nNaab Sword lead revolutions to\r\nvictory.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 10,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 12,
+    "kind": "sword-shield",
+    "name": "Sucher-Ankh I",
+    "description": "An ebon Gore Magala sword\r\n& shield. Gazing into its\r\nopen eye is to glimpse the\r\nmaw of the netherworld.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 80,
+      "green": 60,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 35,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 13,
+    "kind": "sword-shield",
+    "name": "Jäger-Ankh",
+    "description": "An upgraded Sucher-Ankh.\r\nIts gaze compels the weak to fling\r\nthemselves into the abyss.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 90,
+      "green": 50,
+      "blue": 30,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 12,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 14,
+    "kind": "sword-shield",
+    "name": "Barina Dague I",
+    "description": "A sword & shield with a paralytic\r\nedge. Prey is easily cornered\r\nwith its graceful, yet\r\nrelentless attacks.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 40,
+      "yellow": 40,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 49,
+      "branches": [
+        15,
+        40
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 15,
+    "kind": "sword-shield",
+    "name": "Barina Dague II",
+    "description": "A sword & shield with a paralytic\r\nedge. Prey is easily cornered\r\nwith its graceful, yet\r\nrelentless attacks.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 2,
+        "515": 1
+      },
+      "previous_id": 14,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 16,
+    "kind": "sword-shield",
+    "name": "Barina Dague III",
+    "description": "A sword & shield with a paralytic\r\nedge. Prey is easily cornered\r\nwith its graceful, yet\r\nrelentless attacks.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 100,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 15,
+      "branches": [
+        17
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 17,
+    "kind": "sword-shield",
+    "name": "Barina Dague IV",
+    "description": "A sword & shield with a paralytic\r\nedge. Prey is easily cornered\r\nwith its graceful, yet\r\nrelentless attacks.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 18,
+    "kind": "sword-shield",
+    "name": "Lala Acanthopelm",
+    "description": "An upgraded Barina Dague.\r\nAllured by its dance, audiences\r\nabandon their freedom and\r\nembrace demise.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 110,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 17,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 19,
+    "kind": "sword-shield",
+    "name": "Quematrice Cuchillo I",
+    "description": "A Quematrice sword & shield\r\nwith a replaceable blade—useful\r\nwhen repeated ignitions mar its\r\nsurface.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "88": 3,
+        "90": 1,
+        "299": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        20
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 20,
+    "kind": "sword-shield",
+    "name": "Quematrice Cuchillo II",
+    "description": "A Quematrice sword & shield\r\nwith a replaceable blade—useful\r\nwhen repeated ignitions mar its\r\nsurface.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 50,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "55": 1,
+        "91": 1,
+        "580": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 21,
+    "kind": "sword-shield",
+    "name": "Quematrice Cuchillo III",
+    "description": "A Quematrice sword & shield\r\nwith a replaceable blade—useful\r\nwhen repeated ignitions mar its\r\nsurface.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 70,
+      "green": 50,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "303": 5,
+        "304": 3,
+        "305": 2
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 22,
+    "kind": "sword-shield",
+    "name": "Quematrice Cuchillo IV",
+    "description": "A Quematrice sword & shield\r\nwith a replaceable blade—useful\r\nwhen repeated ignitions mar its\r\nsurface.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 70,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "302": 6,
+        "389": 3,
+        "594": 5
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 23,
+    "kind": "sword-shield",
+    "name": "Firetrail Fornax",
+    "description": "An upgraded Quematrice Cuchillo.\r\nOwners got what they asked for:\r\nhotter flurries, toastier carnage.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 70,
+      "green": 80,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "301": 6,
+        "388": 1,
+        "659": 5
+      },
+      "previous_id": 22,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 24,
+    "kind": "sword-shield",
+    "name": "Gravios Syphos I",
+    "description": "A sword with blast properties.\r\nHulking and white with rage,\r\nit looks like something out of\r\na volcano.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 70,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      30,
+      20
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "543": 3,
+        "544": 4,
+        "546": 5,
+        "547": 2
+      },
+      "previous_id": null,
+      "branches": [
+        25
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 25,
+    "kind": "sword-shield",
+    "name": "Titan's Armament",
+    "description": "An upgraded Gravios Syphos. Each\r\nstrike yields a blast, and the heavy\r\nshield affords absolute defense.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 70,
+      "yellow": 70,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "542": 6,
+        "545": 1,
+        "660": 5
+      },
+      "previous_id": 24,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 26,
+    "kind": "sword-shield",
+    "name": "Iron Beater I",
+    "description": "An iron sword & shield created by\r\na young artisan. Crude—but like\r\nits maker, it shows much promise.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 20,
+      "orange": 40,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 27,
+    "kind": "sword-shield",
+    "name": "Iron Beater II",
+    "description": "An iron sword & shield created by\r\na young artisan. Crude—but like\r\nits maker, it shows much promise.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 60,
+      "yellow": 90,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 26,
+      "branches": [
+        28
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 28,
+    "kind": "sword-shield",
+    "name": "Iron Beater III",
+    "description": "An iron sword & shield created by\r\na young artisan. Crude—but like\r\nits maker, it shows much promise.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 27,
+      "branches": [
+        29,
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 29,
+    "kind": "sword-shield",
+    "name": "Smithy's Pride",
+    "description": "With a few flourishes at the\r\nforge, the crude Iron Beater\r\nhas, like its maker, revealed\r\nstunning potential.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 28,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 30,
+    "kind": "sword-shield",
+    "name": "Jin Dhaklab I",
+    "description": "A Jin Dahaad sword & shield.\r\nLayering blades to hone their frigid\r\nbite yielded this unusual shape.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 30,
+      "green": 100,
+      "blue": 110,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 32,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "421": 4,
+        "422": 5,
+        "425": 1,
+        "707": 1
+      },
+      "previous_id": 28,
+      "branches": [
+        31
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 31,
+    "kind": "sword-shield",
+    "name": "Precipice Mateptro",
+    "description": "An upgraded Jin Dhaklab. Its blade\r\nbanishes all warmth, leaving only\r\nbitter cold that no life can endure.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 20,
+      "green": 80,
+      "blue": 120,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "420": 4,
+        "423": 4,
+        "424": 1,
+        "661": 5
+      },
+      "previous_id": 30,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 32,
+    "kind": "sword-shield",
+    "name": "Albirath Edge I",
+    "description": "A Guardian Rathalos sword & shield.\r\nLike a blazing fire, their wielder's\r\nspirit never abates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 60,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        33
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 33,
+    "kind": "sword-shield",
+    "name": "Albirath Edge II",
+    "description": "A Guardian Rathalos sword & shield.\r\nLike a blazing fire, their wielder's\r\nspirit never abates.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 50,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 32,
+      "branches": [
+        34
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 34,
+    "kind": "sword-shield",
+    "name": "Melting Point",
+    "description": "An upgraded Albirath Edge.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 130,
+      "yellow": 50,
+      "green": 50,
+      "blue": 40,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 33,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 35,
+    "kind": "sword-shield",
+    "name": "Heat Edge I",
+    "description": "A Rathalos sword & shield.\r\nThe red of its blade, aglow with\r\nthe wyvern's fire, never goes dull.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 40,
+      "green": 30,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 37,
+      "branches": [
+        12,
+        36
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 36,
+    "kind": "sword-shield",
+    "name": "Corona",
+    "description": "The Heat Edge's enhanced form, a\r\nwork that harnesses every bit of the\r\nmaterials' latent incendiary power.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 35,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 37,
+    "kind": "sword-shield",
+    "name": "Princess Rapier I",
+    "description": "Reassuringly efficient, this\r\nRathian weapon is the latest\r\nin poison-based sword & shield\r\nweaponry.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 90,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        35,
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 38,
+    "kind": "sword-shield",
+    "name": "Princess Rapier II",
+    "description": "Reassuringly efficient, this\r\nRathian weapon is the latest\r\nin poison-based sword & shield\r\nweaponry.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 40,
+      "green": 110,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 37,
+      "branches": [
+        39
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 39,
+    "kind": "sword-shield",
+    "name": "Queen Rapier",
+    "description": "The Princess Rapier's upgraded\r\nform. One strike from it is\r\nenough to bend the knees and\r\nwills of defiers.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 30,
+      "green": 100,
+      "blue": 30,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 38,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 40,
+    "kind": "sword-shield",
+    "name": "Scaly Sword I",
+    "description": "A finely carved Nerscylla claw\r\ngives this sword & shield's\r\nsheet-thin blade surprising\r\ndurability and bite.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "513": 3,
+        "515": 2,
+        "605": 1
+      },
+      "previous_id": 14,
+      "branches": [
+        41,
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 41,
+    "kind": "sword-shield",
+    "name": "Scaly Sword II",
+    "description": "A finely carved Nerscylla claw\r\ngives this sword & shield's\r\nsheet-thin blade surprising\r\ndurability and bite.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 100,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "521": 1,
+        "606": 3
+      },
+      "previous_id": 40,
+      "branches": [
+        42
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 42,
+    "kind": "sword-shield",
+    "name": "Scaly Sword III",
+    "description": "A finely carved Nerscylla claw\r\ngives this sword & shield's\r\nsheet-thin blade surprising\r\ndurability and bite.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "425": 3,
+        "480": 2,
+        "490": 3,
+        "520": 5
+      },
+      "previous_id": 41,
+      "branches": [
+        43
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 43,
+    "kind": "sword-shield",
+    "name": "Nerskiller",
+    "description": "An upgraded Scaly Sword.\r\nThe pliant blade finds cracks\r\nin wyvern armor and cuts to\r\nthe flesh.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 110,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 42,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 44,
+    "kind": "sword-shield",
+    "name": "Balahara Blade I",
+    "description": "A Balahara sword & shield with\r\na hardened edge designed to\r\neffectively hack away at targets.",
+    "rarity": 2,
+    "raw": 110,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "81": 3,
+        "82": 1,
+        "595": 1
+      },
+      "previous_id": 2,
+      "branches": [
+        6,
+        45
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 45,
+    "kind": "sword-shield",
+    "name": "Balahara Blade II",
+    "description": "A Balahara sword & shield with\r\na hardened edge designed to\r\neffectively hack away at targets.",
+    "rarity": 4,
+    "raw": 150,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 100,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "80": 2,
+        "83": 1,
+        "392": 1
+      },
+      "previous_id": 44,
+      "branches": [
+        46
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 46,
+    "kind": "sword-shield",
+    "name": "Balahara Blade III",
+    "description": "A Balahara sword & shield with\r\na hardened edge designed to\r\neffectively hack away at targets.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "314": 2,
+        "315": 2,
+        "596": 2,
+        "704": 1
+      },
+      "previous_id": 45,
+      "branches": [
+        47
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 47,
+    "kind": "sword-shield",
+    "name": "Balahara Blade IV",
+    "description": "A Balahara sword & shield with\r\na hardened edge designed to\r\neffectively hack away at targets.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "313": 5,
+        "335": 3
+      },
+      "previous_id": 46,
+      "branches": [
+        48
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 48,
+    "kind": "sword-shield",
+    "name": "Sandsea Katduva",
+    "description": "An upgraded Balahara Blade.\r\nWhen crossing the sands,\r\nwarriors live and die by\r\ntheir choice of weapon.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 100,
+      "green": 80,
+      "blue": 70,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "312": 6,
+        "334": 1,
+        "659": 5
+      },
+      "previous_id": 47,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 49,
+    "kind": "sword-shield",
+    "name": "Bone Kukri I",
+    "description": "An affordable sword & shield.\r\nSimplicity and reliable\r\nperformance make this a\r\nfine pick for beginners.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "1758661504": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        14,
+        50
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 50,
+    "kind": "sword-shield",
+    "name": "Bone Kukri II",
+    "description": "An affordable sword & shield.\r\nSimplicity and reliable\r\nperformance make this a\r\nfine pick for beginners.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 40,
+      "yellow": 110,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1758661504": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 49,
+      "branches": [
+        51,
+        59
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 51,
+    "kind": "sword-shield",
+    "name": "Bone Kukri III",
+    "description": "An affordable sword & shield.\r\nSimplicity and reliable\r\nperformance make this a\r\nfine pick for beginners.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 100,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 50,
+      "branches": [
+        52
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 52,
+    "kind": "sword-shield",
+    "name": "Bone Kukri IV",
+    "description": "An affordable sword & shield.\r\nSimplicity and reliable\r\nperformance make this a\r\nfine pick for beginners.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 51,
+      "branches": [
+        53
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 53,
+    "kind": "sword-shield",
+    "name": "Chief Kukri",
+    "description": "An enhanced Bone Kukri. It's\r\nbuilt to withstand extended\r\ncombat, and is notably easy\r\nto find materials for.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 70,
+      "blue": 110,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 52,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 54,
+    "kind": "sword-shield",
+    "name": "Rending Fulgur I",
+    "description": "A Guardian Fulgur Anjanath sword\r\n& shield. Only one able to tame\r\nits brutality through reason can\r\nwield it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 100,
+      "yellow": 100,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 56,
+      "branches": [
+        55
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 55,
+    "kind": "sword-shield",
+    "name": "Fulgursword Guardiana",
+    "description": "An upgraded Rending Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 120,
+      "green": 40,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 54,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 56,
+    "kind": "sword-shield",
+    "name": "Venom's Pain I",
+    "description": "A unique sword & shield that\r\nuses the toxigenic organ of\r\na Gypceros to continually\r\ncoat the blade.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 90,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "529": 5,
+        "530": 3,
+        "531": 2,
+        "533": 1
+      },
+      "previous_id": null,
+      "branches": [
+        54,
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 57,
+    "kind": "sword-shield",
+    "name": "Venom's Pain II",
+    "description": "A unique sword & shield that\r\nuses the toxigenic organ of\r\na Gypceros to continually\r\ncoat the blade.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 60,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "532": 4,
+        "547": 2,
+        "602": 4
+      },
+      "previous_id": 56,
+      "branches": [
+        58
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 58,
+    "kind": "sword-shield",
+    "name": "Viperine Saber",
+    "description": "An upgraded Venom's Pain that\r\nintegrates more toxigenic\r\nmaterials to inflict maximum\r\nagony on prey.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 90,
+      "green": 60,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "529": 6,
+        "534": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 57,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 59,
+    "kind": "sword-shield",
+    "name": "Ajara Saber I",
+    "description": "An Ajarakan sword & shield,\r\ndesigned to envelop the hands and\r\nprotect against fiery blowback.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "363": 3,
+        "365": 2,
+        "367": 1
+      },
+      "previous_id": 50,
+      "branches": [
+        60
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 60,
+    "kind": "sword-shield",
+    "name": "Ajara Saber II",
+    "description": "An Ajarakan sword & shield,\r\ndesigned to envelop the hands and\r\nprotect against fiery blowback.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 90,
+      "green": 40,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "368": 1,
+        "372": 3,
+        "373": 2,
+        "375": 2
+      },
+      "previous_id": 59,
+      "branches": [
+        61
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 61,
+    "kind": "sword-shield",
+    "name": "Ajara-Subinda",
+    "description": "An upgraded Ajara Saber. It packs\r\nenough heat now to make the air\r\nshimmer and the earth blacken.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 90,
+      "blue": 40,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "371": 6,
+        "374": 1,
+        "660": 5
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 62,
+    "kind": "sword-shield",
+    "name": "Snow-white Jambiya I",
+    "description": "A Blangonga sword & shield.\r\nIts shape and thin coating of\r\nfrost make it quick on the draw.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 90,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "538": 5,
+        "539": 4,
+        "541": 2,
+        "577": 4
+      },
+      "previous_id": null,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 63,
+    "kind": "sword-shield",
+    "name": "Snow Lion Jambiya",
+    "description": "An upgraded Snow-white Jambiya.\r\nShow it the proper respect, and its\r\nice will be yours to control.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 90,
+      "green": 80,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "424": 1,
+        "537": 6,
+        "540": 4,
+        "660": 5
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 64,
+    "kind": "sword-shield",
+    "name": "Chata Club I",
+    "description": "A cudgel-like sword & shield that\r\nuses the hard parts of a Chatacabra.\r\nHandles well on offense and defense.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 10,
+      "yellow": 110,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "84": 1,
+        "85": 2,
+        "87": 3
+      },
+      "previous_id": 1,
+      "branches": [
+        65
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 65,
+    "kind": "sword-shield",
+    "name": "Chata Club II",
+    "description": "A cudgel-like sword & shield that\r\nuses the hard parts of a Chatacabra.\r\nHandles well on offense and defense.",
+    "rarity": 3,
+    "raw": 150,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "sharpness": {
+      "red": 80,
+      "orange": 10,
+      "yellow": 120,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "86": 2,
+        "337": 1
+      },
+      "previous_id": 64,
+      "branches": [
+        66,
+        71
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 66,
+    "kind": "sword-shield",
+    "name": "Chata Club III",
+    "description": "A cudgel-like sword & shield that\r\nuses the hard parts of a Chatacabra.\r\nHandles well on offense and defense.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 20,
+      "yellow": 110,
+      "green": 80,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "293": 5,
+        "294": 3,
+        "297": 2
+      },
+      "previous_id": 65,
+      "branches": [
+        67
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 67,
+    "kind": "sword-shield",
+    "name": "Chata Club IV",
+    "description": "A cudgel-like sword & shield that\r\nuses the hard parts of a Chatacabra.\r\nHandles well on offense and defense.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 10,
+      "yellow": 110,
+      "green": 110,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1674114176": 1,
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "98": 6,
+        "296": 6,
+        "335": 3
+      },
+      "previous_id": 66,
+      "branches": [
+        83
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 68,
+    "kind": "sword-shield",
+    "name": "Nihil Sword I",
+    "description": "A Xu Wu sword & shield with a\r\npeculiar shape. Long ago, assassins\r\nswore by such a weapon.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 40,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "440": 3,
+        "443": 2,
+        "444": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        69
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 69,
+    "kind": "sword-shield",
+    "name": "Nihil Sword II",
+    "description": "A Xu Wu sword & shield with a\r\npeculiar shape. Long ago, assassins\r\nswore by such a weapon.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 50,
+      "green": 60,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "298": 2,
+        "445": 1,
+        "450": 6,
+        "451": 4
+      },
+      "previous_id": 68,
+      "branches": [
+        70
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 70,
+    "kind": "sword-shield",
+    "name": "Cordayle's Revocation",
+    "description": "An upgraded Nihil Sword. If you\r\nsense its ominous edge trained on\r\nyou, you are already too late.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 50,
+      "green": 50,
+      "blue": 40,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "448": 6,
+        "449": 4,
+        "452": 1,
+        "660": 5
+      },
+      "previous_id": 69,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 71,
+    "kind": "sword-shield",
+    "name": "G. Veldian Mucro I",
+    "description": "A sword & shield made from\r\nGuardian spoils. When raised,\r\nthey quicken the pulse and grant\r\na surge of power.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 80,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 65,
+      "branches": [
+        72
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 72,
+    "kind": "sword-shield",
+    "name": "G. Veldian Mucro II",
+    "description": "A sword & shield made from\r\nGuardian spoils. When raised,\r\nthey quicken the pulse and grant\r\na surge of power.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 60,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 71,
+      "branches": [
+        73,
+        74
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 73,
+    "kind": "sword-shield",
+    "name": "G. Guiding Artorius",
+    "description": "An upgraded G. Veldian Mucro.\r\nEven alone, the victory of this\r\nshield and sword is assured.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 72,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 74,
+    "kind": "sword-shield",
+    "name": "Veldian Mucro I",
+    "description": "An Arkveld sword & shield. In\r\ndays of yore, a knight used\r\ntheir peerless might to lead\r\na kingdom.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 70,
+      "blue": 40,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 72,
+      "branches": [
+        84
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 75,
+    "kind": "sword-shield",
+    "name": "Artian Sword I",
+    "description": "A weapon assembled from\r\nunearthed fragments. The\r\nsword & shield self-deploy\r\nupon sensing danger.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 76,
+    "kind": "sword-shield",
+    "name": "Artian Sword II",
+    "description": "A weapon assembled from\r\nunearthed fragments. The\r\nsword & shield self-deploy\r\nupon sensing danger.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 77,
+    "kind": "sword-shield",
+    "name": "Verdoloto",
+    "description": "An ancient weapon with latent\r\npotential. The truths of its\r\netchings are revealed only to\r\nthe restorer.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 78,
+    "kind": "sword-shield",
+    "name": "Zoh Mikal I",
+    "description": "A Zoh Shia sword & shield that\r\ncrowns its virtuous champion\r\nand leads them to the beyond.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        79
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 79,
+    "kind": "sword-shield",
+    "name": "Blazing Mikal",
+    "description": "Mikal harketh from on high:\r\nThou who seekest victory,\r\nmay thine upheld blade\r\naccompany thee eternal.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 30,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 78,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 82,
+    "kind": "sword-shield",
+    "name": "Esperanza Sword",
+    "description": "A fully field-tested Hope Sword.\r\nIt exists for one purpose: to smite\r\ndespair and reclaim tomorrow.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 60,
+      "blue": 40,
+      "white": 90,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 83,
+    "kind": "sword-shield",
+    "name": "Shrouded Katalo",
+    "description": "An upgraded Chata Club with\r\nimproved sharpness and solidity\r\nthat dismantles anything it strikes.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 10,
+      "yellow": 100,
+      "green": 90,
+      "blue": 90,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1674114176": 1,
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "295": 6,
+        "659": 5
+      },
+      "previous_id": 67,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 84,
+    "kind": "sword-shield",
+    "name": "Guiding Artorius",
+    "description": "An upgraded Veldian Mucro.\r\nKnown as the holy sword of\r\nkings, this mighty weapon\r\nselects its own wielder.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 60,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 74,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 85,
+    "kind": "sword-shield",
+    "name": "Hana no Nagoriwo I",
+    "description": "Elegant fans carried by\r\nsamurai with unbreakable\r\nloyalty to their lords.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        86
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 86,
+    "kind": "sword-shield",
+    "name": "Kurenawi Ougi",
+    "description": "Any and all life scatters\r\nto the wind with the Hana\r\nno Nagoriwo's upgrade.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 60,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 23,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 85,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 87,
+    "kind": "sword-shield",
+    "name": "Mining Pickaxe",
+    "description": "A pickaxe as a sword and a hunk of\r\nore as a shield. This miner's pick is\r\na reflection of a soul devoted to\r\nexcavation.",
+    "rarity": 7,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 40,
+      "yellow": 70,
+      "green": 100,
+      "blue": 80,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "28385": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "56": 10,
+        "542": 4,
+        "581": 1,
+        "769": 2
+      },
+      "previous_id": null,
+      "branches": [
+        88
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -547584512
+  },
+  {
+    "id": 88,
+    "kind": "sword-shield",
+    "name": "Digmore War Pick",
+    "description": "An upgraded Mining Pickaxe born\r\nfrom an abnormal obsession with\r\nore veins. If you're not mining, are\r\nyou even truly alive?",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 30,
+      "yellow": 60,
+      "green": 90,
+      "blue": 90,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "28385": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "545": 1,
+        "582": 10,
+        "661": 5,
+        "769": 1
+      },
+      "previous_id": 87,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -547584512
+  },
+  {
+    "id": 89,
+    "kind": "sword-shield",
+    "name": "Omega's Sword",
+    "description": "A sword & shield modeled after\r\na certain autonomous weapon.\r\nAnnihilates all threats.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 25,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 70,
+      "green": 30,
+      "blue": 80,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1674114176": 3,
+      "7506": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "737": 1,
+        "738": 8,
+        "740": 6,
+        "744": 1
+      },
+      "previous_id": null,
+      "branches": [
+        92
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -765803328
+  },
+  {
+    "id": 90,
+    "kind": "sword-shield",
+    "name": "Lagia Sword I",
+    "description": "A sword & shield imbued with\r\nthe Lagiacrus's power. Through\r\nits blade flows lightning\r\nthat multiplies the pain.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        91
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 91,
+    "kind": "sword-shield",
+    "name": "High Lagia Sword",
+    "description": "An upgraded Lagia Sword.\r\nIt harnesses the power of the\r\nstorm with every strike.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 60,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 90,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 92,
+    "kind": "sword-shield",
+    "name": "True Omega's Sword",
+    "description": "Omega's Sword, after having\r\nevolved through combat.\r\nExterminates everything in\r\nits path.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 10,
+    "defense": 25,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 60,
+      "green": 20,
+      "blue": 80,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1674114176": 3,
+      "7506": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "739": 7,
+        "741": 5,
+        "743": 5,
+        "745": 1
+      },
+      "previous_id": 89,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -765803328
+  },
+  {
+    "id": 93,
+    "kind": "sword-shield",
+    "name": "Catspaw",
+    "description": "The go-to thief's tool for naughty\r\nLynians. The adorable pawprint\r\nattracts other buyers, too.",
+    "rarity": 7,
+    "raw": 220,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 70,
+      "green": 100,
+      "blue": 100,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "30554": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "317": 5,
+        "319": 4,
+        "604": 5,
+        "802": 2
+      },
+      "previous_id": null,
+      "branches": [
+        94
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 859479296
+  },
+  {
+    "id": 94,
+    "kind": "sword-shield",
+    "name": "Catburglar",
+    "description": "The Catspaw's final form.\r\n\"Meow, meow meow meow.\"\r\n-A famed Melynx",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 20,
+      "yellow": 60,
+      "green": 100,
+      "blue": 130,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "30554": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "308": 4,
+        "661": 5,
+        "802": 1
+      },
+      "previous_id": 93,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 859479296
+  },
+  {
+    "id": 95,
+    "kind": "sword-shield",
+    "name": "Kyrie Verd",
+    "description": "As despair swallows all,\r\nyour trampled compassion\r\nshall be your shield as you\r\ndiscover true hopelessness.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 96,
+    "kind": "sword-shield",
+    "name": "Kyrie Verd",
+    "description": "As despair swallows all,\r\nyour trampled compassion\r\nshall be your shield as you\r\ndiscover true hopelessness.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 97,
+    "kind": "sword-shield",
+    "name": "Kyrie Verd",
+    "description": "As despair swallows all,\r\nyour trampled compassion\r\nshall be your shield as you\r\ndiscover true hopelessness.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  }
+]

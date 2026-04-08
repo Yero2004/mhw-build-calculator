@@ -1,0 +1,3863 @@
+[
+  {
+    "id": 1,
+    "kind": "bow",
+    "name": "Hope Bow I",
+    "description": "A bow made specifically for the\r\nexpedition. Its arrows can be used\r\nto handle a variety of situations.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        19
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "bow",
+    "name": "Hope Bow II",
+    "description": "A bow made specifically for the\r\nexpedition. Its arrows can be used\r\nto handle a variety of situations.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        24
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "bow",
+    "name": "Hope Bow III",
+    "description": "A bow made specifically for the\r\nexpedition. Its arrows can be used\r\nto handle a variety of situations.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        28
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "bow",
+    "name": "Hope Bow IV",
+    "description": "A bow made specifically for the\r\nexpedition. Its arrows can be used\r\nto handle a variety of situations.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "bow",
+    "name": "Hope Bow V",
+    "description": "A bow made specifically for the\r\nexpedition. Its arrows can be used\r\nto handle a variety of situations.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        78
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "bow",
+    "name": "Nihil Bow I",
+    "description": "A Xu Wu bow that bends to its\r\nwielder, passing arrows through\r\neven the narrowest of fissures.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 11,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "440": 3,
+        "443": 2,
+        "444": 1
+      },
+      "previous_id": 20,
+      "branches": [
+        7
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 7,
+    "kind": "bow",
+    "name": "Nihil Bow II",
+    "description": "A Xu Wu bow that bends to its\r\nwielder, passing arrows through\r\neven the narrowest of fissures.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "298": 2,
+        "445": 1,
+        "450": 6,
+        "451": 4
+      },
+      "previous_id": 6,
+      "branches": [
+        8
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 8,
+    "kind": "bow",
+    "name": "Bookwilthe's Punisher",
+    "description": "An upgraded Nihil Bow. Escape\r\nis futile once this silent stalker\r\nof the night sights its prey.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "448": 6,
+        "449": 4,
+        "452": 1,
+        "660": 5
+      },
+      "previous_id": 7,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 9,
+    "kind": "bow",
+    "name": "Rey Perkonis I",
+    "description": "A bow imbued with Rey Dau's\r\nthunder. Retains a charge even\r\nafter releasing a thousand bolts.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 9,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 1,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "139": 3,
+        "141": 1,
+        "142": 2
+      },
+      "previous_id": 24,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 10,
+    "kind": "bow",
+    "name": "Rey Perkonis II",
+    "description": "A bow imbued with Rey Dau's\r\nthunder. Retains a charge even\r\nafter releasing a thousand bolts.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 11,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 1,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "104": 3,
+        "536": 2,
+        "579": 1
+      },
+      "previous_id": 9,
+      "branches": [
+        11
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 11,
+    "kind": "bow",
+    "name": "Rey Perkonis III",
+    "description": "A bow imbued with Rey Dau's\r\nthunder. Retains a charge even\r\nafter releasing a thousand bolts.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "143": 1,
+        "144": 1,
+        "350": 4,
+        "352": 3
+      },
+      "previous_id": 10,
+      "branches": [
+        12
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 12,
+    "kind": "bow",
+    "name": "Perkonis Clairbow",
+    "description": "An upgraded Rey Perkonis.\r\nMay its dire tendrils illuminate\r\nthe wilds like a tree of golden\r\ndestruction.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "348": 6,
+        "349": 4,
+        "351": 1,
+        "661": 5
+      },
+      "previous_id": 11,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 13,
+    "kind": "bow",
+    "name": "Shalya Bow I",
+    "description": "A bow as limber as the Seregios.\r\nThe arrows it looses cut through\r\nprey like a thousand blades.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "3504": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        14
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 14,
+    "kind": "bow",
+    "name": "Insurgent Bow",
+    "description": "An upgraded Shalya Bow,\r\nrenowned for loosing the arrow\r\nthat brought down a horrid tyrant.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "3504": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 15,
+    "kind": "bow",
+    "name": "Windbrace Bow I",
+    "description": "A bow made from Hirabami\r\nparts. The film catches\r\nwind like a sail, adding\r\npropulsion to arrows.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 9,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "353": 3,
+        "356": 2,
+        "599": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 16,
+    "kind": "bow",
+    "name": "Windbrace Bow II",
+    "description": "A bow made from Hirabami\r\nparts. The film catches\r\nwind like a sail, adding\r\npropulsion to arrows.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 11,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "361": 4,
+        "362": 1,
+        "600": 3
+      },
+      "previous_id": 15,
+      "branches": [
+        17
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 17,
+    "kind": "bow",
+    "name": "Windbrace Bow III",
+    "description": "A bow made from Hirabami\r\nparts. The film catches\r\nwind like a sail, adding\r\npropulsion to arrows.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "359": 5,
+        "425": 3
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 18,
+    "kind": "bow",
+    "name": "Windbrace Ibami",
+    "description": "An upgraded Windbrace Bow\r\nthat creates favorable\r\nwinds, ensuring its arrows\r\nnever miss their mark.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "360": 6,
+        "424": 1,
+        "659": 5
+      },
+      "previous_id": 17,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 19,
+    "kind": "bow",
+    "name": "Quematrice Arco I",
+    "description": "A Quematrice bow. Its abrasive\r\nsurface offers friction that\r\nignites arrowheads on the draw.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 7,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "88": 3,
+        "90": 1,
+        "299": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        15,
+        20
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 20,
+    "kind": "bow",
+    "name": "Quematrice Arco II",
+    "description": "A Quematrice bow. Its abrasive\r\nsurface offers friction that\r\nignites arrowheads on the draw.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 9,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "55": 1,
+        "91": 1,
+        "580": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        6,
+        21
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 21,
+    "kind": "bow",
+    "name": "Quematrice Arco III",
+    "description": "A Quematrice bow. Its abrasive\r\nsurface offers friction that\r\nignites arrowheads on the draw.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 11,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "303": 5,
+        "304": 3,
+        "305": 2
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 22,
+    "kind": "bow",
+    "name": "Quematrice Arco IV",
+    "description": "A Quematrice bow. Its abrasive\r\nsurface offers friction that\r\nignites arrowheads on the draw.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "302": 6,
+        "389": 3,
+        "594": 5
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 23,
+    "kind": "bow",
+    "name": "Firetrail Leviora",
+    "description": "An upgraded Quematrice Arco.\r\nIt heats while in flight, baking\r\ntargets it pierces from the inside.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "301": 6,
+        "388": 1,
+        "659": 5
+      },
+      "previous_id": 22,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 24,
+    "kind": "bow",
+    "name": "Dragon Perforator I",
+    "description": "An elaborate bow with gears\r\nthat minimize draw weight yet\r\nproduce enough force to\r\npuncture scales.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        9,
+        25
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 25,
+    "kind": "bow",
+    "name": "Dragon Perforator II",
+    "description": "An elaborate bow with gears\r\nthat minimize draw weight yet\r\nproduce enough force to\r\npuncture scales.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 24,
+      "branches": [
+        26
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 26,
+    "kind": "bow",
+    "name": "Dragon Perforator III",
+    "description": "An elaborate bow with gears\r\nthat minimize draw weight yet\r\nproduce enough force to\r\npuncture scales.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 25,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 27,
+    "kind": "bow",
+    "name": "True Dragon Perforator",
+    "description": "The upgraded Dragon Perforator,\r\na collaborative work created\r\nwith precious steel to thwart\r\nany defense.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 26,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 28,
+    "kind": "bow",
+    "name": "Albirath Bow I",
+    "description": "A Guardian Rathalos bow. Like a\r\nblazing fire, its wielder's spirit\r\nnever abates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 11,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-420608864": 1,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        29
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 29,
+    "kind": "bow",
+    "name": "Albirath Bow II",
+    "description": "A Guardian Rathalos bow. Like a\r\nblazing fire, its wielder's spirit\r\nnever abates.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-420608864": 1,
+      "313598432": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 28,
+      "branches": [
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 30,
+    "kind": "bow",
+    "name": "Solar Spicule",
+    "description": "An upgraded Albirath Bow.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-420608864": 1,
+      "313598432": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 29,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 31,
+    "kind": "bow",
+    "name": "Prominence Bow I",
+    "description": "Birthed by terrifying technology,\r\nthis Rathalos strongbow cuts\r\nthrough plating and pierces flesh.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 33,
+      "branches": [
+        32,
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 32,
+    "kind": "bow",
+    "name": "Dark Filament",
+    "description": "An upgraded Prominence Bow.\r\nWreathed in ominous flame, it\r\nsends bolts of hellfire to\r\ndestroy prey.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 31,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 33,
+    "kind": "bow",
+    "name": "Queen Blaster I",
+    "description": "A deep green hunting bow that\r\nuses Rathian plating for its\r\nequally regal and stunningly\r\nsupple frame.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 11,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        31,
+        34
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 34,
+    "kind": "bow",
+    "name": "Queen Blaster II",
+    "description": "A deep green hunting bow that\r\nuses Rathian plating for its\r\nequally regal and stunningly\r\nsupple frame.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 33,
+      "branches": [
+        35
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 35,
+    "kind": "bow",
+    "name": "Queen's Melody",
+    "description": "The Queen Blaster's upgraded\r\nform, a deadly picture of beauty\r\nthat arrests the souls of all who\r\ntread her land.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 34,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 36,
+    "kind": "bow",
+    "name": "Scylla Fist I",
+    "description": "A strong and pliant Nerscylla\r\nbow. It transfers spectacular,\r\npuncturing force to any arrow\r\nfixed to it.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "513": 3,
+        "515": 2,
+        "605": 1
+      },
+      "previous_id": 59,
+      "branches": [
+        37
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 37,
+    "kind": "bow",
+    "name": "Scylla Fist II",
+    "description": "A strong and pliant Nerscylla\r\nbow. It transfers spectacular,\r\npuncturing force to any arrow\r\nfixed to it.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "521": 1,
+        "606": 3
+      },
+      "previous_id": 36,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 38,
+    "kind": "bow",
+    "name": "Scylla Fist III",
+    "description": "A strong and pliant Nerscylla\r\nbow. It transfers spectacular,\r\npuncturing force to any arrow\r\nfixed to it.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "425": 3,
+        "480": 2,
+        "490": 3,
+        "520": 5
+      },
+      "previous_id": 37,
+      "branches": [
+        39
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 39,
+    "kind": "bow",
+    "name": "Nershock",
+    "description": "An upgraded Scylla Fist,\r\nshaped from pliable material\r\ninto a dynamically ideal curve.\r\nThis one is a keeper.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 38,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 40,
+    "kind": "bow",
+    "name": "Dosha Fearbringer I",
+    "description": "A Doshaguma war bow.\r\nEach arrow loosed from\r\nits bone frame pursues prey\r\nwith a ravenous obsession.",
+    "rarity": 2,
+    "raw": 140,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1758661504": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "34": 3,
+        "35": 2,
+        "36": 1
+      },
+      "previous_id": 46,
+      "branches": [
+        41,
+        43,
+        67
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 41,
+    "kind": "bow",
+    "name": "Dosha Fearbringer II",
+    "description": "A Doshaguma war bow.\r\nEach arrow loosed from\r\nits bone frame pursues prey\r\nwith a ravenous obsession.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "33": 3,
+        "392": 1,
+        "588": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        42
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 42,
+    "kind": "bow",
+    "name": "Dosha Fearbringer III",
+    "description": "A Doshaguma war bow.\r\nEach arrow loosed from\r\nits bone frame pursues prey\r\nwith a ravenous obsession.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "319": 6,
+        "320": 4,
+        "321": 2
+      },
+      "previous_id": 41,
+      "branches": [
+        79
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 43,
+    "kind": "bow",
+    "name": "Dosha Griefbringer I",
+    "description": "A Guardian Doshaguma bow.\r\nTo its defiers it shows no\r\nmercy, savagely returning\r\nthem to nature.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 1,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "390": 3,
+        "392": 2,
+        "393": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 44,
+    "kind": "bow",
+    "name": "Dosha Griefbringer II",
+    "description": "A Guardian Doshaguma bow.\r\nTo its defiers it shows no\r\nmercy, savagely returning\r\nthem to nature.",
+    "rarity": 6,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 2,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "397": 6,
+        "398": 4,
+        "399": 2,
+        "608": 1
+      },
+      "previous_id": 43,
+      "branches": [
+        45
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 45,
+    "kind": "bow",
+    "name": "Griefbringer Urstox",
+    "description": "An upgraded Dosha\r\nGriefbringer. Its destructive\r\nimpulses transform wielders\r\ninto violence incarnate.",
+    "rarity": 8,
+    "raw": 250,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 2,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "395": 6,
+        "660": 5,
+        "665": 6
+      },
+      "previous_id": 44,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 46,
+    "kind": "bow",
+    "name": "Hunter's Bow I",
+    "description": "A simple bow made of pliant\r\nbone. Hunters have come\r\nto rely on its easy draw and\r\ngeneral usability.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        40,
+        47,
+        59
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 47,
+    "kind": "bow",
+    "name": "Hunter's Bow II",
+    "description": "A simple bow made of pliant\r\nbone. Hunters have come\r\nto rely on its easy draw and\r\ngeneral usability.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-283334048": 1,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 46,
+      "branches": [
+        48,
+        53
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 48,
+    "kind": "bow",
+    "name": "Hunter's Bow III",
+    "description": "A simple bow made of pliant\r\nbone. Hunters have come\r\nto rely on its easy draw and\r\ngeneral usability.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-283334048": 2,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 47,
+      "branches": [
+        49
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 49,
+    "kind": "bow",
+    "name": "Hunter's Bow IV",
+    "description": "A simple bow made of pliant\r\nbone. Hunters have come\r\nto rely on its easy draw and\r\ngeneral usability.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 48,
+      "branches": [
+        50
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 50,
+    "kind": "bow",
+    "name": "Hunter's Stoutbow",
+    "description": "Repeated upgrades to the\r\nHunter's Bow created this\r\nadvanced model that delivers\r\na surprising bite.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 49,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 51,
+    "kind": "bow",
+    "name": "Blinding Fulgur I",
+    "description": "A Guardian Fulgur Anjanath\r\nbow. Only one able to tame\r\nits brutality through reason\r\ncan wield it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 64,
+      "branches": [
+        52
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 52,
+    "kind": "bow",
+    "name": "Fulgurbow Guardiana",
+    "description": "An upgraded Blinding Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 51,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 53,
+    "kind": "bow",
+    "name": "Uth Khviluk I",
+    "description": "An Uth Duna bow imbued with\r\ngratitude to all creation. Each\r\narrow nocked is blessed.",
+    "rarity": 3,
+    "raw": 160,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "324": 1,
+        "326": 2,
+        "328": 1
+      },
+      "previous_id": 47,
+      "branches": [
+        54
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 54,
+    "kind": "bow",
+    "name": "Uth Khviluk II",
+    "description": "An Uth Duna bow imbued with\r\ngratitude to all creation. Each\r\narrow nocked is blessed.",
+    "rarity": 5,
+    "raw": 190,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "62": 1,
+        "315": 1,
+        "596": 3
+      },
+      "previous_id": 53,
+      "branches": [
+        55
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 55,
+    "kind": "bow",
+    "name": "Uth Khviluk III",
+    "description": "An Uth Duna bow imbued with\r\ngratitude to all creation. Each\r\narrow nocked is blessed.",
+    "rarity": 7,
+    "raw": 220,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "327": 1,
+        "331": 3,
+        "333": 5,
+        "335": 3
+      },
+      "previous_id": 54,
+      "branches": [
+        56
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 56,
+    "kind": "bow",
+    "name": "Khviluk-of-the-Waves",
+    "description": "An upgraded Uth Khviluk. Each\r\narrow flies on the breath of\r\nnature, a messenger of glory.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "330": 6,
+        "332": 6,
+        "334": 1,
+        "661": 5
+      },
+      "previous_id": 55,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 57,
+    "kind": "bow",
+    "name": "Entbehrung I",
+    "description": "A majestic Gore Magala\r\ngreatbow. The dire bolts\r\nit looses eradicate even\r\nthe last light of hope.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 31,
+      "branches": [
+        58
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 58,
+    "kind": "bow",
+    "name": "Verzweiflung",
+    "description": "An upgrade for the Entbehrung.\r\nIts arrows extinguish all light,\r\nswallowing the land in darkness.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 57,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 59,
+    "kind": "bow",
+    "name": "Wild Power Bow I",
+    "description": "A powerful Congalala hunting\r\nbow strung so tautly that\r\nmiddling strength is\r\ninsufficient to draw it.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "504": 3,
+        "505": 2,
+        "506": 1
+      },
+      "previous_id": 46,
+      "branches": [
+        36,
+        60
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 60,
+    "kind": "bow",
+    "name": "Wild Power Bow II",
+    "description": "A powerful Congalala hunting\r\nbow strung so tautly that\r\nmiddling strength is\r\ninsufficient to draw it.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1475134080": 1,
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "510": 5,
+        "511": 4,
+        "572": 2,
+        "585": 1
+      },
+      "previous_id": 59,
+      "branches": [
+        61
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 61,
+    "kind": "bow",
+    "name": "Wildwood Kalifa",
+    "description": "An upgraded Wild Power Bow.\r\nNot even thick tree trunks can\r\nslow its inexorable flight\r\ntoward prey.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1475134080": 1,
+      "-160562336": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "512": 2,
+        "659": 5
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 62,
+    "kind": "bow",
+    "name": "Blan Sharanga I",
+    "description": "A long, pliant bow reminiscent\r\nof a Blangonga tail. The unique\r\nquiver cloaks arrows in ice.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 11,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "538": 5,
+        "539": 4,
+        "541": 2,
+        "577": 4
+      },
+      "previous_id": null,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 63,
+    "kind": "bow",
+    "name": "Singha Sharanga",
+    "description": "A stronger, more pliant Blan\r\nSharanga said to loose arrows\r\ncapable of bringing down the\r\nsun.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "424": 1,
+        "537": 6,
+        "540": 4,
+        "660": 5
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 64,
+    "kind": "bow",
+    "name": "Kut-Ku Stave I",
+    "description": "A Yian Kut-Ku hunting bow that\r\nunleashes bolts of fire and has a\r\nreputation for easy handling.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 23,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "522": 5,
+        "524": 2,
+        "526": 3,
+        "527": 1
+      },
+      "previous_id": null,
+      "branches": [
+        51,
+        65
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 65,
+    "kind": "bow",
+    "name": "Kut-Ku Stave II",
+    "description": "A Yian Kut-Ku hunting bow that\r\nunleashes bolts of fire and has a\r\nreputation for easy handling.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "389": 2,
+        "525": 4,
+        "534": 1,
+        "594": 4
+      },
+      "previous_id": 64,
+      "branches": [
+        66
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 66,
+    "kind": "bow",
+    "name": "Strange Kut-Ku Stave",
+    "description": "An upgraded Kut-Ku Stave.\r\nIts blazing bolts prowl the\r\nskies, bringing down wyverns\r\nlike birds.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "388": 1,
+        "523": 6,
+        "659": 5
+      },
+      "previous_id": 65,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 67,
+    "kind": "bow",
+    "name": "G. Veldian Arcum I",
+    "description": "A bow made from Guardian\r\nspoils. When drawn taut, it\r\npulses in the wielder's hand,\r\nfocusing the senses.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 9,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 40,
+      "branches": [
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 68,
+    "kind": "bow",
+    "name": "G. Veldian Arcum II",
+    "description": "A bow made from Guardian\r\nspoils. When drawn taut, it\r\npulses in the wielder's hand,\r\nfocusing the senses.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 67,
+      "branches": [
+        69,
+        70
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 69,
+    "kind": "bow",
+    "name": "G. Renowned Tristram",
+    "description": "An upgraded G. Veldian Arcum.\r\nWhoever takes up this weapon\r\nwill leave a glorious mark on\r\nhistory.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 68,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 70,
+    "kind": "bow",
+    "name": "Veldian Arcum I",
+    "description": "An Arkveld bow once wielded by\r\nknights to vanquish wyverns,\r\nwriting their tales into history.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 68,
+      "branches": [
+        80
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 71,
+    "kind": "bow",
+    "name": "Artian Sight I",
+    "description": "A weapon made from unearthed\r\nfragments. The purpose of the\r\nleg-like protrusions is unclear.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 72,
+    "kind": "bow",
+    "name": "Artian Sight II",
+    "description": "A weapon made from unearthed\r\nfragments. The purpose of the\r\nleg-like protrusions is unclear.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 73,
+    "kind": "bow",
+    "name": "Angelbein",
+    "description": "An ancient weapon with latent\r\npotential. Long ago, its arrows\r\nfelled traitors with divine might.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 74,
+    "kind": "bow",
+    "name": "Zoh Samira I",
+    "description": "A Zoh Shia bow with the purest\r\nessence of grace. Its arrows\r\nrain down all the fiercer on\r\nthe spiteful.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        75
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 75,
+    "kind": "bow",
+    "name": "Blazing Samira",
+    "description": "Samira harketh from on high:\r\nThou who seekest glory,\r\nmay thy bow strike all held\r\nin prestige.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 74,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 78,
+    "kind": "bow",
+    "name": "Esperanza Bow",
+    "description": "A fully field-tested Hope Bow.\r\nNo matter what gloom lies ahead,\r\nits arrows always strike true.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 79,
+    "kind": "bow",
+    "name": "Fearbringer Callistox",
+    "description": "An upgraded Dosha Fearbringer.\r\nOnce marked, its prey are\r\nhounded to their last breath.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "318": 6,
+        "660": 5
+      },
+      "previous_id": 42,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 80,
+    "kind": "bow",
+    "name": "Renowned Tristram",
+    "description": "An upgraded Veldian Arcum.\r\nIts arrows locate vitals as if\r\nanswering the wielder's will.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 70,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 81,
+    "kind": "bow",
+    "name": "Blessed Rain I",
+    "description": "Once owned by a princess\r\nwho fought for love. Showers\r\narrows like the spring rain.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        82
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 82,
+    "kind": "bow",
+    "name": "Heaven's Manna",
+    "description": "The upgrade of Blessed Rain.\r\nIts arrows form a dark sea,\r\nblotting out the sun itself.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 81,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 86,
+    "kind": "bow",
+    "name": "Boltsender I",
+    "description": "A bow made from supple Lagiacrus\r\nparts. The coils do wonders for\r\narrow velocity.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        87
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 87,
+    "kind": "bow",
+    "name": "High Voltsender",
+    "description": "An upgraded Boltsender equipped\r\nwith an internal generator that\r\nfires bolts of electricity as well\r\nas arrows.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 86,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 91,
+    "kind": "bow",
+    "name": "Calamitous Angel",
+    "description": "As sorrow swallows all,\r\na bygone repentance\r\ndesires divine retribution.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 92,
+    "kind": "bow",
+    "name": "Calamitous Angel",
+    "description": "As sorrow swallows all,\r\na bygone repentance\r\ndesires divine retribution.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 99,
+    "kind": "bow",
+    "name": "Calamitous Angel",
+    "description": "As sorrow swallows all,\r\na bygone repentance\r\ndesires divine retribution.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  }
+]

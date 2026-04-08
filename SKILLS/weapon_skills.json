@@ -1,0 +1,392 @@
+[
+  {
+    "id": -2096489472,
+    "name": "Critical Eye",
+    "max_level": 5,
+    "ranks": [
+      "Affinity +4%",
+      "Affinity +8%",
+      "Affinity +12%",
+      "Affinity +16%",
+      "Affinity +20%"
+    ]
+  },
+  {
+    "id": -1961116288,
+    "name": "Rapid Morph",
+    "max_level": 3,
+    "ranks": [
+      "Speed +10%",
+      "Speed +20%\r\nMorph attack power +10%",
+      "Speed +30%\r\nMorph attack power +20%"
+    ]
+  },
+  {
+    "id": -1946345856,
+    "name": "Punishing Draw",
+    "max_level": 3,
+    "ranks": [
+      "Draw attacks deal a small\r\namount of stun damage\r\nand gain attack +3.",
+      "Draw attacks deal a medium\r\namount of stun damage\r\nand gain attack +5.",
+      "Draw attacks deal a large\r\namount of stun damage\r\nand gain attack +7."
+    ]
+  },
+  {
+    "id": -1674114176,
+    "name": "Guard Up",
+    "max_level": 3,
+    "ranks": [
+      "Reduces damage taken by 10%,\r\nplus an additional 20% when\r\nconditions are met.",
+      "Reduces damage taken by 20%,\r\nplus an additional 30% when\r\nconditions are met.",
+      "Reduces damage taken by 30%,\r\nplus an additional 50% when\r\nconditions are met."
+    ]
+  },
+  {
+    "id": -1629629184,
+    "name": "Poison Duration Up",
+    "max_level": 1,
+    "ranks": [
+      "Extends the duration of your\r\npoison's effect by 20%."
+    ]
+  },
+  {
+    "id": -1607763456,
+    "name": "Critical Boost",
+    "max_level": 5,
+    "ranks": [
+      "Increases damage dealt\r\nby critical hits to 28%.",
+      "Increases damage dealt\r\nby critical hits to 31%.",
+      "Increases damage dealt\r\nby critical hits to 34%.",
+      "Increases damage dealt\r\nby critical hits to 37%.",
+      "Increases damage dealt\r\nby critical hits to 40%."
+    ]
+  },
+  {
+    "id": -1475134080,
+    "name": "Charge Master",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases elemental\r\nattack and status buildup\r\nfor charged attacks.",
+      "Increases elemental attack\r\nand status buildup for\r\ncharged attacks.",
+      "Greatly increases elemental\r\nattack and status buildup\r\nfor charged attacks."
+    ]
+  },
+  {
+    "id": -1237438336,
+    "name": "Horn Maestro",
+    "max_level": 2,
+    "ranks": [
+      "Extends Melody Effect duration\r\nand increases the chance of larger\r\nheals from healing melodies.",
+      "Greatly increases the effect\r\nduration of hunting horn\r\nmelodies."
+    ]
+  },
+  {
+    "id": -893407296,
+    "name": "Slugger",
+    "max_level": 3,
+    "ranks": [
+      "Stun power +20%",
+      "Stun power +30%",
+      "Stun power +40%"
+    ]
+  },
+  {
+    "id": -847539392,
+    "name": "Slicked Blade",
+    "max_level": 3,
+    "ranks": [
+      "Affinity +3% when wet, and +7%\r\nwhile afflicted with bubbleblight.",
+      "Affinity +6% when wet, and +14%\r\nwhile afflicted with bubbleblight.",
+      "Affinity +9% when wet, and +21%\r\nwhile afflicted with bubbleblight."
+    ]
+  },
+  {
+    "id": -596764096,
+    "name": "Artillery",
+    "max_level": 3,
+    "ranks": [
+      "Moderately increases each attack\r\nand Wyvern's Fire firing speed.\r\nShelling fire attack +30.",
+      "Increases each attack and\r\nWyvern's Fire firing speed.\r\nShelling fire attack +60.",
+      "Greatly increases each attack\r\nand Wyvern's Fire firing speed.\r\nShelling fire attack +90."
+    ]
+  },
+  {
+    "id": -420608864,
+    "name": "Ballistics",
+    "max_level": 3,
+    "ranks": [
+      "Slightly extends range.",
+      "Extends range.",
+      "Greatly extends critical range,\r\nand boosts the power of attacks\r\nmade within critical range."
+    ]
+  },
+  {
+    "id": -307644128,
+    "name": "Guard",
+    "max_level": 3,
+    "ranks": [
+      "Slightly decreases the impact\r\nof attacks and reduces stamina\r\ndepletion by 15%.",
+      "Decreases the impact of attacks and\r\nreduces stamina depletion by 30%.",
+      "Greatly decreases the impact of\r\nattacks and reduces stamina\r\ndepletion by 50%."
+    ]
+  },
+  {
+    "id": -283334048,
+    "name": "Focus",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases gauge fill rate and\r\nreduces charge times by 5%.",
+      "Moderately increases gauge fill rate\r\nand reduces charge times by 10%.",
+      "Increases gauge fill rate and\r\nreduces charge times by 15%."
+    ]
+  },
+  {
+    "id": -181127504,
+    "name": "Offensive Guard",
+    "max_level": 3,
+    "ranks": [
+      "Attack +5% while active.",
+      "Attack +10% while active.",
+      "Attack +15% while active."
+    ]
+  },
+  {
+    "id": -168922880,
+    "name": "Critical Status",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases abnormal\r\nstatus effects when landing\r\ncritical hits.",
+      "Increases abnormal status effects\r\nwhen landing critical hits.",
+      "Greatly increases abnormal\r\nstatus effects when landing\r\ncritical hits."
+    ]
+  },
+  {
+    "id": -160562336,
+    "name": "Special Ammo Boost",
+    "max_level": 2,
+    "ranks": [
+      "Moderately increases the power\r\nof specified ammo and arrows.",
+      "Increases the power of specified\r\nammo and arrows."
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Attack Boost",
+    "max_level": 5,
+    "ranks": [
+      "Attack +3",
+      "Attack +5",
+      "Attack +7",
+      "Attack +2%\r\nBonus: +8",
+      "Attack +4%\r\nBonus: +9"
+    ]
+  },
+  {
+    "id": 1826,
+    "name": "Crackling Cornpopper",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 3504,
+    "name": "Bladescale Loading",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 3813,
+    "name": "Darkside",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect.\r\n(Requires activation cooldown,\r\nbut self-damage still occurs.)"
+    ]
+  },
+  {
+    "id": 7506,
+    "name": "Synthetic Shield",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 16931,
+    "name": "Grillmaster",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 25070,
+    "name": "Bladescale Honing",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 28385,
+    "name": "Power Stone",
+    "max_level": 1,
+    "ranks": [
+      "Mining particularly rare materials\r\ngreatly increases attack. (Attack\r\nincrease has a maximum limit.)"
+    ]
+  },
+  {
+    "id": 30201,
+    "name": "Convert Thunder Resistance",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 30554,
+    "name": "Catburglar",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 30828,
+    "name": "Evading Reload",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 31998,
+    "name": "Synergy",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 313598432,
+    "name": "Critical Element",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases elemental damage\r\nwhile active.",
+      "Increases elemental damage\r\nwhile active.",
+      "Greatly increases elemental damage\r\nwhile active."
+    ]
+  },
+  {
+    "id": 353114912,
+    "name": "Charge Up",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 402237312,
+    "name": "Airborne",
+    "max_level": 1,
+    "ranks": [
+      "Jumping attack power +10%"
+    ]
+  },
+  {
+    "id": 576193792,
+    "name": "Whiteflame Torrent",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect. (When used\r\nwith Scorcher, does not stack but\r\nadds extra fire damage.)"
+    ]
+  },
+  {
+    "id": 686533440,
+    "name": "Critical Draw",
+    "max_level": 3,
+    "ranks": [
+      "Affinity +50%",
+      "Affinity +75%",
+      "Affinity +100%"
+    ]
+  },
+  {
+    "id": 691199232,
+    "name": "Power Prolonger",
+    "max_level": 3,
+    "ranks": [
+      "Moderately boosts the duration\r\nweapons are powered up.",
+      "Boosts the duration weapons\r\nare powered up.",
+      "Greatly boosts the duration\r\nweapons are powered up."
+    ]
+  },
+  {
+    "id": 802725120,
+    "name": "Load Shells",
+    "max_level": 2,
+    "ranks": [
+      "Increases shell and phial\r\nreloading speed.",
+      "Increases shell/phial reloading speed.\r\nGunlance loading capacity +1. Charge\r\nblade charges 5 phials on yellow gauge."
+    ]
+  },
+  {
+    "id": 1389859584,
+    "name": "Master's Touch",
+    "max_level": 1,
+    "ranks": [
+      "Grants an 80% chance of no\r\nsharpness loss while active."
+    ]
+  },
+  {
+    "id": 1444935552,
+    "name": "Speed Sharpening",
+    "max_level": 2,
+    "ranks": [
+      "Removes one cycle from\r\nthe sharpening process.",
+      "Removes two cycles from\r\nthe sharpening process."
+    ]
+  },
+  {
+    "id": 1500129152,
+    "name": "Protective Polish",
+    "max_level": 3,
+    "ranks": [
+      "Grants no sharpness loss for\r\n30 seconds after activation.",
+      "Grants no sharpness loss for\r\n60 seconds after activation.",
+      "Grants no sharpness loss for\r\n90 seconds after activation."
+    ]
+  },
+  {
+    "id": 1613139840,
+    "name": "Tetrad Shot",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases the attack\r\npower and affinity of ammo\r\nafter certain conditions are met.",
+      "Moderately increases attack power\r\nand affinity of ammo after certain\r\nconditions are met.",
+      "Increases the attack power\r\nand affinity of ammo after\r\ncertain conditions are met."
+    ]
+  },
+  {
+    "id": 1711950720,
+    "name": "Opening Shot",
+    "max_level": 3,
+    "ranks": [
+      "Moderately increases bowgun reload\r\nspeed and attack power of ammo\r\nwhen certain conditions are met.",
+      "Increases bowgun reload speed\r\nand attack power of ammo when\r\ncertain conditions are met.",
+      "Greatly increases bowgun reload\r\nspeed and attack power of ammo\r\nwhen certain conditions are met."
+    ]
+  },
+  {
+    "id": 1758661504,
+    "name": "Stamina Thief",
+    "max_level": 3,
+    "ranks": [
+      "Exhaust power +20%",
+      "Exhaust power +30%",
+      "Exhaust power +40%"
+    ]
+  }
+]

@@ -1,0 +1,1681 @@
+{
+  "-2125233152": {
+    "id": -2125233152,
+    "name": "Dragon Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Dragon resistance +6",
+      "Dragon resistance +12",
+      "Dragon resistance +20\r\nDefense +10"
+    ]
+  },
+  "-2123993856": {
+    "id": -2123993856,
+    "name": "Spread/Power Shots",
+    "max_level": 1,
+    "ranks": [
+      "Slightly increases the power of\r\nspecified ammo and arrows."
+    ]
+  },
+  "-2096489472": {
+    "id": -2096489472,
+    "name": "Critical Eye",
+    "max_level": 5,
+    "ranks": [
+      "Affinity +4%",
+      "Affinity +8%",
+      "Affinity +12%",
+      "Affinity +16%",
+      "Affinity +20%"
+    ]
+  },
+  "-2041451904": {
+    "id": -2041451904,
+    "name": "Guardian's Protection",
+    "max_level": 1,
+    "ranks": [
+      "Reduces elemental and unique damage\r\nwhile in the Ruins of Wyveria."
+    ]
+  },
+  "-2022542848": {
+    "id": -2022542848,
+    "name": "Blast Functionality",
+    "max_level": 1,
+    "ranks": [
+      "Lets you use blast coatings."
+    ]
+  },
+  "-1961297152": {
+    "id": -1961297152,
+    "name": "Normal Shots",
+    "max_level": 1,
+    "ranks": [
+      "Slightly increases the power of\r\nspecified ammo and arrows."
+    ]
+  },
+  "-1961116288": {
+    "id": -1961116288,
+    "name": "Rapid Morph",
+    "max_level": 3,
+    "ranks": [
+      "Speed +10%",
+      "Speed +20%\r\nMorph attack power +10%",
+      "Speed +30%\r\nMorph attack power +20%"
+    ]
+  },
+  "-1946345856": {
+    "id": -1946345856,
+    "name": "Punishing Draw",
+    "max_level": 3,
+    "ranks": [
+      "Draw attacks deal a small\r\namount of stun damage\r\nand gain attack +3.",
+      "Draw attacks deal a medium\r\namount of stun damage\r\nand gain attack +5.",
+      "Draw attacks deal a large\r\namount of stun damage\r\nand gain attack +7."
+    ]
+  },
+  "-1863702144": {
+    "id": -1863702144,
+    "name": "Paralysis Attack",
+    "max_level": 3,
+    "ranks": [
+      "Paralysis buildup +5%\r\nBonus: +10",
+      "Paralysis buildup +10%\r\nBonus: +20",
+      "Paralysis buildup +20%\r\nBonus: +50"
+    ]
+  },
+  "-1769550080": {
+    "id": -1769550080,
+    "name": "Lord's Favor",
+    "max_level": 1,
+    "ranks": [
+      "Temporarily increases attack power\r\nwhen using effects like Melody Effects\r\nthat affect companions in range."
+    ]
+  },
+  "-1768553344": {
+    "id": -1768553344,
+    "name": "Fulgur Anjanath's Will",
+    "max_level": 2,
+    "ranks": [
+      "Grants an additional Stamina Gauge.",
+      "Grants an additional long Stamina Gauge."
+    ]
+  },
+  "-1716324608": {
+    "id": -1716324608,
+    "name": "Poison Attack",
+    "max_level": 3,
+    "ranks": [
+      "Poison buildup +5%\r\nBonus: +10",
+      "Poison buildup +10%\r\nBonus: +20",
+      "Poison buildup +20%\r\nBonus: +50"
+    ]
+  },
+  "-1700743296": {
+    "id": -1700743296,
+    "name": "Coalescence",
+    "max_level": 3,
+    "ranks": [
+      "When active, grants a slight\r\nincrease to elemental attack\r\nand status buildup.",
+      "When active, grants an\r\nincrease to elemental attack\r\nand status buildup.",
+      "When active, grants a large\r\nincrease to elemental attack\r\nand status buildup."
+    ]
+  },
+  "-1689391744": {
+    "id": -1689391744,
+    "name": "Constitution",
+    "max_level": 5,
+    "ranks": [
+      "Reduces fixed stamina\r\ndepletion by 10%.",
+      "Reduces fixed stamina\r\ndepletion by 20%.",
+      "Reduces fixed stamina\r\ndepletion by 30%.",
+      "Reduces fixed stamina\r\ndepletion by 40%.",
+      "Reduces fixed stamina\r\ndepletion by 50%."
+    ]
+  },
+  "-1684613760": {
+    "id": -1684613760,
+    "name": "Item Prolonger",
+    "max_level": 3,
+    "ranks": [
+      "Item effect duration +10%",
+      "Item effect duration +25%",
+      "Item effect duration +50%"
+    ]
+  },
+  "-1674114176": {
+    "id": -1674114176,
+    "name": "Guard Up",
+    "max_level": 3,
+    "ranks": [
+      "Reduces damage taken by 10%,\r\nplus an additional 20% when\r\nconditions are met.",
+      "Reduces damage taken by 20%,\r\nplus an additional 30% when\r\nconditions are met.",
+      "Reduces damage taken by 30%,\r\nplus an additional 50% when\r\nconditions are met."
+    ]
+  },
+  "-1664678272": {
+    "id": -1664678272,
+    "name": "Scale Layering",
+    "max_level": 1,
+    "ranks": [
+      "Temporarily reduces stamina depletion\r\nwhen health is at 40% or lower."
+    ]
+  },
+  "-1662120192": {
+    "id": -1662120192,
+    "name": "Antivirus",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases recovery rate\r\nafter contracting the Frenzy.\r\nAffinity +3% if cured.",
+      "Increases recovery rate after\r\ncontracting the Frenzy.\r\nAffinity +6% if cured.",
+      "Greatly increases recovery rate\r\nafter contracting the Frenzy.\r\nAffinity +10% if cured."
+    ]
+  },
+  "-1648695680": {
+    "id": -1648695680,
+    "name": "Flexible Leathercraft",
+    "max_level": 1,
+    "ranks": [
+      "Increases gathering speed, and\r\nprevents knock back when gathering\r\nor carving."
+    ]
+  },
+  "-1642078720": {
+    "id": -1642078720,
+    "name": "Imparted Wisdom",
+    "max_level": 1,
+    "ranks": [
+      "Increases the chance of finding rare\r\ngathering points."
+    ]
+  },
+  "-1629629184": {
+    "id": -1629629184,
+    "name": "Poison Duration Up",
+    "max_level": 1,
+    "ranks": [
+      "Extends the duration of your\r\npoison's effect by 20%."
+    ]
+  },
+  "-1607763456": {
+    "id": -1607763456,
+    "name": "Critical Boost",
+    "max_level": 5,
+    "ranks": [
+      "Increases damage dealt\r\nby critical hits to 28%.",
+      "Increases damage dealt\r\nby critical hits to 31%.",
+      "Increases damage dealt\r\nby critical hits to 34%.",
+      "Increases damage dealt\r\nby critical hits to 37%.",
+      "Increases damage dealt\r\nby critical hits to 40%."
+    ]
+  },
+  "-1507579776": {
+    "id": -1507579776,
+    "name": "Rapid Fire Up",
+    "max_level": 1,
+    "ranks": [
+      "Rapid fire power +5%"
+    ]
+  },
+  "-1475134080": {
+    "id": -1475134080,
+    "name": "Charge Master",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases elemental\r\nattack and status buildup\r\nfor charged attacks.",
+      "Increases elemental attack\r\nand status buildup for\r\ncharged attacks.",
+      "Greatly increases elemental\r\nattack and status buildup\r\nfor charged attacks."
+    ]
+  },
+  "-1468066176": {
+    "id": -1468066176,
+    "name": "Xu Wu's Vigor",
+    "max_level": 2,
+    "ranks": [
+      "Temporarily grants attack +15 after\r\neating items such as well-done steak.",
+      "Temporarily grants attack +30 after\r\neating items such as well-done steak."
+    ]
+  },
+  "-1432692352": {
+    "id": -1432692352,
+    "name": "Guardian Arkveld's Vitality",
+    "max_level": 2,
+    "ranks": [
+      "Restores a moderate amount of health\r\nwhen destroying a wound on a large\r\nmonster.",
+      "Restores health when destroying a wound\r\non a large monster."
+    ]
+  },
+  "-1305836672": {
+    "id": -1305836672,
+    "name": "Guardian's Pulse",
+    "max_level": 1,
+    "ranks": [
+      "Increases recovery speed of stamina\r\nand red gauge when near Wylkrystals."
+    ]
+  },
+  "-1304512512": {
+    "id": -1304512512,
+    "name": "Leap of Faith",
+    "max_level": 1,
+    "ranks": [
+      "Enables skill use."
+    ]
+  },
+  "-1237438336": {
+    "id": -1237438336,
+    "name": "Horn Maestro",
+    "max_level": 2,
+    "ranks": [
+      "Extends Melody Effect duration\r\nand increases the chance of larger\r\nheals from healing melodies.",
+      "Greatly increases the effect\r\nduration of hunting horn\r\nmelodies."
+    ]
+  },
+  "-1235658624": {
+    "id": -1235658624,
+    "name": "Recovery Up",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases recovery.",
+      "Moderately increases recovery.",
+      "Greatly increases recovery."
+    ]
+  },
+  "-1121468544": {
+    "id": -1121468544,
+    "name": "Recovery Speed",
+    "max_level": 3,
+    "ranks": [
+      "Doubles the speed at which\r\nyou heal recoverable damage.",
+      "Triples the speed at which\r\nyou heal recoverable damage.",
+      "Quadruples the speed at\r\nwhich you heal recoverable\r\ndamage."
+    ]
+  },
+  "-1073401280": {
+    "id": -1073401280,
+    "name": "Quick Sheathe",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases sheathing\r\nspeed.",
+      "Increases sheathing speed.",
+      "Greatly increases sheathing\r\nspeed."
+    ]
+  },
+  "-964369920": {
+    "id": -964369920,
+    "name": "Arkveld's Hunger",
+    "max_level": 2,
+    "ranks": [
+      "Regenerates a small amount of your health\r\nas you continually attack a monster.\r\nRecovery varies by weapon.",
+      "Regenerates your health as you continually\r\nattack a monster. Recovery varies by\r\nweapon."
+    ]
+  },
+  "-911441792": {
+    "id": -911441792,
+    "name": "Blossomdance Prayer",
+    "max_level": 2,
+    "ranks": [
+      "During Blossomdance, adds\r\nspecial items to quest rewards.\r\n(No effect when joining mid-quest.)",
+      "During Blossomdance, adds special\r\nitems to quest rewards, and\r\ngreatly boosts attack and defense."
+    ]
+  },
+  "-895828480": {
+    "id": -895828480,
+    "name": "Windproof",
+    "max_level": 3,
+    "ranks": [
+      "Negates minor wind pressure\r\nand halves the effects of\r\nmajor wind pressure.",
+      "Negates minor and major wind\r\npressure and halves the effects\r\nof dragon wind pressure.",
+      "Negates all kinds of wind pressure."
+    ]
+  },
+  "-893407296": {
+    "id": -893407296,
+    "name": "Slugger",
+    "max_level": 3,
+    "ranks": [
+      "Stun power +20%",
+      "Stun power +30%",
+      "Stun power +40%"
+    ]
+  },
+  "-857543744": {
+    "id": -857543744,
+    "name": "Bombardier",
+    "max_level": 3,
+    "ranks": [
+      "Explosive power +10%",
+      "Explosive power +20%",
+      "Explosive power +30%"
+    ]
+  },
+  "-856322816": {
+    "id": -856322816,
+    "name": "Flayer",
+    "max_level": 5,
+    "ranks": [
+      "Makes it ever so slightly easier\r\nto inflict wounds. Also deals\r\nadditional non-elemental damage.",
+      "Makes it moderately easier to inflict\r\nwounds. Also deals slightly more\r\nadditional non-elemental damage.",
+      "Makes it easier to inflict wounds.\r\nAlso deals moderately more\r\nadditional non-elemental damage.",
+      "Makes it much easier to inflict\r\nwounds. Also deals more additional\r\nnon-elemental damage.",
+      "Makes it significantly easier to\r\ninflict wounds. Also deals much more\r\nadditional non-elemental damage."
+    ]
+  },
+  "-847539392": {
+    "id": -847539392,
+    "name": "Slicked Blade",
+    "max_level": 3,
+    "ranks": [
+      "Affinity +3% when wet, and +7%\r\nwhile afflicted with bubbleblight.",
+      "Affinity +6% when wet, and +14%\r\nwhile afflicted with bubbleblight.",
+      "Affinity +9% when wet, and +21%\r\nwhile afflicted with bubbleblight."
+    ]
+  },
+  "-844978880": {
+    "id": -844978880,
+    "name": "Blast Attack",
+    "max_level": 3,
+    "ranks": [
+      "Blast buildup +5%\r\nBonus: +10",
+      "Blast buildup +10%\r\nBonus: +20",
+      "Blast buildup +20%\r\nBonus: +50"
+    ]
+  },
+  "-776946176": {
+    "id": -776946176,
+    "name": "Dragon Attack",
+    "max_level": 3,
+    "ranks": [
+      "Dragon attack +40",
+      "Dragon attack +10%\r\nBonus: +50",
+      "Dragon attack +20%\r\nBonus: +60"
+    ]
+  },
+  "-692636288": {
+    "id": -692636288,
+    "name": "Cliffhanger",
+    "max_level": 1,
+    "ranks": [
+      "Reduces stamina depletion while\r\nclimbing by 50%."
+    ]
+  },
+  "-682586176": {
+    "id": -682586176,
+    "name": "Marathon Runner",
+    "max_level": 3,
+    "ranks": [
+      "Reduces continuous stamina\r\ndepletion by 15%.",
+      "Reduces continuous stamina\r\ndepletion by 30%.",
+      "Reduces continuous stamina\r\ndepletion by 50%."
+    ]
+  },
+  "-676967744": {
+    "id": -676967744,
+    "name": "Para Functionality",
+    "max_level": 1,
+    "ranks": [
+      "Lets you use paralysis coatings."
+    ]
+  },
+  "-632440576": {
+    "id": -632440576,
+    "name": "Shock Absorber",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "-609509888": {
+    "id": -609509888,
+    "name": "Tremor Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Nullifies very minor ground tremors\r\nand halves effects of minor ground\r\ntremors.",
+      "Nullifies up to minor ground tremors\r\nand greatly reduces the effects of\r\nmajor ground tremors.",
+      "Nullifies all ground tremors."
+    ]
+  },
+  "-596764096": {
+    "id": -596764096,
+    "name": "Artillery",
+    "max_level": 3,
+    "ranks": [
+      "Moderately increases each attack\r\nand Wyvern's Fire firing speed.\r\nShelling fire attack +30.",
+      "Increases each attack and\r\nWyvern's Fire firing speed.\r\nShelling fire attack +60.",
+      "Greatly increases each attack\r\nand Wyvern's Fire firing speed.\r\nShelling fire attack +90."
+    ]
+  },
+  "-593005376": {
+    "id": -593005376,
+    "name": "Survival Expert",
+    "max_level": 3,
+    "ranks": [
+      "Restores 50 health.",
+      "Restores 80 health.",
+      "Restores 100 health."
+    ]
+  },
+  "-568838336": {
+    "id": -568838336,
+    "name": "Blight Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the duration of all\r\nelemental blights by 50%.",
+      "Reduces the duration of all\r\nelemental blights by 75%.",
+      "Nullifies all elemental blights."
+    ]
+  },
+  "-562534336": {
+    "id": -562534336,
+    "name": "Fire Attack",
+    "max_level": 3,
+    "ranks": [
+      "Fire attack +40",
+      "Fire attack +10%\r\nBonus: +50",
+      "Fire attack +20%\r\nBonus: +60"
+    ]
+  },
+  "-555494336": {
+    "id": -555494336,
+    "name": "Zoh Shia's Pulse",
+    "max_level": 2,
+    "ranks": [
+      "Allows the Health Gauge to continue\r\nto slowly recover up to the max value,\r\neven if there is no red portion.",
+      "Allows the Health Gauge to continue\r\nto recover up to the max value,\r\neven if there is no red portion."
+    ]
+  },
+  "-481419552": {
+    "id": -481419552,
+    "name": "Mushroomancer",
+    "max_level": 3,
+    "ranks": [
+      "Lets you digest blue mushrooms\r\nand toadstools.",
+      "Additionally lets you digest\r\nnitroshrooms and parashrooms.",
+      "Additionally lets you digest\r\nmandragoras, devil's blight,\r\nand exciteshrooms."
+    ]
+  },
+  "-420608864": {
+    "id": -420608864,
+    "name": "Ballistics",
+    "max_level": 3,
+    "ranks": [
+      "Slightly extends range.",
+      "Extends range.",
+      "Greatly extends critical range,\r\nand boosts the power of attacks\r\nmade within critical range."
+    ]
+  },
+  "-418246240": {
+    "id": -418246240,
+    "name": "Gravios's Protection",
+    "max_level": 2,
+    "ranks": [
+      "Reduces the damage you take by 20%\r\nwhen your health is full.",
+      "Reduces the damage you take by 35%\r\nwhen your health is full."
+    ]
+  },
+  "-411441344": {
+    "id": -411441344,
+    "name": "Stench Resistance",
+    "max_level": 2,
+    "ranks": [
+      "Reduces stench duration by 50%.",
+      "Prevents stench."
+    ]
+  },
+  "-403054144": {
+    "id": -403054144,
+    "name": "Mizutsune's Prowess",
+    "max_level": 2,
+    "ranks": [
+      "Prevents major bubbleblight and\r\ngrants you minor bubbleblight after\r\nevading several times.",
+      "In addition to previous effects,\r\nalso increases evasion while\r\nafflicted with bubbleblight."
+    ]
+  },
+  "-397570464": {
+    "id": -397570464,
+    "name": "Weakness Exploit",
+    "max_level": 5,
+    "ranks": [
+      "Attacks that hit weak points gain\r\naffinity +5%, with an extra 3%\r\non wounds.",
+      "Attacks that hit weak points gain\r\naffinity +10%, with an extra 5%\r\non wounds.",
+      "Attacks that hit weak points gain\r\naffinity +15%, with an extra 10%\r\non wounds.",
+      "Attacks that hit weak points have\r\n20% increased affinity, with an\r\nextra 15% on wounds.",
+      "Attacks that hit weak points have\r\n30% increased affinity, with an\r\nextra 20% on wounds."
+    ]
+  },
+  "-315492576": {
+    "id": -315492576,
+    "name": "Stamina Surge",
+    "max_level": 3,
+    "ranks": [
+      "Stamina recovery speed +10%",
+      "Stamina recovery speed +30%",
+      "Stamina recovery speed +50%"
+    ]
+  },
+  "-307644128": {
+    "id": -307644128,
+    "name": "Guard",
+    "max_level": 3,
+    "ranks": [
+      "Slightly decreases the impact\r\nof attacks and reduces stamina\r\ndepletion by 15%.",
+      "Decreases the impact of attacks and\r\nreduces stamina depletion by 30%.",
+      "Greatly decreases the impact of\r\nattacks and reduces stamina\r\ndepletion by 50%."
+    ]
+  },
+  "-283334048": {
+    "id": -283334048,
+    "name": "Focus",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases gauge fill rate and\r\nreduces charge times by 5%.",
+      "Moderately increases gauge fill rate\r\nand reduces charge times by 10%.",
+      "Increases gauge fill rate and\r\nreduces charge times by 15%."
+    ]
+  },
+  "-257693696": {
+    "id": -257693696,
+    "name": "Blindsider",
+    "max_level": 1,
+    "ranks": [
+      "Improves the effectiveness of\r\nflash attacks and items."
+    ]
+  },
+  "-215826112": {
+    "id": -215826112,
+    "name": "Jin Dahaad's Revolt",
+    "max_level": 2,
+    "ranks": [
+      "Increases attack after recovering\r\nfrom webbed status, frostblight,\r\nbeing pinned, or a Power Clash.",
+      "Greatly increases attack after recovering\r\nfrom webbed status, frostblight, being\r\npinned, or a Power Clash."
+    ]
+  },
+  "-201445760": {
+    "id": -201445760,
+    "name": "Aquatic/Oilsilt Mobility",
+    "max_level": 2,
+    "ranks": [
+      "Negates the effects of muddy streams,\r\nnullifies slowing from water and oilsilt,\r\nand reduces slowing from heavy oil.",
+      "Also negates the effects of waves."
+    ]
+  },
+  "-193031552": {
+    "id": -193031552,
+    "name": "Sleep Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the duration\r\nof sleep by 30%.",
+      "Reduces the duration\r\nof sleep by 60%.",
+      "Prevents sleep."
+    ]
+  },
+  "-181774400": {
+    "id": -181774400,
+    "name": "Exhaust Functionality",
+    "max_level": 1,
+    "ranks": [
+      "Lets you use exhaust coatings."
+    ]
+  },
+  "-181127504": {
+    "id": -181127504,
+    "name": "Offensive Guard",
+    "max_level": 3,
+    "ranks": [
+      "Attack +5% while active.",
+      "Attack +10% while active.",
+      "Attack +15% while active."
+    ]
+  },
+  "-171796848": {
+    "id": -171796848,
+    "name": "Ambush",
+    "max_level": 3,
+    "ranks": [
+      "Attack +5% while active.",
+      "Attack +10% while active.",
+      "Attack +15% while active."
+    ]
+  },
+  "-168922880": {
+    "id": -168922880,
+    "name": "Critical Status",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases abnormal\r\nstatus effects when landing\r\ncritical hits.",
+      "Increases abnormal status effects\r\nwhen landing critical hits.",
+      "Greatly increases abnormal\r\nstatus effects when landing\r\ncritical hits."
+    ]
+  },
+  "-160562336": {
+    "id": -160562336,
+    "name": "Special Ammo Boost",
+    "max_level": 2,
+    "ranks": [
+      "Moderately increases the power\r\nof specified ammo and arrows.",
+      "Increases the power of specified\r\nammo and arrows."
+    ]
+  },
+  "-62248528": {
+    "id": -62248528,
+    "name": "Doshaguma's Might",
+    "max_level": 2,
+    "ranks": [
+      "Temporarily grants attack +10\r\nafter a successful Power Clash\r\nor Offset attack",
+      "Temporarily grants attack +25\r\nafter a successful Power Clash\r\nor Offset attack"
+    ]
+  },
+  "-3666104": {
+    "id": -3666104,
+    "name": "Rathalos's Flare",
+    "max_level": 2,
+    "ranks": [
+      "Chance to deal additional fire\r\ndamage after landing an attack.",
+      "Increases additional fire damage\r\nafter landing an attack."
+    ]
+  },
+  "1": {
+    "id": 1,
+    "name": "Attack Boost",
+    "max_level": 5,
+    "ranks": [
+      "Attack +3",
+      "Attack +5",
+      "Attack +7",
+      "Attack +2%\r\nBonus: +8",
+      "Attack +4%\r\nBonus: +9"
+    ]
+  },
+  "1826": {
+    "id": 1826,
+    "name": "Crackling Cornpopper",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "2237": {
+    "id": 2237,
+    "name": "Glory's Favor",
+    "max_level": 1,
+    "ranks": [
+      "Increases quest target rewards.\r\n(No effect when joining mid-quest.)"
+    ]
+  },
+  "3504": {
+    "id": 3504,
+    "name": "Bladescale Loading",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "3813": {
+    "id": 3813,
+    "name": "Darkside",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect.\r\n(Requires activation cooldown,\r\nbut self-damage still occurs.)"
+    ]
+  },
+  "4554": {
+    "id": 4554,
+    "name": "Master of the Fist",
+    "max_level": 1,
+    "ranks": [
+      "Increases power of special actions.\r\nDrive Impacts can trigger offset attacks.\r\nFurther increases power of offset attacks."
+    ]
+  },
+  "5590": {
+    "id": 5590,
+    "name": "Gogmapocalypse",
+    "max_level": 2,
+    "ranks": [
+      "Increases elemental attack when\r\nlarge monsters become enraged.",
+      "Level I effect is increased, and you\r\ngain a temporary damage barrier.\r\n(Barrier reactivates after cooldown.)"
+    ]
+  },
+  "7506": {
+    "id": 7506,
+    "name": "Synthetic Shield",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "8694": {
+    "id": 8694,
+    "name": "Flamefete Prayer",
+    "max_level": 2,
+    "ranks": [
+      "During Flamefete, adds special\r\nitems to quest rewards.\r\n(No effect when joining mid-quest.)",
+      "During Flamefete, adds special\r\nitems to quest rewards, and\r\ngreatly boosts attack and defense."
+    ]
+  },
+  "10503": {
+    "id": 10503,
+    "name": "Rice Ball",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "11709": {
+    "id": 11709,
+    "name": "Dreamspell Prayer",
+    "max_level": 2,
+    "ranks": [
+      "During Dreamspell, adds\r\nspecial items to quest rewards.\r\n(No effect when joining mid-quest.)",
+      "During Dreamspell, adds special\r\nitems to quest rewards, and\r\ngreatly boosts attack and defense."
+    ]
+  },
+  "13941": {
+    "id": 13941,
+    "name": "Festival Spirit",
+    "max_level": 1,
+    "ranks": [
+      "Lets you carve one additional time\r\nfrom carcasses during quests.\r\n(No effect when joining mid-quest.)"
+    ]
+  },
+  "16835": {
+    "id": 16835,
+    "name": "Leviathan's Fury",
+    "max_level": 2,
+    "ranks": [
+      "Temporarily increases affinity and\r\ncan deal extra thunder damage upon\r\nbuildup. (Excludes some attacks.)",
+      "Further increases additional thunder\r\ndamage and moderately extends\r\nthe duration affinity is increased."
+    ]
+  },
+  "16931": {
+    "id": 16931,
+    "name": "Grillmaster",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "24531": {
+    "id": 24531,
+    "name": "Soul of the Dark Knight",
+    "max_level": 2,
+    "ranks": [
+      "Having recoverable damage increases\r\nelemental attack, and some great sword\r\nLvl 3 charged slashes are strengthened.",
+      "Allows you to perform the special\r\naction: The Blackest Night."
+    ]
+  },
+  "25070": {
+    "id": 25070,
+    "name": "Bladescale Honing",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "28385": {
+    "id": 28385,
+    "name": "Power Stone",
+    "max_level": 1,
+    "ranks": [
+      "Mining particularly rare materials\r\ngreatly increases attack. (Attack\r\nincrease has a maximum limit.)"
+    ]
+  },
+  "30201": {
+    "id": 30201,
+    "name": "Convert Thunder Resistance",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "30554": {
+    "id": 30554,
+    "name": "Catburglar",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "30815": {
+    "id": 30815,
+    "name": "Lumenhymn Prayer",
+    "max_level": 2,
+    "ranks": [
+      "During Lumenhymn, adds\r\nspecial items to quest rewards.\r\n(No effect when joining mid-quest.)",
+      "During Lumenhymn, adds special\r\nitems to quest rewards, and\r\ngreatly boosts attack and defense."
+    ]
+  },
+  "30828": {
+    "id": 30828,
+    "name": "Evading Reload",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "30992": {
+    "id": 30992,
+    "name": "Seregios's Tenacity",
+    "max_level": 2,
+    "ranks": [
+      "Extends the duration of Adrenaline Rush.\r\nIf triggered again while the skill is\r\nactive, extends the effect duration once.",
+      "Additionally, if triggered again while\r\nthe skill is active, further increases\r\nattack."
+    ]
+  },
+  "31540": {
+    "id": 31540,
+    "name": "Omega Resonance",
+    "max_level": 2,
+    "ranks": [
+      "(When quest starts) Local and Remote\r\nResonance alternate, increasing attack\r\nor affinity when conditions are met.",
+      "Increases the effect of Resonance I, and\r\nthe effect of the weapon skill Synthetic\r\nShield or the effect of Synergy."
+    ]
+  },
+  "31998": {
+    "id": 31998,
+    "name": "Synergy",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "27684744": {
+    "id": 27684744,
+    "name": "Foray",
+    "max_level": 5,
+    "ranks": [
+      "Attack +6 against large monsters\r\naffected by poison or paralysis.",
+      "Attack +8 and affinity +5%\r\nagainst large monsters affected\r\nby poison or paralysis.",
+      "Attack +10 and affinity +10%\r\nagainst large monsters affected\r\nby poison or paralysis.",
+      "Attack +12 and affinity +15%\r\nagainst large monsters affected\r\nby poison or paralysis.",
+      "Attack +15 and affinity +20%\r\nagainst large monsters affected\r\nby poison or paralysis."
+    ]
+  },
+  "78208296": {
+    "id": 78208296,
+    "name": "Jump Master",
+    "max_level": 1,
+    "ranks": [
+      "Negates knockback during\r\njumps."
+    ]
+  },
+  "144660544": {
+    "id": 144660544,
+    "name": "Evade Window",
+    "max_level": 5,
+    "ranks": [
+      "Very slightly increases\r\ninvulnerability window.",
+      "Slightly increases\r\ninvulnerability window.",
+      "Increases invulnerability\r\nwindow.",
+      "Greatly increases\r\ninvulnerability window.",
+      "Massively increases\r\ninvulnerability window."
+    ]
+  },
+  "166057120": {
+    "id": 166057120,
+    "name": "Sleep Attack",
+    "max_level": 3,
+    "ranks": [
+      "Sleep buildup +5%\r\nBonus: +10",
+      "Sleep buildup +10%\r\nBonus: +20",
+      "Sleep buildup +20%\r\nBonus: +50"
+    ]
+  },
+  "169998480": {
+    "id": 169998480,
+    "name": "Sleep Functionality",
+    "max_level": 1,
+    "ranks": [
+      "Lets you use sleep coatings."
+    ]
+  },
+  "192746944": {
+    "id": 192746944,
+    "name": "Earplugs",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the effects of weak\r\nmonster roars.",
+      "Nullifies weak monster roars and\r\nreduces the effects of strong\r\nmonster roars.",
+      "Nullifies weak and strong\r\nmonster roars."
+    ]
+  },
+  "280489184": {
+    "id": 280489184,
+    "name": "Counterstrike",
+    "max_level": 3,
+    "ranks": [
+      "Attack +10 while active.",
+      "Attack +15 while active.\r\nModerately extends effect time.",
+      "Attack +25 while active.\r\nExtends effect time."
+    ]
+  },
+  "313598432": {
+    "id": 313598432,
+    "name": "Critical Element",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases elemental damage\r\nwhile active.",
+      "Increases elemental damage\r\nwhile active.",
+      "Greatly increases elemental damage\r\nwhile active."
+    ]
+  },
+  "353114912": {
+    "id": 353114912,
+    "name": "Charge Up",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "383104832": {
+    "id": 383104832,
+    "name": "Water Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Water resistance +6",
+      "Water resistance +12",
+      "Water resistance +20\r\nDefense +10"
+    ]
+  },
+  "397306144": {
+    "id": 397306144,
+    "name": "Bludgeoner",
+    "max_level": 3,
+    "ranks": [
+      "+5% damage dealt when\r\nyour sharpness gauge is\r\nyellow or lower.",
+      "+10% damage dealt when\r\nyour sharpness gauge is\r\nyellow or lower.",
+      "+10% damage dealt when\r\nyour sharpness gauge is\r\ngreen or lower."
+    ]
+  },
+  "402237312": {
+    "id": 402237312,
+    "name": "Airborne",
+    "max_level": 1,
+    "ranks": [
+      "Jumping attack power +10%"
+    ]
+  },
+  "422666624": {
+    "id": 422666624,
+    "name": "Heroics",
+    "max_level": 5,
+    "ranks": [
+      "Defense +50 while active.",
+      "Attack +5% and defense +50\r\nwhile active.",
+      "Attack +5% and defense +100\r\nwhile active.",
+      "Attack +10% and defense +100\r\nwhile active.",
+      "Attack +30% and defense-increasing\r\neffects are negated while active."
+    ]
+  },
+  "424768352": {
+    "id": 424768352,
+    "name": "Adaptability",
+    "max_level": 2,
+    "ranks": [
+      "Negates the effects of heat and cold.",
+      "Negates environmental damage."
+    ]
+  },
+  "451472896": {
+    "id": 451472896,
+    "name": "Buttery Leathercraft",
+    "max_level": 1,
+    "ranks": [
+      "Increases your affinity temporarily\r\nwhen sliding on terrain."
+    ]
+  },
+  "469540352": {
+    "id": 469540352,
+    "name": "Tool Specialist",
+    "max_level": 5,
+    "ranks": [
+      "Shortens recharge time by 10%.",
+      "Shortens recharge time by 20%.",
+      "Shortens recharge time by 30%.",
+      "Shortens recharge time by 40%.",
+      "Shortens recharge time by 50%."
+    ]
+  },
+  "508916704": {
+    "id": 508916704,
+    "name": "Water Attack",
+    "max_level": 3,
+    "ranks": [
+      "Water attack +40",
+      "Water attack +10%\r\nBonus: +50",
+      "Water attack +20%\r\nBonus: +60"
+    ]
+  },
+  "522288832": {
+    "id": 522288832,
+    "name": "Paralysis Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the duration\r\nof paralysis by 30%.",
+      "Reduces the duration\r\nof paralysis by 60%.",
+      "Prevents paralysis."
+    ]
+  },
+  "539707072": {
+    "id": 539707072,
+    "name": "Rey Dau's Voltage",
+    "max_level": 2,
+    "ranks": [
+      "Moderately extends the activation\r\ntime of the Latent Power skill.",
+      "Extends the activation time of the\r\nLatent Power skill."
+    ]
+  },
+  "552982656": {
+    "id": 552982656,
+    "name": "Piercing Shots",
+    "max_level": 1,
+    "ranks": [
+      "Slightly increases the power of\r\nspecified ammo and arrows."
+    ]
+  },
+  "565867136": {
+    "id": 565867136,
+    "name": "Burst",
+    "max_level": 5,
+    "ranks": [
+      "On first hit, gain a small temporary\r\nattack and element boost, replaced\r\nby a larger boost after the fifth hit.",
+      "Hit 5 successive times for\r\na moderate stat boost.",
+      "Hit 5 successive times for\r\na bigger stat boost.",
+      "Hit 5 successive times for\r\nan even bigger stat boost.",
+      "Hit 5 successive times for\r\na huge stat boost."
+    ]
+  },
+  "576193792": {
+    "id": 576193792,
+    "name": "Whiteflame Torrent",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect. (When used\r\nwith Scorcher, does not stack but\r\nadds extra fire damage.)"
+    ]
+  },
+  "583598144": {
+    "id": 583598144,
+    "name": "Alluring Pelt",
+    "max_level": 1,
+    "ranks": [
+      "Increases the attention drawn to you\r\nwhen attacking a monster."
+    ]
+  },
+  "595870656": {
+    "id": 595870656,
+    "name": "Geologist",
+    "max_level": 3,
+    "ranks": [
+      "One extra item when gathering\r\nfrom bonepiles.",
+      "Additionally adds one extra item\r\nwhen gathering special items.",
+      "Additionally adds one extra item\r\nwhen gathering from mining\r\noutcrops."
+    ]
+  },
+  "632127488": {
+    "id": 632127488,
+    "name": "Maximum Might",
+    "max_level": 3,
+    "ranks": [
+      "Affinity +10% while active",
+      "Affinity +20% while active",
+      "Affinity +30% while active"
+    ]
+  },
+  "634068352": {
+    "id": 634068352,
+    "name": "Speed Eating",
+    "max_level": 3,
+    "ranks": [
+      "Moderately increases eating\r\nspeed.",
+      "Increases eating speed.",
+      "Greatly increases eating\r\nspeed."
+    ]
+  },
+  "652161472": {
+    "id": 652161472,
+    "name": "Ice Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Ice resistance +6",
+      "Ice resistance +12",
+      "Ice resistance +20\r\nDefense +10"
+    ]
+  },
+  "673822976": {
+    "id": 673822976,
+    "name": "Evade Extender",
+    "max_level": 3,
+    "ranks": [
+      "Slightly extends evasion\r\ndistance.",
+      "Extends evasion distance.",
+      "Greatly extends evasion\r\ndistance."
+    ]
+  },
+  "686533440": {
+    "id": 686533440,
+    "name": "Critical Draw",
+    "max_level": 3,
+    "ranks": [
+      "Affinity +50%",
+      "Affinity +75%",
+      "Affinity +100%"
+    ]
+  },
+  "691199232": {
+    "id": 691199232,
+    "name": "Power Prolonger",
+    "max_level": 3,
+    "ranks": [
+      "Moderately boosts the duration\r\nweapons are powered up.",
+      "Boosts the duration weapons\r\nare powered up.",
+      "Greatly boosts the duration\r\nweapons are powered up."
+    ]
+  },
+  "705317568": {
+    "id": 705317568,
+    "name": "Stun Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the duration\r\nof stun by 30%.",
+      "Reduces the duration\r\nof stun by 60%.",
+      "Prevents stun."
+    ]
+  },
+  "722735744": {
+    "id": 722735744,
+    "name": "Gore Magala's Tyranny",
+    "max_level": 2,
+    "ranks": [
+      "Infects you with Frenzy when against\r\nlarge monsters.",
+      "Infects you with Frenzy and raises\r\nattack when against large monsters.\r\nAttack power increases upon recovery."
+    ]
+  },
+  "741102208": {
+    "id": 741102208,
+    "name": "Blangonga's Spirit",
+    "max_level": 2,
+    "ranks": [
+      "Using the To Victory! gesture moderately \r\nincreases attack temporarily to nearby allies.\r\nGreatly effects Palicoes and Support Hunters.",
+      "Using the To Victory! gesture increases\r\nattack temporarily to nearby allies. Greatly\r\neffects Palicoes and Support Hunters."
+    ]
+  },
+  "742695104": {
+    "id": 742695104,
+    "name": "Flinch Free",
+    "max_level": 3,
+    "ranks": [
+      "Prevents knockbacks.",
+      "Prevents knockbacks. Tripping is\r\nreduced to a knockback instead.",
+      "Prevents knockbacks and\r\ntripping."
+    ]
+  },
+  "802725120": {
+    "id": 802725120,
+    "name": "Load Shells",
+    "max_level": 2,
+    "ranks": [
+      "Increases shell and phial\r\nreloading speed.",
+      "Increases shell/phial reloading speed.\r\nGunlance loading capacity +1. Charge\r\nblade charges 5 phials on yellow gauge."
+    ]
+  },
+  "820385792": {
+    "id": 820385792,
+    "name": "Blast Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Delays blastblight and reduces\r\nblast damage.",
+      "Greatly delays blastblight and\r\ngreatly reduces blast damage.",
+      "Prevents blastblight."
+    ]
+  },
+  "850626240": {
+    "id": 850626240,
+    "name": "Free Meal",
+    "max_level": 3,
+    "ranks": [
+      "Activates 10% of the time.",
+      "Activates 25% of the time.",
+      "Activates 45% of the time."
+    ]
+  },
+  "860517760": {
+    "id": 860517760,
+    "name": "Botanist",
+    "max_level": 4,
+    "ranks": [
+      "One extra consumable herb\r\nitem per gather.",
+      "Additionally adds one extra\r\nconsumable fruit, nut, or seed\r\nitem per gather.",
+      "Additionally adds one extra\r\nconsumable insect item per\r\ngather.",
+      "Additionally adds one extra\r\nconsumable mushroom item\r\nper gather."
+    ]
+  },
+  "894530496": {
+    "id": 894530496,
+    "name": "Wide-Range",
+    "max_level": 5,
+    "ranks": [
+      "Items affect nearby allies\r\nwith 33% of their efficacy.",
+      "Items affect nearby allies\r\nin a wider radius with 33%\r\nof their efficacy.",
+      "Items affect nearby allies\r\nin a wider radius with 66%\r\nof their efficacy.",
+      "Items affect nearby allies\r\nin a much wider radius with\r\n66% of their efficacy.",
+      "Items affect nearby allies\r\nin a much wider radius with\r\nfull efficacy."
+    ]
+  },
+  "898284480": {
+    "id": 898284480,
+    "name": "Entomologist",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "918165056": {
+    "id": 918165056,
+    "name": "Ebony Odogaron's Power",
+    "max_level": 2,
+    "ranks": [
+      "Extends the duration of the Burst\r\nskill and grants attack +8 while\r\nBurst is active.",
+      "Further extends the duration of\r\nthe Burst skill and grants attack +18\r\nwhile Burst is active."
+    ]
+  },
+  "919683456": {
+    "id": 919683456,
+    "name": "Poison Functionality",
+    "max_level": 1,
+    "ranks": [
+      "Lets you use poison coatings."
+    ]
+  },
+  "1050520384": {
+    "id": 1050520384,
+    "name": "Razor Sharp",
+    "max_level": 3,
+    "ranks": [
+      "Grants a 10% chance of no\r\nsharpness loss.",
+      "Grants a 25% chance of no\r\nsharpness loss.",
+      "Grants a 50% chance of no\r\nsharpness loss."
+    ]
+  },
+  "1077686656": {
+    "id": 1077686656,
+    "name": "Defense Boost",
+    "max_level": 7,
+    "ranks": [
+      "Defense +5",
+      "Defense +10",
+      "Defense +5%\r\nBonus: +10",
+      "Defense +5%\r\nBonus: +20\r\nAll elemental resistances +3",
+      "Defense +8%\r\nBonus: +20\r\nAll elemental resistances +3",
+      "Defense +8%\r\nBonus: +35\r\nAll elemental resistances +5",
+      "Defense +10%\r\nBonus: +35\r\nAll elemental resistances +5"
+    ]
+  },
+  "1160639488": {
+    "id": 1160639488,
+    "name": "Handicraft",
+    "max_level": 5,
+    "ranks": [
+      "Weapon sharpness +10",
+      "Weapon sharpness +20",
+      "Weapon sharpness +30",
+      "Weapon sharpness +40",
+      "Weapon sharpness +50"
+    ]
+  },
+  "1174975744": {
+    "id": 1174975744,
+    "name": "Adrenaline Rush",
+    "max_level": 5,
+    "ranks": [
+      "Attack +10 while active.",
+      "Attack +15 while active.",
+      "Attack +20 while active.",
+      "Attack +25 while active.",
+      "Attack +30 while active."
+    ]
+  },
+  "1268070400": {
+    "id": 1268070400,
+    "name": "Ice Attack",
+    "max_level": 3,
+    "ranks": [
+      "Ice attack +40",
+      "Ice attack +10%\r\nBonus: +50",
+      "Ice attack +20%\r\nBonus: +60"
+    ]
+  },
+  "1346775424": {
+    "id": 1346775424,
+    "name": "Divine Blessing",
+    "max_level": 3,
+    "ranks": [
+      "While active, reduces damage\r\ntaken by 15%.",
+      "While active, reduces damage\r\ntaken by 30%.",
+      "While active, reduces damage\r\ntaken by 50%."
+    ]
+  },
+  "1359821952": {
+    "id": 1359821952,
+    "name": "Resentment",
+    "max_level": 5,
+    "ranks": [
+      "Attack +5 while active.",
+      "Attack +10 while active.",
+      "Attack +15 while active.",
+      "Attack +20 while active.",
+      "Attack +25 while active."
+    ]
+  },
+  "1389859584": {
+    "id": 1389859584,
+    "name": "Master's Touch",
+    "max_level": 1,
+    "ranks": [
+      "Grants an 80% chance of no\r\nsharpness loss while active."
+    ]
+  },
+  "1425756032": {
+    "id": 1425756032,
+    "name": "Fire Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Fire resistance +6",
+      "Fire resistance +12",
+      "Fire resistance +20\r\nDefense +10"
+    ]
+  },
+  "1444935552": {
+    "id": 1444935552,
+    "name": "Speed Sharpening",
+    "max_level": 2,
+    "ranks": [
+      "Removes one cycle from\r\nthe sharpening process.",
+      "Removes two cycles from\r\nthe sharpening process."
+    ]
+  },
+  "1452140672": {
+    "id": 1452140672,
+    "name": "Thunder Attack",
+    "max_level": 3,
+    "ranks": [
+      "Thunder attack +40",
+      "Thunder attack +10%\r\nBonus: +50",
+      "Thunder attack +20%\r\nBonus: +60"
+    ]
+  },
+  "1459579264": {
+    "id": 1459579264,
+    "name": "Poison Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the number of times\r\nyou take poison damage.",
+      "Greatly reduces the number of\r\ntimes you take poison damage.",
+      "Prevents poison."
+    ]
+  },
+  "1470960256": {
+    "id": 1470960256,
+    "name": "Partbreaker",
+    "max_level": 3,
+    "ranks": [
+      "Increases part damage and\r\ndamage dealt when conditions\r\nare met by 10%.",
+      "Increases part damage and\r\ndamage dealt when conditions\r\nare met by 20%.",
+      "Increases part damage and\r\ndamage dealt when conditions\r\nare met by 30%."
+    ]
+  },
+  "1472632704": {
+    "id": 1472632704,
+    "name": "Intimidator",
+    "max_level": 3,
+    "ranks": [
+      "Discourages monsters from engaging\r\nyou even if you've been spotted.",
+      "Highly discourages monsters from\r\nengaging you even if you've\r\nbeen spotted.",
+      "Prevents monsters from engaging\r\nyou even if you've been spotted."
+    ]
+  },
+  "1484575872": {
+    "id": 1484575872,
+    "name": "Lord's Soul",
+    "max_level": 1,
+    "ranks": [
+      "Boosts attack and lowers defense\r\nbut lets you survive one lethal hit.\r\nAfterwards, boosts defense and res."
+    ]
+  },
+  "1487598336": {
+    "id": 1487598336,
+    "name": "Scaling Prowess",
+    "max_level": 1,
+    "ranks": [
+      "Makes it easier to mount monsters\r\nand to wound them once mounted."
+    ]
+  },
+  "1489568384": {
+    "id": 1489568384,
+    "name": "Elemental Absorption",
+    "max_level": 3,
+    "ranks": [
+      "While active, slightly increases\r\nelemental attack, and resistance\r\nto element taken at activation by 4.",
+      "While active, moderately increases\r\nelemental attack, and resistance\r\nto element taken at activation by 6.",
+      "While active, increases elemental\r\nattack, and resistance to element\r\ntaken at activation by 8."
+    ]
+  },
+  "1500129152": {
+    "id": 1500129152,
+    "name": "Protective Polish",
+    "max_level": 3,
+    "ranks": [
+      "Grants no sharpness loss for\r\n30 seconds after activation.",
+      "Grants no sharpness loss for\r\n60 seconds after activation.",
+      "Grants no sharpness loss for\r\n90 seconds after activation."
+    ]
+  },
+  "1522518528": {
+    "id": 1522518528,
+    "name": "Iron Skin",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the duration of defense\r\ndown by 50%.",
+      "Reduces the duration of defense\r\ndown by 75%.",
+      "Prevents defense down."
+    ]
+  },
+  "1594792704": {
+    "id": 1594792704,
+    "name": "Mind's Eye",
+    "max_level": 3,
+    "ranks": [
+      "50% chance of your attacks\r\nnot being deflected, +10% attack\r\npower against hard targets.",
+      "100% chance of your attacks\r\nnot being deflected, +15% attack\r\npower against hard targets.",
+      "100% chance of your attacks\r\nnot being deflected, +30% attack\r\npower against hard targets."
+    ]
+  },
+  "1613139840": {
+    "id": 1613139840,
+    "name": "Tetrad Shot",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases the attack\r\npower and affinity of ammo\r\nafter certain conditions are met.",
+      "Moderately increases attack power\r\nand affinity of ammo after certain\r\nconditions are met.",
+      "Increases the attack power\r\nand affinity of ammo after\r\ncertain conditions are met."
+    ]
+  },
+  "1639440000": {
+    "id": 1639440000,
+    "name": "Self-Improvement",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  "1685697920": {
+    "id": 1685697920,
+    "name": "Neopteron Camouflage",
+    "max_level": 1,
+    "ranks": [
+      "Increases movement speed while\r\ncrouching, and makes it easier to\r\nescape large monsters' detection."
+    ]
+  },
+  "1711950720": {
+    "id": 1711950720,
+    "name": "Opening Shot",
+    "max_level": 3,
+    "ranks": [
+      "Moderately increases bowgun reload\r\nspeed and attack power of ammo\r\nwhen certain conditions are met.",
+      "Increases bowgun reload speed\r\nand attack power of ammo when\r\ncertain conditions are met.",
+      "Greatly increases bowgun reload\r\nspeed and attack power of ammo\r\nwhen certain conditions are met."
+    ]
+  },
+  "1758661504": {
+    "id": 1758661504,
+    "name": "Stamina Thief",
+    "max_level": 3,
+    "ranks": [
+      "Exhaust power +20%",
+      "Exhaust power +30%",
+      "Exhaust power +40%"
+    ]
+  },
+  "1763191040": {
+    "id": 1763191040,
+    "name": "Latent Power",
+    "max_level": 5,
+    "ranks": [
+      "While active, affinity +10%\r\nand reduces stamina\r\ndepletion by 30%.",
+      "While active, affinity +20%\r\nand reduces stamina\r\ndepletion by 30%.",
+      "While active, affinity +30%\r\nand reduces stamina\r\ndepletion by 50%.",
+      "While active, affinity +40%\r\nand reduces stamina\r\ndepletion by 50%.",
+      "While active, affinity +50%\r\nand reduces stamina\r\ndepletion by 50%."
+    ]
+  },
+  "1845834112": {
+    "id": 1845834112,
+    "name": "Outdoorsman",
+    "max_level": 1,
+    "ranks": [
+      "Improves fishing, grilling,\r\nand transporting abilities."
+    ]
+  },
+  "1865909632": {
+    "id": 1865909632,
+    "name": "Agitator",
+    "max_level": 5,
+    "ranks": [
+      "Attack +4 and affinity +3%\r\nwhile active.",
+      "Attack +8 and affinity +5%\r\nwhile active.",
+      "Attack +12 and affinity +7%\r\nwhile active.",
+      "Attack +16 and affinity +10%\r\nwhile active.",
+      "Attack +20 and affinity +15%\r\nwhile active."
+    ]
+  },
+  "1934955136": {
+    "id": 1934955136,
+    "name": "Palico Rally",
+    "max_level": 5,
+    "ranks": [
+      "Increases Palico attack power\r\nand defense by 5%.",
+      "Increases Palico attack power\r\nand defense by 10%.",
+      "Increases Palico attack power\r\nand defense by 15%.",
+      "Increases Palico attack power\r\nand defense by 20%.",
+      "Increases Palico attack power\r\nand defense by 25%."
+    ]
+  },
+  "1940820864": {
+    "id": 1940820864,
+    "name": "Bleeding Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces damage while bleeding.",
+      "Greatly reduces damage while\r\nbleeding.",
+      "Prevents bleeding."
+    ]
+  },
+  "1966172160": {
+    "id": 1966172160,
+    "name": "Bind Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Allows you to quickly recover from\r\nwebbed status or frostblight.",
+      "Allows you to very quickly recover\r\nfrom webbed status or frostblight.",
+      "Prevents webbed status and frostblight."
+    ]
+  },
+  "1968728576": {
+    "id": 1968728576,
+    "name": "Neopteron Alert",
+    "max_level": 1,
+    "ranks": [
+      "Increases the amount of honey\r\nyou gain from gathering points."
+    ]
+  },
+  "1980404096": {
+    "id": 1980404096,
+    "name": "Nu Udra's Mutiny",
+    "max_level": 2,
+    "ranks": [
+      "Deals moderate additional damage\r\nwhile the Resentment skill is active.",
+      "Deals additional damage while the\r\nResentment skill is active."
+    ]
+  },
+  "1998066176": {
+    "id": 1998066176,
+    "name": "Fortifying Pelt",
+    "max_level": 1,
+    "ranks": [
+      "Increases attack and defense after\r\nfainting during a quest. (Can be used\r\ntwice.)"
+    ]
+  },
+  "2045149568": {
+    "id": 2045149568,
+    "name": "Hunger Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Extends the time until your\r\nstamina cap reduces by 50%.",
+      "Extends the time until your\r\nstamina cap reduces by 100%.",
+      "Prevents your stamina cap\r\nfrom decreasing."
+    ]
+  },
+  "2083363072": {
+    "id": 2083363072,
+    "name": "Convert Element",
+    "max_level": 3,
+    "ranks": [
+      "While active, deals extra dragon damage\r\nafter dealing enough elemental damage.\r\nSlightly increases dragon attack.",
+      "Increases additional dragon damage\r\nand increases dragon attack.",
+      "Further increases additional dragon\r\ndamage and greatly increases dragon\r\nattack."
+    ]
+  },
+  "2104075392": {
+    "id": 2104075392,
+    "name": "Uth Duna's Cover",
+    "max_level": 2,
+    "ranks": [
+      "Increases defense temporarily when\r\nusing a specialized tool.",
+      "Greatly increases defense and\r\nresistance temporarily when\r\nusing a specialized tool."
+    ]
+  },
+  "2106877312": {
+    "id": 2106877312,
+    "name": "Peak Performance",
+    "max_level": 5,
+    "ranks": [
+      "Attack +3 while active.",
+      "Attack +6 while active.",
+      "Attack +10 while active.",
+      "Attack +15 while active.",
+      "Attack +20 while active."
+    ]
+  },
+  "2107855744": {
+    "id": 2107855744,
+    "name": "Lord's Fury",
+    "max_level": 1,
+    "ranks": [
+      "Increases attack when inflicted with\r\nailments."
+    ]
+  },
+  "2143068800": {
+    "id": 2143068800,
+    "name": "Thunder Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Thunder resistance +6",
+      "Thunder resistance +12",
+      "Thunder resistance +20\r\nDefense +10"
+    ]
+  }
+}

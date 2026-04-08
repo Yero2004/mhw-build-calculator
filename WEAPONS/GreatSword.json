@@ -1,0 +1,4248 @@
+[
+  {
+    "id": 1,
+    "kind": "great-sword",
+    "name": "Hope Blade I",
+    "description": "A great sword made specifically\r\nfor the expedition. Its large\r\nblade can clear the area in\r\none sweep.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 50,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        15,
+        65
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "great-sword",
+    "name": "Hope Blade II",
+    "description": "A great sword made specifically\r\nfor the expedition. Its large\r\nblade can clear the area in\r\none sweep.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 60,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        22
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "great-sword",
+    "name": "Hope Blade III",
+    "description": "A great sword made specifically\r\nfor the expedition. Its large\r\nblade can clear the area in\r\none sweep.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        28
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "great-sword",
+    "name": "Hope Blade IV",
+    "description": "A great sword made specifically\r\nfor the expedition. Its large\r\nblade can clear the area in\r\none sweep.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "great-sword",
+    "name": "Hope Blade V",
+    "description": "A great sword made specifically\r\nfor the expedition. Its large\r\nblade can clear the area in\r\none sweep.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 70,
+      "blue": 60,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        76
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "great-sword",
+    "name": "Valkyrie Blade I",
+    "description": "A great sword made of bone and\r\nfortified with Rathian\r\nmaterials, giving it a regal,\r\ndignified air.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 120,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        31
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 7,
+    "kind": "great-sword",
+    "name": "Valkyrie Blade II",
+    "description": "A great sword made of bone and\r\nfortified with Rathian\r\nmaterials, giving it a regal,\r\ndignified air.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 40,
+      "green": 120,
+      "blue": 50,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 8,
+    "kind": "great-sword",
+    "name": "Sieglinde",
+    "description": "An upgraded Valkyrie Blade.\r\nNamed for a ravishing queen,\r\nits sweet poison ends the\r\nlife of prey.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 30,
+      "green": 120,
+      "blue": 40,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 7,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 9,
+    "kind": "great-sword",
+    "name": "Chicken Decapitator I",
+    "description": "A splendid great sword that\r\nlooks like a Yian Kut-Ku's wing.\r\nElaborate work went into the\r\nblade.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 100,
+      "yellow": 70,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 45,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "522": 5,
+        "524": 2,
+        "526": 3,
+        "527": 1
+      },
+      "previous_id": null,
+      "branches": [
+        10,
+        56
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 10,
+    "kind": "great-sword",
+    "name": "Chicken Decapitator II",
+    "description": "A splendid great sword that\r\nlooks like a Yian Kut-Ku's wing.\r\nElaborate work went into the\r\nblade.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 120,
+      "yellow": 50,
+      "green": 70,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 55,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "389": 2,
+        "525": 4,
+        "534": 1,
+        "594": 4
+      },
+      "previous_id": 9,
+      "branches": [
+        11
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 11,
+    "kind": "great-sword",
+    "name": "Rooster Decapitator",
+    "description": "An upgraded Chicken Decapitator.\r\nThe blade's stunning manufacture\r\nis rightly considered a work of\r\nart.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 110,
+      "orange": 120,
+      "yellow": 20,
+      "green": 80,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 60,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "388": 1,
+        "523": 6,
+        "659": 5
+      },
+      "previous_id": 10,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 12,
+    "kind": "great-sword",
+    "name": "Nihil Great Sword I",
+    "description": "A fearsome, freakish Xu Wu great\r\nsword with eerie patterns that\r\nwarp one's perception of space.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 70,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "440": 3,
+        "443": 2,
+        "444": 1
+      },
+      "previous_id": 33,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 13,
+    "kind": "great-sword",
+    "name": "Nihil Great Sword II",
+    "description": "A fearsome, freakish Xu Wu great\r\nsword with eerie patterns that\r\nwarp one's perception of space.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 70,
+      "green": 70,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "298": 2,
+        "445": 1,
+        "450": 6,
+        "451": 4
+      },
+      "previous_id": 12,
+      "branches": [
+        14
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 14,
+    "kind": "great-sword",
+    "name": "Prinvrilo's Dissolution",
+    "description": "An upgraded Nihil Great Sword.\r\nIrregular jags along both\r\nedges leave flesh horrifically\r\nscarred.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 50,
+      "green": 50,
+      "blue": 70,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "448": 6,
+        "449": 4,
+        "452": 1,
+        "660": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 15,
+    "kind": "great-sword",
+    "name": "Quematrice Espada I",
+    "description": "A Quematrice great sword\r\ndesigned to ignite with a simple\r\nsqueeze of the grip.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 70,
+      "green": 10,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "88": 3,
+        "90": 1,
+        "299": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 16,
+    "kind": "great-sword",
+    "name": "Quematrice Espada II",
+    "description": "A Quematrice great sword\r\ndesigned to ignite with a simple\r\nsqueeze of the grip.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 80,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "55": 1,
+        "91": 1,
+        "580": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        17
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 17,
+    "kind": "great-sword",
+    "name": "Quematrice Espada III",
+    "description": "A Quematrice great sword\r\ndesigned to ignite with a simple\r\nsqueeze of the grip.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 80,
+      "green": 60,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 23,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "303": 5,
+        "304": 3,
+        "305": 2
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 18,
+    "kind": "great-sword",
+    "name": "Quematrice Espada IV",
+    "description": "A Quematrice great sword\r\ndesigned to ignite with a simple\r\nsqueeze of the grip.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 100,
+      "green": 80,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "302": 6,
+        "389": 3,
+        "594": 5
+      },
+      "previous_id": 17,
+      "branches": [
+        19
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 19,
+    "kind": "great-sword",
+    "name": "Firetrail Blaisdell",
+    "description": "An upgraded Quematrice Espada.\r\nWreathed in hungry flame, it\r\ncan sear the atmosphere in\r\none stroke.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 100,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "301": 6,
+        "388": 1,
+        "659": 5
+      },
+      "previous_id": 18,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 20,
+    "kind": "great-sword",
+    "name": "Cheda Blade I",
+    "description": "A great sword resembling\r\na Seregios horn. Its dazzling\r\nblow cuts through any darkness.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 21,
+    "kind": "great-sword",
+    "name": "Impudent Cheda",
+    "description": "The Cheda Blade's upgraded\r\nform gleams with its\r\ninexhaustible sharpness.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 20,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 22,
+    "kind": "great-sword",
+    "name": "Buster Sword I",
+    "description": "A modified iron great sword\r\nthat's perfect for beginners\r\nand widely admired for its\r\nhandling.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 40,
+      "yellow": 90,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 23,
+    "kind": "great-sword",
+    "name": "Buster Sword II",
+    "description": "A modified iron great sword\r\nthat's perfect for beginners\r\nand widely admired for its\r\nhandling.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 22,
+      "branches": [
+        24
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 24,
+    "kind": "great-sword",
+    "name": "Buster Sword III",
+    "description": "A modified iron great sword\r\nthat's perfect for beginners\r\nand widely admired for its\r\nhandling.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 23,
+      "branches": [
+        25,
+        26
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 25,
+    "kind": "great-sword",
+    "name": "Ravager Blade",
+    "description": "A steel great sword with giant,\r\nextending talons. The talons are\r\nnormally stored inside the blade.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 24,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 26,
+    "kind": "great-sword",
+    "name": "Jin Dhavaar I",
+    "description": "A Jin Dahaad great sword.\r\nThe ice from its massive double\r\nedge is capable of freezing the\r\nvery air.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 50,
+      "green": 100,
+      "blue": 100,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 55,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "421": 4,
+        "422": 5,
+        "425": 1,
+        "707": 1
+      },
+      "previous_id": 24,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 27,
+    "kind": "great-sword",
+    "name": "Precipice Metallam",
+    "description": "An upgraded Jin Dhavaar.\r\nMassive like Jin Dahaad,\r\nit has the power to cleave\r\nmountains into cliffs.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 50,
+      "green": 80,
+      "blue": 110,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 60,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "420": 4,
+        "423": 4,
+        "424": 1,
+        "661": 5
+      },
+      "previous_id": 26,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 28,
+    "kind": "great-sword",
+    "name": "Albirath Wing I",
+    "description": "A Guardian Rathalos great\r\nsword. Like a blazing fire,\r\nits wielder's spirit never\r\nabates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 60,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 28,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        29
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 29,
+    "kind": "great-sword",
+    "name": "Albirath Wing II",
+    "description": "A Guardian Rathalos great\r\nsword. Like a blazing fire,\r\nits wielder's spirit never\r\nabates.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 120,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 34,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 28,
+      "branches": [
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 30,
+    "kind": "great-sword",
+    "name": "Whitefire Rathguard",
+    "description": "An upgraded Albirath Wing.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 150,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 29,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 31,
+    "kind": "great-sword",
+    "name": "Red Wing I",
+    "description": "A great sword inspired by\r\na Rathalos wing. Its incendiary\r\nmaterials turn every slash into\r\nan arc of flame.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 50,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 44,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 6,
+      "branches": [
+        32,
+        37
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 32,
+    "kind": "great-sword",
+    "name": "Rathalos Firesword",
+    "description": "The Red Wing's upgraded form,\r\nan advanced model that turns\r\nthe wake of every slash to\r\nscorched earth.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 31,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 33,
+    "kind": "great-sword",
+    "name": "Immane Blade I",
+    "description": "Unique Nerscylla materials gave\r\nrise to this ingenious great\r\nsword that defies the limits\r\nof the forge.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 30,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "513": 3,
+        "515": 2,
+        "605": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        12,
+        34
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 34,
+    "kind": "great-sword",
+    "name": "Immane Blade II",
+    "description": "Unique Nerscylla materials gave\r\nrise to this ingenious great\r\nsword that defies the limits\r\nof the forge.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 30,
+      "green": 100,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 31,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "521": 1,
+        "606": 3
+      },
+      "previous_id": 33,
+      "branches": [
+        35
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 35,
+    "kind": "great-sword",
+    "name": "Immane Blade III",
+    "description": "Unique Nerscylla materials gave\r\nrise to this ingenious great\r\nsword that defies the limits\r\nof the forge.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 37,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "425": 3,
+        "480": 2,
+        "490": 3,
+        "520": 5
+      },
+      "previous_id": 34,
+      "branches": [
+        36
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 36,
+    "kind": "great-sword",
+    "name": "Immolator Blade",
+    "description": "The Immane Blade's upgraded\r\nform, a hulk of devastation\r\nwith a keen edge that sunders\r\nprey in twain.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 35,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 37,
+    "kind": "great-sword",
+    "name": "Schattenstolz I",
+    "description": "A jet-black Gore Magala great\r\nsword. Its eye places targets\r\nin thrall, then condemns them\r\nto death eternal.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 70,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 37,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 31,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 38,
+    "kind": "great-sword",
+    "name": "Düsterstolz",
+    "description": "An upgraded Schattenstolz.\r\nEach accursed slash beckons\r\nforth more demons to the\r\nrevels.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 60,
+      "blue": 60,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 37,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 39,
+    "kind": "great-sword",
+    "name": "Bone Blade I",
+    "description": "A great sword crafted from\r\nmonster bone and designed to\r\ndo as much devastation to prey\r\nas possible.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 50,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        40,
+        50
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 40,
+    "kind": "great-sword",
+    "name": "Bone Blade II",
+    "description": "A great sword crafted from\r\nmonster bone and designed to\r\ndo as much devastation to prey\r\nas possible.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 1,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 39,
+      "branches": [
+        33,
+        41,
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 41,
+    "kind": "great-sword",
+    "name": "Bone Blade III",
+    "description": "A great sword crafted from\r\nmonster bone and designed to\r\ndo as much devastation to prey\r\nas possible.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 100,
+      "green": 10,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 40,
+      "branches": [
+        42
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 42,
+    "kind": "great-sword",
+    "name": "Bone Blade IV",
+    "description": "A great sword crafted from\r\nmonster bone and designed to\r\ndo as much devastation to prey\r\nas possible.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 90,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 41,
+      "branches": [
+        43
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 43,
+    "kind": "great-sword",
+    "name": "Bone Slasher",
+    "description": "This upgraded Bone Blade may\r\nnot be as sharp as iron, but it\r\nhas no problems slicing up prey.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 80,
+      "green": 60,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 42,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 44,
+    "kind": "great-sword",
+    "name": "Nu Krake I",
+    "description": "A Nu Udra great sword that\r\ndooms the craven as soon as\r\nthey enter the shadow of its\r\nfalling blade.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 100,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 1,
+      "1500129152": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "376": 3,
+        "377": 2,
+        "380": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        45
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 45,
+    "kind": "great-sword",
+    "name": "Nu Krake II",
+    "description": "A Nu Udra great sword that\r\ndooms the craven as soon as\r\nthey enter the shadow of its\r\nfalling blade.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 120,
+      "green": 70,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 37,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 2,
+      "1500129152": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "381": 1,
+        "384": 5,
+        "387": 4,
+        "389": 3
+      },
+      "previous_id": 44,
+      "branches": [
+        46
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 46,
+    "kind": "great-sword",
+    "name": "Abaddonian Krake",
+    "description": "An upgraded Nu Krake. Take it\r\nand descend now into hell to\r\nclaim total power over life\r\nand death.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 120,
+      "green": 50,
+      "blue": 50,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 2,
+      "1500129152": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "385": 4,
+        "386": 6,
+        "388": 1,
+        "661": 5
+      },
+      "previous_id": 45,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 47,
+    "kind": "great-sword",
+    "name": "Slaughter I",
+    "description": "A great sword laced with a\r\nthousand poisons. The mere\r\naccount of how a tyrant king\r\nused it is akin to brutality.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 120,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 41,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "529": 5,
+        "530": 3,
+        "531": 2,
+        "533": 1
+      },
+      "previous_id": null,
+      "branches": [
+        48
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 48,
+    "kind": "great-sword",
+    "name": "Slaughter II",
+    "description": "A great sword laced with a\r\nthousand poisons. The mere\r\naccount of how a tyrant king\r\nused it is akin to brutality.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 80,
+      "green": 70,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 44,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "532": 4,
+        "547": 2,
+        "602": 4
+      },
+      "previous_id": 47,
+      "branches": [
+        49
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 49,
+    "kind": "great-sword",
+    "name": "Poison King",
+    "description": "The Slaughter's upgraded form,\r\na concept so horrific that\r\ncreating one was verboten...\r\nuntil now.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 110,
+      "green": 70,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "529": 6,
+        "534": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 48,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 50,
+    "kind": "great-sword",
+    "name": "Dosha Fellslayer I",
+    "description": "A Doshaguma great sword with\r\na thick blade capable of readily\r\nsundering most any obstruction.",
+    "rarity": 2,
+    "raw": 140,
+    "affinity": -10,
+    "defense": 20,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 60,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "34": 3,
+        "35": 2,
+        "36": 1
+      },
+      "previous_id": 39,
+      "branches": [
+        51,
+        53,
+        58
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 51,
+    "kind": "great-sword",
+    "name": "Dosha Fellslayer II",
+    "description": "A Doshaguma great sword with\r\na thick blade capable of readily\r\nsundering most any obstruction.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -10,
+    "defense": 20,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 90,
+      "yellow": 80,
+      "green": 10,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "33": 3,
+        "392": 1,
+        "588": 1
+      },
+      "previous_id": 50,
+      "branches": [
+        52
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 52,
+    "kind": "great-sword",
+    "name": "Dosha Fellslayer III",
+    "description": "A Doshaguma great sword with\r\na thick blade capable of readily\r\nsundering most any obstruction.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 20,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 140,
+      "green": 50,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "319": 6,
+        "320": 4,
+        "321": 2
+      },
+      "previous_id": 51,
+      "branches": [
+        80
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 53,
+    "kind": "great-sword",
+    "name": "Dosha Grimslayer I",
+    "description": "A Guardian Doshaguma great\r\nsword. To its defiers it shows\r\nno mercy, forcefully returning\r\nthem to nature.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 120,
+      "green": 10,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "390": 3,
+        "392": 2,
+        "393": 1
+      },
+      "previous_id": 50,
+      "branches": [
+        54
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 54,
+    "kind": "great-sword",
+    "name": "Dosha Grimslayer II",
+    "description": "A Guardian Doshaguma great\r\nsword. To its defiers it shows\r\nno mercy, forcefully returning\r\nthem to nature.",
+    "rarity": 6,
+    "raw": 220,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 110,
+      "yellow": 110,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "397": 6,
+        "398": 4,
+        "399": 2,
+        "608": 1
+      },
+      "previous_id": 53,
+      "branches": [
+        55
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 55,
+    "kind": "great-sword",
+    "name": "Grimslayer Urgeom",
+    "description": "An upgraded Dosha Grimslayer.\r\nIts destructive impulses\r\ntransform wielders into violence\r\nincarnate.",
+    "rarity": 8,
+    "raw": 250,
+    "affinity": -20,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 100,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "395": 6,
+        "660": 5,
+        "665": 6
+      },
+      "previous_id": 54,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 56,
+    "kind": "great-sword",
+    "name": "Smiting Fulgur I",
+    "description": "A Guardian Fulgur Anjanath great\r\nsword. Only one able to tame its\r\nbrutality through reason can\r\nwield it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 100,
+      "yellow": 130,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 44,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 9,
+      "branches": [
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 57,
+    "kind": "great-sword",
+    "name": "Fulgurcleaver Guardiana",
+    "description": "An upgraded Smiting Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 120,
+      "green": 70,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 56,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 58,
+    "kind": "great-sword",
+    "name": "G. Veldian Gladius I",
+    "description": "A great sword made from Guardian\r\nspoils. A wondrous power\r\nemanating from the grip\r\nabolishes fear.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 50,
+      "yellow": 90,
+      "green": 10,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 50,
+      "branches": [
+        59
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 59,
+    "kind": "great-sword",
+    "name": "G. Veldian Gladius II",
+    "description": "A great sword made from Guardian\r\nspoils. A wondrous power\r\nemanating from the grip\r\nabolishes fear.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 80,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 58,
+      "branches": [
+        60,
+        61
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 60,
+    "kind": "great-sword",
+    "name": "G. Stalwart Lamorak",
+    "description": "An upgraded G. Veldian Gladius.\r\nIt will enthrall naive wielders\r\nto a swath of destruction.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 90,
+      "yellow": 50,
+      "green": 80,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 59,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 61,
+    "kind": "great-sword",
+    "name": "Veldian Gladius I",
+    "description": "An Arkveld great sword. Well-\r\nknown are the valiant feats of\r\nits gifted knight-wielder.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 120,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 47,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 59,
+      "branches": [
+        81
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 62,
+    "kind": "great-sword",
+    "name": "Frozen Speartuna I",
+    "description": "A Speartuna, frozen solid.\r\nProof of one's status as a\r\nmaster angler, but it also\r\ndoubles as a great sword.",
+    "rarity": 4,
+    "raw": 150,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 90,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "587": 5,
+        "599": 5,
+        "615": 1
+      },
+      "previous_id": null,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1272948352
+  },
+  {
+    "id": 63,
+    "kind": "great-sword",
+    "name": "Frozen Speartuna II",
+    "description": "A Speartuna, frozen solid.\r\nProof of one's status as a\r\nmaster angler, but it also\r\ndoubles as a great sword.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 110,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 60,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3,
+      "-893407296": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "600": 4,
+        "615": 2,
+        "658": 5,
+        "698": 5
+      },
+      "previous_id": 62,
+      "branches": [
+        64
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1272948352
+  },
+  {
+    "id": 64,
+    "kind": "great-sword",
+    "name": "Freezer Speartuna",
+    "description": "Call this not a Frozen Speartuna,\r\nfor this is a Freezer Speartuna—\r\na tuna arisen to its destiny!",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 90,
+      "green": 110,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 70,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3,
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "62": 1,
+        "424": 1,
+        "615": 3,
+        "659": 5
+      },
+      "previous_id": 63,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1272948352
+  },
+  {
+    "id": 65,
+    "kind": "great-sword",
+    "name": "Paretic Blade I",
+    "description": "A great sword with a striking\r\nblack coating on the blade that\r\nhelps it absorb and retain\r\nparalytic agents.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        66
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1616428288
+  },
+  {
+    "id": 66,
+    "kind": "great-sword",
+    "name": "Paretic Blade II",
+    "description": "A great sword with a striking\r\nblack coating on the blade that\r\nhelps it absorb and retain\r\nparalytic agents.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 60,
+      "orange": 80,
+      "yellow": 100,
+      "green": 10,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 31,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 3,
+        "515": 1
+      },
+      "previous_id": 65,
+      "branches": [
+        67
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1616428288
+  },
+  {
+    "id": 67,
+    "kind": "great-sword",
+    "name": "Paretic Blade III",
+    "description": "A great sword with a striking\r\nblack coating on the blade that\r\nhelps it absorb and retain\r\nparalytic agents.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 100,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 41,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 66,
+      "branches": [
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1616428288
+  },
+  {
+    "id": 68,
+    "kind": "great-sword",
+    "name": "Paretic Blade IV",
+    "description": "A great sword with a striking\r\nblack coating on the blade that\r\nhelps it absorb and retain\r\nparalytic agents.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 100,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 47,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 67,
+      "branches": [
+        69
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1616428288
+  },
+  {
+    "id": 69,
+    "kind": "great-sword",
+    "name": "Destructive Torpor",
+    "description": "An upgraded Paretic Blade.\r\nTrue to the black rose's\r\nmessage, it seeps with\r\neternal, paralyzing hatred.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 100,
+      "green": 110,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 68,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1616428288
+  },
+  {
+    "id": 70,
+    "kind": "great-sword",
+    "name": "Artian Blade I",
+    "description": "A weapon assembled from\r\nunearthed fragments. Long ago,\r\nthese would morph based on\r\nthe force applied.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 71,
+    "kind": "great-sword",
+    "name": "Artian Blade II",
+    "description": "A weapon assembled from\r\nunearthed fragments. Long ago,\r\nthese would morph based on\r\nthe force applied.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 72,
+    "kind": "great-sword",
+    "name": "Varianza",
+    "description": "An ancient weapon with latent\r\npotential, which this completed\r\nform demonstrates to the fullest.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 73,
+    "kind": "great-sword",
+    "name": "Zoh Veiah I",
+    "description": "A Zoh Shia great sword with\r\na bared blade that thirsts\r\nfor glory.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 100,
+      "green": 40,
+      "blue": 50,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        92
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 76,
+    "kind": "great-sword",
+    "name": "Esperanza Blade",
+    "description": "A fully field-tested Hope Blade.\r\nWith a single, mighty swing,\r\ncleave your way to a brighter\r\nfuture.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 60,
+      "blue": 40,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 77,
+    "kind": "great-sword",
+    "name": "Hanayako Yohino I",
+    "description": "A great sword of a refined,\r\neducated samurai. These\r\npetals blossom with death.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        78
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 78,
+    "kind": "great-sword",
+    "name": "Akanesasu",
+    "description": "A Hanayako Yohino upgrade.\r\nShines pale in the dawn\r\nlike the lives it snatches.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 45,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 77,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 79,
+    "kind": "great-sword",
+    "name": "Shadowbringer",
+    "description": "A two-handed blade wielded by\r\nknights who are pariahs in\r\ntheir own land. Its edge is\r\ndyed with their convictions.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 30,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 70,
+      "green": 60,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "3813": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "737": 1,
+        "738": 7,
+        "740": 5,
+        "741": 4
+      },
+      "previous_id": null,
+      "branches": [
+        84
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 569042624
+  },
+  {
+    "id": 80,
+    "kind": "great-sword",
+    "name": "Fellslayer Dangeom",
+    "description": "An upgraded Dosha Fellslayer.\r\nAll who lay eyes on it tremble\r\nas it devours the weak, despair\r\nand all.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 20,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 130,
+      "green": 50,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "318": 6,
+        "660": 5
+      },
+      "previous_id": 52,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 81,
+    "kind": "great-sword",
+    "name": "Stalwart Lamorak",
+    "description": "An upgraded Veldian Gladius.\r\nA mirror of its valiant wielder,\r\nit is the picture of fury when\r\ncharged.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 90,
+      "blue": 80,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 61,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 82,
+    "kind": "great-sword",
+    "name": "Lagiacrus Blade I",
+    "description": "An electric great sword made\r\nusing Lagiacrus materials.\r\nDanger: High Voltage!",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 110,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        83
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 83,
+    "kind": "great-sword",
+    "name": "High Lagia Blade",
+    "description": "The Lagiacrus Blade's upgraded\r\nform is fury incarnate, its thunder\r\ncommanding awe.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 90,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 55,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 82,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 84,
+    "kind": "great-sword",
+    "name": "True Shadowbringer",
+    "description": "A Shadowbringer that has\r\nawakened to its true power\r\nafter conquering the darkness\r\nwithin.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 30,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 60,
+      "green": 50,
+      "blue": 40,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 60,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "3813": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "737": 1,
+        "739": 6,
+        "743": 4,
+        "744": 1
+      },
+      "previous_id": 79,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 569042624
+  },
+  {
+    "id": 85,
+    "kind": "great-sword",
+    "name": "Jawblade I",
+    "description": "A great sword of traditional\r\nbone. Named as such because\r\nit resembles a carnivore's\r\ntoothy maw.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 110,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2,
+      "1500129152": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "589": 5,
+        "616": 1,
+        "655": 5,
+        "657": 5
+      },
+      "previous_id": null,
+      "branches": [
+        86
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -547584512
+  },
+  {
+    "id": 86,
+    "kind": "great-sword",
+    "name": "Giant Jawblade",
+    "description": "The Jawblade's upgraded\r\nform is still powerful, but\r\nnow it's much sharper too.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 120,
+      "green": 50,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2,
+      "1500129152": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "62": 1,
+        "616": 2,
+        "656": 5,
+        "660": 5
+      },
+      "previous_id": 85,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -547584512
+  },
+  {
+    "id": 87,
+    "kind": "great-sword",
+    "name": "Ostrak Oblivion",
+    "description": "A grotesque loneliness that\r\nthirsts for potential, unable\r\nto recall aught but woe.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 88,
+    "kind": "great-sword",
+    "name": "Ostrak Oblivion",
+    "description": "A grotesque loneliness that\r\nthirsts for potential, unable\r\nto recall aught but woe.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 89,
+    "kind": "great-sword",
+    "name": "Ostrak Oblivion",
+    "description": "A grotesque loneliness that\r\nthirsts for potential, unable\r\nto recall aught but woe.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 92,
+    "kind": "great-sword",
+    "name": "Blazing Veiah",
+    "description": "Veiah harketh from on high:\r\nThou who seekest glory,\r\nmay thy blade devour all\r\nlight.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 100,
+      "green": 40,
+      "blue": 30,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 73,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  }
+]

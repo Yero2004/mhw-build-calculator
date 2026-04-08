@@ -1,0 +1,4319 @@
+[
+  {
+    "id": 1,
+    "kind": "dual-blades",
+    "name": "Hope Daggers I",
+    "description": "Dual blades made specifically for\r\nthe expedition. Allows a hunter\r\nto unleash the power of a demon.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 40,
+      "yellow": 40,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        15
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "dual-blades",
+    "name": "Hope Daggers II",
+    "description": "Dual blades made specifically for\r\nthe expedition. Allows a hunter\r\nto unleash the power of a demon.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        11
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "dual-blades",
+    "name": "Hope Daggers III",
+    "description": "Dual blades made specifically for\r\nthe expedition. Allows a hunter\r\nto unleash the power of a demon.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 40,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        41,
+        71
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "dual-blades",
+    "name": "Hope Daggers IV",
+    "description": "Dual blades made specifically for\r\nthe expedition. Allows a hunter\r\nto unleash the power of a demon.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 70,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "dual-blades",
+    "name": "Hope Daggers V",
+    "description": "Dual blades made specifically for\r\nthe expedition. Allows a hunter\r\nto unleash the power of a demon.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 40,
+      "green": 70,
+      "blue": 60,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        74
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "dual-blades",
+    "name": "Bone Hatchets I",
+    "description": "Sturdy dual blades for beginners.\r\nThey remain rough-hewn to best\r\ntake advantage of the materials.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 90,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        20,
+        25,
+        28
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 7,
+    "kind": "dual-blades",
+    "name": "Bone Hatchets II",
+    "description": "Sturdy dual blades for beginners.\r\nThey remain rough-hewn to best\r\ntake advantage of the materials.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 120,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 1,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8,
+        31
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 8,
+    "kind": "dual-blades",
+    "name": "Bone Hatchets III",
+    "description": "Sturdy dual blades for beginners.\r\nThey remain rough-hewn to best\r\ntake advantage of the materials.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 9,
+    "kind": "dual-blades",
+    "name": "Bone Hatchets IV",
+    "description": "Sturdy dual blades for beginners.\r\nThey remain rough-hewn to best\r\ntake advantage of the materials.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 120,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 8,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 10,
+    "kind": "dual-blades",
+    "name": "Wild Hatchets",
+    "description": "No less crude but far more\r\nsavage, these Bone Hatchets\r\nhave been reinforced for\r\nmaximum devastation.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 60,
+      "green": 70,
+      "blue": 120,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 11,
+    "kind": "dual-blades",
+    "name": "Dual Hatchets I",
+    "description": "Dual blades designed to mince\r\nprey. As someone wise once said:\r\nWhy fight with one axe if you've\r\ngot two hands?",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 10,
+      "orange": 40,
+      "yellow": 90,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        12,
+        46
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 12,
+    "kind": "dual-blades",
+    "name": "Dual Hatchets II",
+    "description": "Dual blades designed to mince\r\nprey. As someone wise once said:\r\nWhy fight with one axe if you've\r\ngot two hands?",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 60,
+      "yellow": 90,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 13,
+    "kind": "dual-blades",
+    "name": "Dual Hatchets III",
+    "description": "Dual blades designed to mince\r\nprey. As someone wise once said:\r\nWhy fight with one axe if you've\r\ngot two hands?",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 12,
+      "branches": [
+        14,
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 14,
+    "kind": "dual-blades",
+    "name": "Dual Cleavers",
+    "description": "Now that these Dual Hatchets have\r\nachieved cleaver status, they're\r\npowerful enough to clear forests.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 15,
+    "kind": "dual-blades",
+    "name": "Quematrice Silexes I",
+    "description": "Quematrice dual blades with an\r\nambitious design that ignites using\r\nfriction to rip-'n'-roast quarry.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 30,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 7,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "88": 3,
+        "90": 1,
+        "299": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 16,
+    "kind": "dual-blades",
+    "name": "Quematrice Silexes II",
+    "description": "Quematrice dual blades with an\r\nambitious design that ignites using\r\nfriction to rip-'n'-roast quarry.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 40,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 9,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "55": 1,
+        "91": 1,
+        "580": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        17
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 17,
+    "kind": "dual-blades",
+    "name": "Quematrice Silexes III",
+    "description": "Quematrice dual blades with an\r\nambitious design that ignites using\r\nfriction to rip-'n'-roast quarry.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 60,
+      "green": 50,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 11,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "303": 5,
+        "304": 3,
+        "305": 2
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 18,
+    "kind": "dual-blades",
+    "name": "Quematrice Silexes IV",
+    "description": "Quematrice dual blades with an\r\nambitious design that ignites using\r\nfriction to rip-'n'-roast quarry.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 60,
+      "green": 80,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "302": 6,
+        "389": 3,
+        "594": 5
+      },
+      "previous_id": 17,
+      "branches": [
+        19
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 19,
+    "kind": "dual-blades",
+    "name": "Firetrail Magnesiae",
+    "description": "Upgraded Quematrice Silexes.\r\nUnquellable fire bursts from each\r\nflurry of blows, immolating prey.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 60,
+      "green": 80,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "301": 6,
+        "388": 1,
+        "659": 5
+      },
+      "previous_id": 18,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 20,
+    "kind": "dual-blades",
+    "name": "Barina Faucilles I",
+    "description": "Lala Barina dual blades that, like\r\ntheir namesake, deftly paralyze\r\nprey and divest it of life.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 40,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 6,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 6,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 21,
+    "kind": "dual-blades",
+    "name": "Barina Faucilles II",
+    "description": "Lala Barina dual blades that, like\r\ntheir namesake, deftly paralyze\r\nprey and divest it of life.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 30,
+      "yellow": 30,
+      "green": 120,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 8,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 2,
+        "515": 1
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 22,
+    "kind": "dual-blades",
+    "name": "Barina Faucilles III",
+    "description": "Lala Barina dual blades that, like\r\ntheir namesake, deftly paralyze\r\nprey and divest it of life.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 30,
+      "yellow": 30,
+      "green": 100,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 11,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 23,
+    "kind": "dual-blades",
+    "name": "Barina Faucilles IV",
+    "description": "Lala Barina dual blades that, like\r\ntheir namesake, deftly paralyze\r\nprey and divest it of life.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 30,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 22,
+      "branches": [
+        24
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 24,
+    "kind": "dual-blades",
+    "name": "Lala Harpactirs",
+    "description": "Upgraded Barina Faucilles with even\r\nsharper edges—a brutal, beautiful,\r\nentrancing duet of scarlet.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 30,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 120,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 23,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 25,
+    "kind": "dual-blades",
+    "name": "Pink Maracas I",
+    "description": "Congalala dual blades. These are\r\nheavy enough for centrifugal force\r\nto carry home their mighty blows.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "504": 3,
+        "505": 2,
+        "506": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        26,
+        35
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 26,
+    "kind": "dual-blades",
+    "name": "Pink Maracas II",
+    "description": "Congalala dual blades. These are\r\nheavy enough for centrifugal force\r\nto carry home their mighty blows.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 60,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "510": 5,
+        "511": 4,
+        "572": 2,
+        "585": 1
+      },
+      "previous_id": 25,
+      "branches": [
+        27
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 27,
+    "kind": "dual-blades",
+    "name": "Funky Maracas",
+    "description": "The Pink Maracas' enhanced form.\r\nExtra weight and centrifugal force\r\nmean that these shakers can quake.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 60,
+      "green": 60,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 3,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "512": 2,
+        "659": 5
+      },
+      "previous_id": 26,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 28,
+    "kind": "dual-blades",
+    "name": "Dosha Fastflayers I",
+    "description": "Doshaguma dual blades that revel in\r\nbeing savagely wielded, dealing\r\neven more devastating blows.",
+    "rarity": 2,
+    "raw": 140,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "sharpness": {
+      "red": 10,
+      "orange": 90,
+      "yellow": 100,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "34": 3,
+        "35": 2,
+        "36": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        29,
+        38,
+        49
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 29,
+    "kind": "dual-blades",
+    "name": "Dosha Fastflayers II",
+    "description": "Doshaguma dual blades that revel in\r\nbeing savagely wielded, dealing\r\neven more devastating blows.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 90,
+      "yellow": 80,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "33": 3,
+        "392": 1,
+        "588": 1
+      },
+      "previous_id": 28,
+      "branches": [
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 30,
+    "kind": "dual-blades",
+    "name": "Dosha Fastflayers III",
+    "description": "Doshaguma dual blades that revel in\r\nbeing savagely wielded, dealing\r\neven more devastating blows.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "319": 6,
+        "320": 4,
+        "321": 2
+      },
+      "previous_id": 29,
+      "branches": [
+        78
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 31,
+    "kind": "dual-blades",
+    "name": "Uth Ngarpatu I",
+    "description": "Uth Duna dual blades marked with\r\npatterns that evoke an awe for\r\nand devotion to nature's greatness.",
+    "rarity": 3,
+    "raw": 160,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "324": 1,
+        "326": 2,
+        "328": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        32
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 32,
+    "kind": "dual-blades",
+    "name": "Uth Ngarpatu II",
+    "description": "Uth Duna dual blades marked with\r\npatterns that evoke an awe for\r\nand devotion to nature's greatness.",
+    "rarity": 5,
+    "raw": 190,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 100,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "62": 1,
+        "315": 1,
+        "596": 3
+      },
+      "previous_id": 31,
+      "branches": [
+        33
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 33,
+    "kind": "dual-blades",
+    "name": "Uth Ngarpatu III",
+    "description": "Uth Duna dual blades marked with\r\npatterns that evoke an awe for\r\nand devotion to nature's greatness.",
+    "rarity": 7,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 120,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "327": 1,
+        "331": 3,
+        "333": 5,
+        "335": 3
+      },
+      "previous_id": 32,
+      "branches": [
+        34
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 34,
+    "kind": "dual-blades",
+    "name": "Ngarpatu-of-the-Waves",
+    "description": "Upgraded Uth Ngarpatu. The weight\r\nof every life birthed by the forest\r\nacross time rests in your two hands.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "330": 6,
+        "332": 6,
+        "334": 1,
+        "661": 5
+      },
+      "previous_id": 33,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 35,
+    "kind": "dual-blades",
+    "name": "Ajara Twin Edges I",
+    "description": "Ajarakan dual blades that transfer\r\nheat with each awful gash,\r\nultimately triggering an explosion.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 9,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "363": 3,
+        "365": 2,
+        "367": 1
+      },
+      "previous_id": 25,
+      "branches": [
+        36
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 36,
+    "kind": "dual-blades",
+    "name": "Ajara Twin Edges II",
+    "description": "Ajarakan dual blades that transfer\r\nheat with each awful gash,\r\nultimately triggering an explosion.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 90,
+      "green": 40,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "368": 1,
+        "372": 3,
+        "373": 2,
+        "375": 2
+      },
+      "previous_id": 35,
+      "branches": [
+        37
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 37,
+    "kind": "dual-blades",
+    "name": "Ajara-Panthaka",
+    "description": "Ajara Twin Edges by their true\r\nname. Apoplectic, demonic,\r\nthey punish all who stand in\r\ntheir path.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 90,
+      "blue": 40,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "371": 6,
+        "374": 1,
+        "660": 5
+      },
+      "previous_id": 36,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 38,
+    "kind": "dual-blades",
+    "name": "Dosha Guardflayers I",
+    "description": "Guardian Doshaguma dual blades.\r\nTo its defiers it shows no mercy,\r\nferally returning them to nature.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 70,
+      "yellow": 120,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "390": 3,
+        "392": 2,
+        "393": 1
+      },
+      "previous_id": 28,
+      "branches": [
+        39
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 39,
+    "kind": "dual-blades",
+    "name": "Dosha Guardflayers II",
+    "description": "Guardian Doshaguma dual blades.\r\nTo its defiers it shows no mercy,\r\nferally returning them to nature.",
+    "rarity": 6,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 110,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "397": 6,
+        "398": 4,
+        "399": 2,
+        "608": 1
+      },
+      "previous_id": 38,
+      "branches": [
+        40
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 40,
+    "kind": "dual-blades",
+    "name": "Guardflayers Urbastra",
+    "description": "Upgraded Dosha Guardflayers.\r\nTheir destructive impulses transform\r\nwielders into violence incarnate.",
+    "rarity": 8,
+    "raw": 250,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 60,
+      "yellow": 100,
+      "green": 90,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "395": 6,
+        "660": 5,
+        "665": 6
+      },
+      "previous_id": 39,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 41,
+    "kind": "dual-blades",
+    "name": "Twin Albiraths I",
+    "description": "Guardian Rathalos dual blades.\r\nLike a blazing fire, their\r\nwielder's spirit never abates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 50,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 9,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        42
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 42,
+    "kind": "dual-blades",
+    "name": "Twin Albiraths II",
+    "description": "Guardian Rathalos dual blades.\r\nLike a blazing fire, their\r\nwielder's spirit never abates.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 50,
+      "green": 40,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 41,
+      "branches": [
+        43
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 43,
+    "kind": "dual-blades",
+    "name": "Wyvern Sentinels",
+    "description": "Upgraded Twin Albiraths.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 130,
+      "yellow": 50,
+      "green": 50,
+      "blue": 40,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 42,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 44,
+    "kind": "dual-blades",
+    "name": "Jin Dhakoo I",
+    "description": "Jin Dahaad dual blades. Cold in\r\ntemperature and temperament alike,\r\nthey leave wounds that never heal.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 20,
+      "green": 100,
+      "blue": 110,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "421": 4,
+        "422": 5,
+        "425": 1,
+        "707": 1
+      },
+      "previous_id": 13,
+      "branches": [
+        45
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 45,
+    "kind": "dual-blades",
+    "name": "Precipice Ulokiem",
+    "description": "An upgraded Jin Dhakoo. Expert\r\ncraftsmanship in the rows of blades\r\nevokes an eternal river of ice.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 10,
+      "green": 80,
+      "blue": 120,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "420": 4,
+        "423": 4,
+        "424": 1,
+        "661": 5
+      },
+      "previous_id": 44,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 46,
+    "kind": "dual-blades",
+    "name": "Chthonian Kusarigamas I",
+    "description": "Guardian Ebony Odogaron dual\r\nblade. Beholden to their own\r\nbeastly cravings, their thirst for\r\nblood never wanes.",
+    "rarity": 4,
+    "raw": 140,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 60,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "426": 3,
+        "428": 2,
+        "429": 1
+      },
+      "previous_id": 11,
+      "branches": [
+        47
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 47,
+    "kind": "dual-blades",
+    "name": "Chthonian Kusarigamas II",
+    "description": "Guardian Ebony Odogaron dual\r\nblade. Beholden to their own\r\nbeastly cravings, their thirst for\r\nblood never wanes.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "431": 1,
+        "435": 6,
+        "438": 2,
+        "608": 1
+      },
+      "previous_id": 46,
+      "branches": [
+        48
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 48,
+    "kind": "dual-blades",
+    "name": "Bequeathed Oblivion",
+    "description": "Upgraded Chthonian Kusarigamas.\r\nDespite chewing free of its cycle of\r\nhunger, the beast remains unsated.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 60,
+      "green": 80,
+      "blue": 100,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "436": 6,
+        "437": 1,
+        "455": 6,
+        "660": 5
+      },
+      "previous_id": 47,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 49,
+    "kind": "dual-blades",
+    "name": "G. Veldian Harpes I",
+    "description": "Dual blades made from Guardian\r\nspoils. They galvanize the body\r\nwith a sense of unrivaled power.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 10,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 9,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 28,
+      "branches": [
+        50
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 50,
+    "kind": "dual-blades",
+    "name": "G. Veldian Harpes II",
+    "description": "Dual blades made from Guardian\r\nspoils. They galvanize the body\r\nwith a sense of unrivaled power.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 49,
+      "branches": [
+        51,
+        70
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 51,
+    "kind": "dual-blades",
+    "name": "G. Inspired Ywain",
+    "description": "An upgraded G. Veldian Harpes.\r\nSo long as there is breath to howl,\r\nso too will these blades dance.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 50,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 52,
+    "kind": "dual-blades",
+    "name": "Kut-Ku Pair I",
+    "description": "These darling Yian Kut-Ku dual\r\nblades look like two cute widdle\r\nears! Well, maybe not THAT little...",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 90,
+      "yellow": 50,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "522": 5,
+        "524": 2,
+        "526": 3,
+        "527": 1
+      },
+      "previous_id": null,
+      "branches": [
+        53,
+        66
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 53,
+    "kind": "dual-blades",
+    "name": "Kut-Ku Pair II",
+    "description": "These darling Yian Kut-Ku dual\r\nblades look like two cute widdle\r\nears! Well, maybe not THAT little...",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 100,
+      "yellow": 30,
+      "green": 70,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "389": 2,
+        "525": 4,
+        "534": 1,
+        "594": 4
+      },
+      "previous_id": 52,
+      "branches": [
+        54
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 54,
+    "kind": "dual-blades",
+    "name": "Dual Kut-Ku",
+    "description": "The Kut-Ku Pair's upgraded form.\r\nLet's just say those cute widdle\r\nears aren't messing around anymore.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 110,
+      "yellow": 20,
+      "green": 60,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "388": 1,
+        "523": 6,
+        "659": 5
+      },
+      "previous_id": 53,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 55,
+    "kind": "dual-blades",
+    "name": "Dual Battleaxes I",
+    "description": "A poison sword & shield design\r\nrepurposed into dual blades. Not\r\ntoo original, but plenty effective.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 40,
+      "yellow": 90,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "529": 5,
+        "530": 3,
+        "531": 2,
+        "533": 1
+      },
+      "previous_id": null,
+      "branches": [
+        56,
+        58
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 56,
+    "kind": "dual-blades",
+    "name": "Dual Battleaxes II",
+    "description": "A poison sword & shield design\r\nrepurposed into dual blades. Not\r\ntoo original, but plenty effective.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 60,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "532": 4,
+        "547": 2,
+        "602": 4
+      },
+      "previous_id": 55,
+      "branches": [
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 57,
+    "kind": "dual-blades",
+    "name": "Final Battleaxes",
+    "description": "An upgrade for the Dual\r\nBattleaxes that enhances toxicity\r\nwith a blade treatment invisible\r\nto the naked eye.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 90,
+      "green": 50,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "529": 6,
+        "534": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 56,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 58,
+    "kind": "dual-blades",
+    "name": "Whirling Fulgur I",
+    "description": "Guardian Fulgur Anjanath dual\r\nblades. Only one able to tame\r\ntheir brutality through reason\r\ncan wield it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 100,
+      "yellow": 90,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 55,
+      "branches": [
+        59
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 59,
+    "kind": "dual-blades",
+    "name": "Fulgurtwins Guardiana",
+    "description": "An upgraded Whirling Fulgur.\r\nIts savage urges thwart reason and \r\nwill destroy an overeager wielder.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 120,
+      "green": 30,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 58,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 60,
+    "kind": "dual-blades",
+    "name": "Blango Sai I",
+    "description": "Three-pronged swords as cold\r\nas the Blangonga's icy clime, and\r\ngood for more than just slashes\r\nand thrusts.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 80,
+      "green": 80,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 11,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "538": 5,
+        "539": 4,
+        "541": 2,
+        "577": 4
+      },
+      "previous_id": null,
+      "branches": [
+        61
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 61,
+    "kind": "dual-blades",
+    "name": "Blango Trishula",
+    "description": "Upgraded Blango Sai, akin to the\r\nones a simian god used to lead his\r\nforces against a demonic horde.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 80,
+      "green": 80,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "424": 1,
+        "537": 6,
+        "540": 4,
+        "660": 5
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 62,
+    "kind": "dual-blades",
+    "name": "Gravios Warmakers I",
+    "description": "Dual blades that feature the same\r\nblast properties as a Gravios.\r\nThe trick is to rip as you slice.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 70,
+      "yellow": 80,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      30,
+      20
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "543": 3,
+        "544": 4,
+        "546": 5,
+        "547": 2
+      },
+      "previous_id": null,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 63,
+    "kind": "dual-blades",
+    "name": "Gravios Conquerors",
+    "description": "Upgraded Gravios Warmakers. The\r\nsturdy serrated blade was carefully\r\ncrafted to take chunks out of prey.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 70,
+      "green": 70,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "542": 6,
+        "545": 1,
+        "660": 5
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 64,
+    "kind": "dual-blades",
+    "name": "Zakun Twins I",
+    "description": "Dual blades resembling Seregios\r\ntalons. Like sickles, their edges\r\ncut down any obstacles as\r\nthough they were mere weeds.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        65
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 65,
+    "kind": "dual-blades",
+    "name": "Terrible Twins",
+    "description": "The Zakun Twins's upgraded\r\nform. These sharp talons have\r\nunmatched cutting power.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 64,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 66,
+    "kind": "dual-blades",
+    "name": "Twin Flames I",
+    "description": "In these dual blades resides the\r\nincendiary power of the fire wyvern\r\nclan, packing punch into each blow.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 30,
+      "green": 30,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "103": 5,
+        "411": 1,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 52,
+      "branches": [
+        67,
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 67,
+    "kind": "dual-blades",
+    "name": "Wyvern Lovers",
+    "description": "Upgraded Twin Flames.\r\nThe champion over wyvern fire\r\nwho wields them will set the\r\nworld ablaze.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 30,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "106": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 66,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 68,
+    "kind": "dual-blades",
+    "name": "Fledderklauen I",
+    "description": "Gore Magala dual blades that\r\nherald catastrophe, their\r\nhorrible stare a promise of\r\nunspeakable death.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 50,
+      "blue": 40,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 66,
+      "branches": [
+        69
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 69,
+    "kind": "dual-blades",
+    "name": "Hungerklauen",
+    "description": "An upgraded Fledderklauen.\r\nTheir eyes are awash with despair,\r\na vision of the world's ghastly end.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 40,
+      "blue": 40,
+      "white": 90,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 68,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 70,
+    "kind": "dual-blades",
+    "name": "Veldian Harpes I",
+    "description": "Arkveld dual blades. Long ago, they\r\ncould be seen dancing in the hands\r\nof a lionhearted warrior-knight.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 70,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 50,
+      "branches": [
+        79
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 71,
+    "kind": "dual-blades",
+    "name": "Guild Knight Sabers I",
+    "description": "Swords issued to elite guild\r\nknights for special assignments.\r\nTheir sharpness defies mortal make.",
+    "rarity": 4,
+    "raw": 130,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "57": 4,
+        "578": 1,
+        "583": 2,
+        "595": 2
+      },
+      "previous_id": 3,
+      "branches": [
+        72
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1032609600
+  },
+  {
+    "id": 72,
+    "kind": "dual-blades",
+    "name": "Guild Knight Sabers II",
+    "description": "Swords issued to elite guild\r\nknights for special assignments.\r\nTheir sharpness defies mortal make.",
+    "rarity": 6,
+    "raw": 160,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 60,
+      "blue": 90,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 5,
+        "596": 4,
+        "608": 1
+      },
+      "previous_id": 71,
+      "branches": [
+        73
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1032609600
+  },
+  {
+    "id": 73,
+    "kind": "dual-blades",
+    "name": "Master Sabers",
+    "description": "Upgraded Guild Knight Sabers,\r\nweapons so sacrosanct that they\r\nrequire royal permission to wield.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 50,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "334": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 72,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1032609600
+  },
+  {
+    "id": 74,
+    "kind": "dual-blades",
+    "name": "Esperanza Daggers",
+    "description": "Fully field-tested Hope Daggers.\r\nTo realize one's hopes, one must be\r\nprepared to sacrifice all defenses.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 40,
+      "green": 60,
+      "blue": 40,
+      "white": 100,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 75,
+    "kind": "dual-blades",
+    "name": "Artian Edges I",
+    "description": "A weapon assembled from\r\nunearthed fragments. While the\r\nblades are separate, the intent\r\nwas a single chakram.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 76,
+    "kind": "dual-blades",
+    "name": "Artian Edges II",
+    "description": "A weapon assembled from\r\nunearthed fragments. While the\r\nblades are separate, the intent\r\nwas a single chakram.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 77,
+    "kind": "dual-blades",
+    "name": "Tiltkreise",
+    "description": "An ancient weapon with latent\r\npotential. Restored to a chakram,\r\nthese blades will raze the land.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 78,
+    "kind": "dual-blades",
+    "name": "Fastflayers Jambastra",
+    "description": "Dosha Fastflayers with a taste for\r\nblood—an urgent hunger that may\r\none day turn them on their wielder.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 90,
+      "green": 50,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "318": 6,
+        "660": 5
+      },
+      "previous_id": 30,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 79,
+    "kind": "dual-blades",
+    "name": "Inspired Ywain",
+    "description": "Upgraded Veldian Harpes. When the\r\ndemon in their wielder's soul wakes,\r\nthey seem to change form in reply.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 60,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 70,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 80,
+    "kind": "dual-blades",
+    "name": "Zoh Liel I",
+    "description": "Zoh Shia dual blades whose\r\nbond has entwined them for\r\nall eternity.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 40,
+      "yellow": 90,
+      "green": 30,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        81
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 81,
+    "kind": "dual-blades",
+    "name": "Blazing Liel",
+    "description": "Liel harketh from on high:\r\nThou who seekest connection,\r\nmay thy blades bind thee\r\nfor eternity.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 40,
+      "yellow": 90,
+      "green": 30,
+      "blue": 30,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 80,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 83,
+    "kind": "dual-blades",
+    "name": "Morning Dawn I",
+    "description": "Shining radiantly at dawn,\r\nthese blades bestow their\r\nowner with prosperity.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        84
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 84,
+    "kind": "dual-blades",
+    "name": "Evening Dusk",
+    "description": "The Morning Dawn's upgraded\r\nform. Their cuts are as clean\r\nas a fresh, new beginning.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 50,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 83,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 85,
+    "kind": "dual-blades",
+    "name": "Tasty Blades",
+    "description": "A first-rate hunter is also a first-\r\nrate cook. There's nothing like\r\na well-cooked piece of meat.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 150,
+      "orange": 50,
+      "yellow": 20,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "16931": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "91": 2,
+        "303": 4,
+        "594": 4,
+        "799": 2
+      },
+      "previous_id": null,
+      "branches": [
+        86
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -547584512
+  },
+  {
+    "id": 86,
+    "kind": "dual-blades",
+    "name": "Well-done Blades",
+    "description": "Tasty Blades that have been\r\ncooked to absolute perfection,\r\nenhancing both their flavor and\r\ntheir sharpness.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 150,
+      "orange": 40,
+      "yellow": 20,
+      "green": 50,
+      "blue": 90,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "16931": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "559": 2,
+        "560": 1,
+        "661": 5,
+        "799": 1
+      },
+      "previous_id": 85,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -547584512
+  },
+  {
+    "id": 87,
+    "kind": "dual-blades",
+    "name": "Twin Acrus I",
+    "description": "Eye-catching Lagiacrus dual\r\nblades of turquoise. The\r\nlightning they release makes\r\nthem shine even brighter.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 90,
+      "blue": 40,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "30201": 1,
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        88
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 88,
+    "kind": "dual-blades",
+    "name": "Levin Acrus",
+    "description": "Upgraded Twin Acrus dual\r\nblades. Their thunder rocks\r\nacross the heavens themselves.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 70,
+      "blue": 60,
+      "white": 90,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "30201": 1,
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 87,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 90,
+    "kind": "dual-blades",
+    "name": "Eternal Cusp",
+    "description": "Grotesque scars that thirst for\r\npotential: their souls ever parted,\r\ntheir circle never complete.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 91,
+    "kind": "dual-blades",
+    "name": "Eternal Cusp",
+    "description": "Grotesque scars that thirst for\r\npotential: their souls ever parted,\r\ntheir circle never complete.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 92,
+    "kind": "dual-blades",
+    "name": "Eternal Cusp",
+    "description": "Grotesque scars that thirst for\r\npotential: their souls ever parted,\r\ntheir circle never complete.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  }
+]

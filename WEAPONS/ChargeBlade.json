@@ -1,0 +1,3999 @@
+[
+  {
+    "id": 1,
+    "kind": "charge-blade",
+    "name": "Hope Strongarm I",
+    "description": "A charge blade made specifically\r\nfor the expedition. A shield is\r\nnot just for defense. Unleash\r\nyour power!",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 40,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        15
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "charge-blade",
+    "name": "Hope Strongarm II",
+    "description": "A charge blade made specifically\r\nfor the expedition. A shield is\r\nnot just for defense. Unleash\r\nyour power!",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 50,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        11
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "charge-blade",
+    "name": "Hope Strongarm III",
+    "description": "A charge blade made specifically\r\nfor the expedition. A shield is\r\nnot just for defense. Unleash\r\nyour power!",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        47
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "charge-blade",
+    "name": "Hope Strongarm IV",
+    "description": "A charge blade made specifically\r\nfor the expedition. A shield is\r\nnot just for defense. Unleash\r\nyour power!",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "charge-blade",
+    "name": "Hope Strongarm V",
+    "description": "A charge blade made specifically\r\nfor the expedition. A shield is\r\nnot just for defense. Unleash\r\nyour power!",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 80,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        72
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "charge-blade",
+    "name": "Bone Strongarm I",
+    "description": "A charge blade fashioned from\r\nbone. It eschews any elaborate\r\nmechanisms in favor of a sturdy\r\nconstruction.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 70,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "802725120": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        19
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 7,
+    "kind": "charge-blade",
+    "name": "Bone Strongarm II",
+    "description": "A charge blade fashioned from\r\nbone. It eschews any elaborate\r\nmechanisms in favor of a sturdy\r\nconstruction.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "802725120": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8,
+        24,
+        40
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 8,
+    "kind": "charge-blade",
+    "name": "Bone Strongarm III",
+    "description": "A charge blade fashioned from\r\nbone. It eschews any elaborate\r\nmechanisms in favor of a sturdy\r\nconstruction.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "802725120": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 9,
+    "kind": "charge-blade",
+    "name": "Bone Strongarm IV",
+    "description": "A charge blade fashioned from\r\nbone. It eschews any elaborate\r\nmechanisms in favor of a sturdy\r\nconstruction.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "802725120": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 8,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 10,
+    "kind": "charge-blade",
+    "name": "Hard Bone Strongarm",
+    "description": "Refitted with stronger materials,\r\nthis advanced Bone Strongarm\r\npacks the extra power a hunter\r\ncraves.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 100,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1": 2,
+      "802725120": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 11,
+    "kind": "charge-blade",
+    "name": "Hyperguard I",
+    "description": "A charge blade in wide\r\ncirculation. Crude, but it's\r\ndifficult to break and just\r\nthe right heft for novices.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 30,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1961116288": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        12,
+        28,
+        32
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 12,
+    "kind": "charge-blade",
+    "name": "Hyperguard II",
+    "description": "A charge blade in wide\r\ncirculation. Crude, but it's\r\ndifficult to break and just\r\nthe right heft for novices.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1961116288": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 13,
+    "kind": "charge-blade",
+    "name": "Hyperguard III",
+    "description": "A charge blade in wide\r\ncirculation. Crude, but it's\r\ndifficult to break and just\r\nthe right heft for novices.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1961116288": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 12,
+      "branches": [
+        14
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 14,
+    "kind": "charge-blade",
+    "name": "Regas Hyper",
+    "description": "Better metals allow this\r\nadvanced Hyperguard to dish\r\nout extra hurt without\r\nsacrificing any handling.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1961116288": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 15,
+    "kind": "charge-blade",
+    "name": "Chata Strongarm I",
+    "description": "A Chatacabra charge blade. The\r\nshielded morphing mechanism\r\nincreases durability.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 20,
+      "yellow": 110,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "84": 1,
+        "85": 2,
+        "87": 3
+      },
+      "previous_id": 1,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 16,
+    "kind": "charge-blade",
+    "name": "Chata Strongarm II",
+    "description": "A Chatacabra charge blade. The\r\nshielded morphing mechanism\r\nincreases durability.",
+    "rarity": 3,
+    "raw": 150,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "sharpness": {
+      "red": 80,
+      "orange": 20,
+      "yellow": 120,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-596764096": 1,
+      "-307644128": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "86": 2,
+        "337": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        17,
+        53
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 17,
+    "kind": "charge-blade",
+    "name": "Chata Strongarm III",
+    "description": "A Chatacabra charge blade. The\r\nshielded morphing mechanism\r\nincreases durability.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 30,
+      "yellow": 110,
+      "green": 80,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-596764096": 1,
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "293": 5,
+        "294": 3,
+        "297": 2
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 18,
+    "kind": "charge-blade",
+    "name": "Chata Strongarm IV",
+    "description": "A Chatacabra charge blade. The\r\nshielded morphing mechanism\r\nincreases durability.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 20,
+      "yellow": 120,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-596764096": 1,
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "98": 6,
+        "296": 6,
+        "335": 3
+      },
+      "previous_id": 17,
+      "branches": [
+        73
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 19,
+    "kind": "charge-blade",
+    "name": "Barina Bouclier I",
+    "description": "A Lala Barina charge blade rigged\r\nwith its fibers. Its slash attacks\r\nparalyze and subdue prey.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 40,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 6,
+      "branches": [
+        20,
+        36
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 20,
+    "kind": "charge-blade",
+    "name": "Barina Bouclier II",
+    "description": "A Lala Barina charge blade rigged\r\nwith its fibers. Its slash attacks\r\nparalyze and subdue prey.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 2,
+        "515": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 21,
+    "kind": "charge-blade",
+    "name": "Barina Bouclier III",
+    "description": "A Lala Barina charge blade rigged\r\nwith its fibers. Its slash attacks\r\nparalyze and subdue prey.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 22,
+    "kind": "charge-blade",
+    "name": "Barina Bouclier IV",
+    "description": "A Lala Barina charge blade rigged\r\nwith its fibers. Its slash attacks\r\nparalyze and subdue prey.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 23,
+    "kind": "charge-blade",
+    "name": "Lala Eumenophor",
+    "description": "An upgraded Barina Bouclier.\r\nThe network of tough fibers\r\nenables even fiercer blows.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 100,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 22,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 24,
+    "kind": "charge-blade",
+    "name": "Uth Valeroje I",
+    "description": "An Uth Duna charge blade.\r\nA lovely shield matched with a\r\nwater-clad edge to crush quarry.",
+    "rarity": 3,
+    "raw": 160,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "324": 1,
+        "326": 2,
+        "328": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        25
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 25,
+    "kind": "charge-blade",
+    "name": "Uth Valeroje II",
+    "description": "An Uth Duna charge blade.\r\nA lovely shield matched with a\r\nwater-clad edge to crush quarry.",
+    "rarity": 5,
+    "raw": 190,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 120,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "62": 1,
+        "315": 1,
+        "596": 3
+      },
+      "previous_id": 24,
+      "branches": [
+        26
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 26,
+    "kind": "charge-blade",
+    "name": "Uth Valeroje III",
+    "description": "An Uth Duna charge blade.\r\nA lovely shield matched with a\r\nwater-clad edge to crush quarry.",
+    "rarity": 7,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 120,
+      "green": 80,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 32,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "327": 1,
+        "331": 3,
+        "333": 5,
+        "335": 3
+      },
+      "previous_id": 25,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 27,
+    "kind": "charge-blade",
+    "name": "Valeroje-of-the-Waves",
+    "description": "An upgraded Uth Valeroje\r\nwith an alluring gleam.\r\nIt slams into foes like\r\na flood, purging ill intent.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 100,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "330": 6,
+        "332": 6,
+        "334": 1,
+        "661": 5
+      },
+      "previous_id": 26,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 28,
+    "kind": "charge-blade",
+    "name": "Rompo Shielder I",
+    "description": "Made from Rompopolo parts,\r\nthis axe can release a poison\r\nthat causes excruciating pain.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 100,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "336": 3,
+        "337": 2,
+        "601": 1
+      },
+      "previous_id": 11,
+      "branches": [
+        29,
+        50
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 29,
+    "kind": "charge-blade",
+    "name": "Rompo Shielder II",
+    "description": "Made from Rompopolo parts,\r\nthis axe can release a poison\r\nthat causes excruciating pain.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 90,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "342": 3,
+        "345": 1,
+        "602": 3
+      },
+      "previous_id": 28,
+      "branches": [
+        30
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 30,
+    "kind": "charge-blade",
+    "name": "Rompo Shielder III",
+    "description": "Made from Rompopolo parts,\r\nthis axe can release a poison\r\nthat causes excruciating pain.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 50,
+      "yellow": 100,
+      "green": 30,
+      "blue": 100,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "105": 1,
+        "343": 4,
+        "389": 3
+      },
+      "previous_id": 29,
+      "branches": [
+        31
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 31,
+    "kind": "charge-blade",
+    "name": "Rompo Dendrotox",
+    "description": "The Rompo Shielder speaks: My\r\nsword boasts greater doses,\r\nand my shield, more time.\r\nI seek a wielder clever of mind.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 100,
+      "green": 30,
+      "blue": 100,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "344": 3,
+        "659": 5
+      },
+      "previous_id": 30,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 32,
+    "kind": "charge-blade",
+    "name": "Rey Astrapi I",
+    "description": "A charge blade imbued with\r\nRey Dau's thunder. Its sharp\r\nwingtalons can pierce any\r\nscale.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 150,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 1,
+      "802725120": 1
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "139": 3,
+        "141": 1,
+        "142": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        33
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 33,
+    "kind": "charge-blade",
+    "name": "Rey Astrapi II",
+    "description": "A charge blade imbued with\r\nRey Dau's thunder. Its sharp\r\nwingtalons can pierce any\r\nscale.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 130,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 1,
+      "802725120": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "104": 3,
+        "536": 2,
+        "579": 1
+      },
+      "previous_id": 32,
+      "branches": [
+        34
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 34,
+    "kind": "charge-blade",
+    "name": "Rey Astrapi III",
+    "description": "A charge blade imbued with\r\nRey Dau's thunder. Its sharp\r\nwingtalons can pierce any\r\nscale.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 120,
+      "green": 80,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "802725120": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "143": 1,
+        "144": 1,
+        "350": 4,
+        "352": 3
+      },
+      "previous_id": 33,
+      "branches": [
+        35
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 35,
+    "kind": "charge-blade",
+    "name": "Astrapi Clairaxe",
+    "description": "An upgraded Rey Astrapi.\r\nMay its thunder echo free,\r\nshaking heaven and earth\r\nand prostrating all foes.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 110,
+      "green": 70,
+      "blue": 70,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "802725120": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "348": 6,
+        "349": 4,
+        "351": 1,
+        "661": 5
+      },
+      "previous_id": 34,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 36,
+    "kind": "charge-blade",
+    "name": "Arachnoscale I",
+    "description": "A Nerscylla charge blade that\r\nuses its uniquely shaped parts\r\nto release frictional heat\r\nfrom slashes.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "513": 3,
+        "515": 2,
+        "605": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        37
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 37,
+    "kind": "charge-blade",
+    "name": "Arachnoscale II",
+    "description": "A Nerscylla charge blade that\r\nuses its uniquely shaped parts\r\nto release frictional heat\r\nfrom slashes.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "521": 1,
+        "606": 3
+      },
+      "previous_id": 36,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 38,
+    "kind": "charge-blade",
+    "name": "Arachnoscale III",
+    "description": "A Nerscylla charge blade that\r\nuses its uniquely shaped parts\r\nto release frictional heat\r\nfrom slashes.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "425": 3,
+        "480": 2,
+        "490": 3,
+        "520": 5
+      },
+      "previous_id": 37,
+      "branches": [
+        39
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 39,
+    "kind": "charge-blade",
+    "name": "Arachnoscythe",
+    "description": "An upgraded Arachnoscale. The\r\nimproved heat releaser can cut\r\nthrough thick plating like butter.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 100,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 38,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 40,
+    "kind": "charge-blade",
+    "name": "Windthrash Charger I",
+    "description": "An axe made using Hirabami\r\nmaterials. No prey can\r\nescape its claws.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "353": 3,
+        "356": 2,
+        "599": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        41,
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 41,
+    "kind": "charge-blade",
+    "name": "Windthrash Charger II",
+    "description": "An axe made using Hirabami\r\nmaterials. No prey can\r\nescape its claws.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 100,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "361": 4,
+        "362": 1,
+        "600": 3
+      },
+      "previous_id": 40,
+      "branches": [
+        42
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 42,
+    "kind": "charge-blade",
+    "name": "Windthrash Charger III",
+    "description": "An axe made using Hirabami\r\nmaterials. No prey can\r\nescape its claws.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 30,
+      "blue": 140,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "359": 5,
+        "425": 3
+      },
+      "previous_id": 41,
+      "branches": [
+        43
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 43,
+    "kind": "charge-blade",
+    "name": "Windthrash Tamebami",
+    "description": "An upgraded Windthrash Charger.\r\nCapable of striking down any\r\nfoe caught in the fierce gusts\r\nof its dance-like synergy.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 30,
+      "blue": 120,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "360": 6,
+        "424": 1,
+        "659": 5
+      },
+      "previous_id": 42,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 44,
+    "kind": "charge-blade",
+    "name": "Nu Pweza I",
+    "description": "A Nu Udra charge blade. It traps\r\nthe living world in a maelstrom\r\nof damnation.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 80,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1961116288": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "376": 3,
+        "377": 2,
+        "380": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        45
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 45,
+    "kind": "charge-blade",
+    "name": "Nu Pweza II",
+    "description": "A Nu Udra charge blade. It traps\r\nthe living world in a maelstrom\r\nof damnation.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 100,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1961116288": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "381": 1,
+        "384": 5,
+        "387": 4,
+        "389": 3
+      },
+      "previous_id": 44,
+      "branches": [
+        46
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 46,
+    "kind": "charge-blade",
+    "name": "Abaddonian Pweza",
+    "description": "An upgraded Nu Pweza. From\r\nthe nethermost reaches, it is\r\npoised to immolate all hope\r\nin infernal fire.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1961116288": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "385": 4,
+        "386": 6,
+        "388": 1,
+        "661": 5
+      },
+      "previous_id": 45,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 47,
+    "kind": "charge-blade",
+    "name": "Albirath Blade I",
+    "description": "A Guardian Rathalos charge\r\nblade. Like a blazing fire, its\r\nwielder's spirit never abates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 60,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        48
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 48,
+    "kind": "charge-blade",
+    "name": "Albirath Blade II",
+    "description": "A Guardian Rathalos charge\r\nblade. Like a blazing fire, its\r\nwielder's spirit never abates.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 120,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 47,
+      "branches": [
+        49
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 49,
+    "kind": "charge-blade",
+    "name": "Guardian Albathos",
+    "description": "An upgraded Albirath Blade.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 150,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 48,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 50,
+    "kind": "charge-blade",
+    "name": "Chthonian Flame I",
+    "description": "A Guardian Ebony Odogaron\r\ncharge blade. Beholden to\r\nbeastly cravings, its thirst\r\nfor blood never wanes.",
+    "rarity": 4,
+    "raw": 140,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "426": 3,
+        "428": 2,
+        "429": 1
+      },
+      "previous_id": 28,
+      "branches": [
+        51
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 51,
+    "kind": "charge-blade",
+    "name": "Chthonian Flame II",
+    "description": "A Guardian Ebony Odogaron\r\ncharge blade. Beholden to\r\nbeastly cravings, its thirst\r\nfor blood never wanes.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 31,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "431": 1,
+        "435": 6,
+        "438": 2,
+        "608": 1
+      },
+      "previous_id": 50,
+      "branches": [
+        52
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 52,
+    "kind": "charge-blade",
+    "name": "Bequeathed Enmity",
+    "description": "An upgraded Chthonian Flame.\r\nDespite chewing free of its\r\ncycle of hunger, the beast\r\nremains unsated.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 80,
+      "blue": 100,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "436": 6,
+        "437": 1,
+        "455": 6,
+        "660": 5
+      },
+      "previous_id": 51,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 53,
+    "kind": "charge-blade",
+    "name": "G. Veldian Labrys I",
+    "description": "A charge blade made from\r\nGuardian spoils. When wielded\r\nby those with weak spirit, its\r\npower corrupts, inviting ruin.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 16,
+      "branches": [
+        54
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 54,
+    "kind": "charge-blade",
+    "name": "G. Veldian Labrys II",
+    "description": "A charge blade made from\r\nGuardian spoils. When wielded\r\nby those with weak spirit, its\r\npower corrupts, inviting ruin.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 60,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 53,
+      "branches": [
+        55,
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 55,
+    "kind": "charge-blade",
+    "name": "G. Abiding Gawain",
+    "description": "An upgraded G. Veldian Labrys.\r\nThe earth still bears the marks\r\nof its mighty clash with a wyvern.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 54,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 56,
+    "kind": "charge-blade",
+    "name": "Poison Blade I",
+    "description": "A horrific charge blade rigged\r\nwith Gypceros poison. Its\r\nvenomous edge cuts through\r\nprey like butter.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 100,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "529": 5,
+        "530": 3,
+        "531": 2,
+        "533": 1
+      },
+      "previous_id": null,
+      "branches": [
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 57,
+    "kind": "charge-blade",
+    "name": "Poison Blade II",
+    "description": "A horrific charge blade rigged\r\nwith Gypceros poison. Its\r\nvenomous edge cuts through\r\nprey like butter.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 70,
+      "green": 60,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 29,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 2,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "532": 4,
+        "547": 2,
+        "602": 4
+      },
+      "previous_id": 56,
+      "branches": [
+        58
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 58,
+    "kind": "charge-blade",
+    "name": "Venom's Kiss",
+    "description": "An upgraded Poison Blade that\r\ndrips with deadly toxin and\r\nplunges prey into a slow,\r\ntormenting nightmare.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 100,
+      "green": 60,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "529": 6,
+        "534": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 57,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 59,
+    "kind": "charge-blade",
+    "name": "Dear Lutemis I",
+    "description": "A Rathian charge blade as\r\nominous as it is elegant. Her\r\nregal air lives on in the thorns\r\nlining the handle.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        60,
+        64
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 60,
+    "kind": "charge-blade",
+    "name": "Dear Lutemis II",
+    "description": "A Rathian charge blade as\r\nominous as it is elegant. Her\r\nregal air lives on in the thorns\r\nlining the handle.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 40,
+      "green": 120,
+      "blue": 30,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 59,
+      "branches": [
+        61
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 61,
+    "kind": "charge-blade",
+    "name": "Dear Lutemia",
+    "description": "An upgraded Dear Lutemis.\r\nIts beauty is somehow sublime\r\nand severe at the same time.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 30,
+      "green": 110,
+      "blue": 30,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 62,
+    "kind": "charge-blade",
+    "name": "Aslat Charger I",
+    "description": "An elegant Seregios charge blade.\r\nIts shining, golden blade serves\r\nas a beacon of hope for those\r\nwho aspire to revolution.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 63,
+    "kind": "charge-blade",
+    "name": "Rebellious Charger",
+    "description": "The spirit of revolution lies\r\nwithin its golden blade. Wield\r\nthe upgraded Aslat Charger\r\nand rend the world asunder.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 64,
+    "kind": "charge-blade",
+    "name": "Axelion Blade I",
+    "description": "This charge blade made\r\nfrom Rathalos spoils adds\r\na combustion mechanism\r\nto attacks.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 30,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 29,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 59,
+      "branches": [
+        65,
+        66
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 65,
+    "kind": "charge-blade",
+    "name": "Bardichion Blade",
+    "description": "An upgraded Axelion Blade.\r\nThat snarling wyvern on the\r\nshield looks eager to\r\nincinerate prey.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 64,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 66,
+    "kind": "charge-blade",
+    "name": "Elendskraft I",
+    "description": "A Gore Magala charge blade\r\nadorned with a skull bursting\r\nwith power. It hungers to\r\ncast foes into darkness.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 70,
+      "blue": 40,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 64,
+      "branches": [
+        67
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 67,
+    "kind": "charge-blade",
+    "name": "Leidenskraft",
+    "description": "An upgraded Elendskraft.\r\nIt invites its victims to journey\r\nto dark and hellish depths.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 60,
+      "blue": 40,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 66,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 68,
+    "kind": "charge-blade",
+    "name": "Veldian Labrys I",
+    "description": "An Arkveld charge blade. Used by\r\na knight to expel wyverns and\r\nlight the way to tomorrow.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 90,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 32,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 54,
+      "branches": [
+        74
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 69,
+    "kind": "charge-blade",
+    "name": "Artian Defender I",
+    "description": "A weapon made from unearthed\r\nfragments. The complex gears\r\nare said to tick toward an\r\nunknown end.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 70,
+    "kind": "charge-blade",
+    "name": "Artian Defender II",
+    "description": "A weapon made from unearthed\r\nfragments. The complex gears\r\nare said to tick toward an\r\nunknown end.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 71,
+    "kind": "charge-blade",
+    "name": "Chrono Gear",
+    "description": "An ancient weapon with latent\r\npotential. Now repaired, its\r\nclock hands cannot be stopped.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 72,
+    "kind": "charge-blade",
+    "name": "Esperanza Strongarm",
+    "description": "A fully field-tested Hope\r\nStrongarm. With each charge,\r\ndespair becomes a distant\r\nmemory.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 60,
+      "blue": 40,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 73,
+    "kind": "charge-blade",
+    "name": "Shrouded Kutharja",
+    "description": "A stronger version of the Chata\r\nStrongarm. Capable of both\r\ndeflecting attacks and crushing\r\nfoes with its shroud of energy.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 20,
+      "yellow": 100,
+      "green": 90,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [],
+    "skills": {
+      "-596764096": 1,
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "295": 6,
+        "659": 5
+      },
+      "previous_id": 18,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 74,
+    "kind": "charge-blade",
+    "name": "Abiding Gawain",
+    "description": "An upgraded Veldian Labrys.\r\nBeloved by the sun, its\r\nknightly wielder scorched\r\na path to victory.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 68,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 75,
+    "kind": "charge-blade",
+    "name": "Zoh Yirmiya I",
+    "description": "A Zoh Shia charge blade with\r\na snow-white crown. Bestows\r\nredemption and purification\r\nwith every swing.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        76
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 76,
+    "kind": "charge-blade",
+    "name": "Blazing Yirmiya",
+    "description": "Yirmiya harketh from on high:\r\nThou who seekest recompense,\r\nmay thy wings spread even\r\nin the face of ruination.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 75,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 78,
+    "kind": "charge-blade",
+    "name": "Mizuniya Drill I",
+    "description": "An elegant charge blade\r\nknown for staining foes'\r\nclothing a deep blood red.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        79
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 79,
+    "kind": "charge-blade",
+    "name": "Final Fieldblade",
+    "description": "An upgraded Mizuniya Drill.\r\nIt creates a sea of crimson\r\nthat washes away all foes.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 78,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 82,
+    "kind": "charge-blade",
+    "name": "Lagia Storm I",
+    "description": "A charge blade made of Lagiacrus\r\nmaterials. Signals the start of\r\na hunt with the roar of thunder.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-596764096": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        83
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 83,
+    "kind": "charge-blade",
+    "name": "Vankrom Blade",
+    "description": "An upgraded Lagia Storm imbued\r\nwith the power of Lagiacrus, lord\r\nof the seas. Its vicious tempest\r\ncarves a swathe through the sea.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 70,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-596764096": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 82,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 85,
+    "kind": "charge-blade",
+    "name": "Promised Abyss",
+    "description": "A grotesque weapon that thirsts\r\nfor potential, its forbidden coffin\r\nthrown wide by unpunished sin.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 86,
+    "kind": "charge-blade",
+    "name": "Promised Abyss",
+    "description": "A grotesque weapon that thirsts\r\nfor potential, its forbidden coffin\r\nthrown wide by unpunished sin.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 87,
+    "kind": "charge-blade",
+    "name": "Promised Abyss",
+    "description": "A grotesque weapon that thirsts\r\nfor potential, its forbidden coffin\r\nthrown wide by unpunished sin.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  }
+]

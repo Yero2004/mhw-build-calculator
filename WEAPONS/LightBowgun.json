@@ -1,0 +1,3321 @@
+[
+  {
+    "id": 1,
+    "kind": "light-bowgun",
+    "name": "Hope Rifle I",
+    "description": "A light bowgun made specifically\r\nfor the expedition. Its rapid-fire\r\nmechanism rains bullets on prey.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "light-bowgun",
+    "name": "Hope Rifle II",
+    "description": "A light bowgun made specifically\r\nfor the expedition. Its rapid-fire\r\nmechanism rains bullets on prey.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        17,
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "light-bowgun",
+    "name": "Hope Rifle III",
+    "description": "A light bowgun made specifically\r\nfor the expedition. Its rapid-fire\r\nmechanism rains bullets on prey.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        29
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "light-bowgun",
+    "name": "Hope Rifle IV",
+    "description": "A light bowgun made specifically\r\nfor the expedition. Its rapid fire\r\nmechanism rains bullets on prey.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "light-bowgun",
+    "name": "Hope Rifle V",
+    "description": "A light bowgun made specifically\r\nfor the expedition. Its rapid fire\r\nmechanism rains bullets on prey.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        73
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "light-bowgun",
+    "name": "Kut-Ku Anger I",
+    "description": "A light bowgun fashioned to\r\nresemble the Yian Kut-Ku's\r\nhead and spew just as much\r\nrage from its maw.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "522": 5,
+        "524": 2,
+        "526": 3,
+        "527": 1
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        47
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 7,
+    "kind": "light-bowgun",
+    "name": "Kut-Ku Anger II",
+    "description": "A light bowgun fashioned to\r\nresemble the Yian Kut-Ku's\r\nhead and spew just as much\r\nrage from its maw.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "389": 2,
+        "525": 4,
+        "534": 1,
+        "594": 4
+      },
+      "previous_id": 6,
+      "branches": [
+        8
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 8,
+    "kind": "light-bowgun",
+    "name": "Kut-Ku Counterattack",
+    "description": "The Kut-Ku Anger's upgraded\r\nform. It can hold its own\r\nagainst even a wyvern.\r\nTake that, doubters!",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "388": 1,
+        "523": 6,
+        "659": 5
+      },
+      "previous_id": 7,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 9,
+    "kind": "light-bowgun",
+    "name": "Fäulnisschleuder I",
+    "description": "A light bowgun that contains the\r\nGore Magala's terrifying wails. It\r\nfires round after hateful round.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 32,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 10,
+    "kind": "light-bowgun",
+    "name": "Wahnschleuder",
+    "description": "An upgraded Fäulnisschleuder.\r\nEach round is a cluster of\r\nmadness that rends prey with\r\ndemonic force.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 11,
+    "kind": "light-bowgun",
+    "name": "Rey Szelatya I",
+    "description": "A light bowgun imbued with\r\nRey Dau's thunder. Its morphing\r\nmechanism changes shape\r\nto optimize firing.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-893407296": 1,
+      "1711950720": 1
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "139": 3,
+        "141": 1,
+        "142": 2
+      },
+      "previous_id": 23,
+      "branches": [
+        12
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 12,
+    "kind": "light-bowgun",
+    "name": "Rey Szelatya II",
+    "description": "A light bowgun imbued with\r\nRey Dau's thunder. Its morphing\r\nmechanism changes shape\r\nto optimize firing.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-893407296": 1,
+      "1711950720": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "104": 3,
+        "536": 2,
+        "579": 1
+      },
+      "previous_id": 11,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 13,
+    "kind": "light-bowgun",
+    "name": "Rey Szelatya III",
+    "description": "A light bowgun imbued with\r\nRey Dau's thunder. Its morphing\r\nmechanism changes shape\r\nto optimize firing.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-893407296": 1,
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "143": 1,
+        "144": 1,
+        "350": 4,
+        "352": 3
+      },
+      "previous_id": 12,
+      "branches": [
+        14
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 14,
+    "kind": "light-bowgun",
+    "name": "Szelatya Clairgun",
+    "description": "An upgraded Rey Szelatya. May its\r\nscintillating bolts scorch the sky\r\nand rip the very earth apart.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-893407296": 1,
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "348": 6,
+        "349": 4,
+        "351": 1,
+        "661": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 15,
+    "kind": "light-bowgun",
+    "name": "Rasasa Bowgun I",
+    "description": "A light bowgun resembling\r\nthe tail of a Seregios. Its\r\nbarrage of rounds rain down\r\non oppressors like falling stars.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "3504": 1,
+      "30828": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 16,
+    "kind": "light-bowgun",
+    "name": "Rebel Stopper",
+    "description": "An upgraded Rasasa Bowgun.\r\nIts shots are guaranteed to end\r\nany rebellion that may arise.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "3504": 1,
+      "30828": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 15,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 17,
+    "kind": "light-bowgun",
+    "name": "Dosha Faithbreaker I",
+    "description": "A Doshaguma light bowgun.\r\nLight on the trigger, it pumps\r\nprojectiles into quarry with\r\nastonishing ease.",
+    "rarity": 2,
+    "raw": 140,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "34": 3,
+        "35": 2,
+        "36": 1
+      },
+      "previous_id": 2,
+      "branches": [
+        18,
+        20,
+        62
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 18,
+    "kind": "light-bowgun",
+    "name": "Dosha Faithbreaker II",
+    "description": "A Doshaguma light bowgun.\r\nLight on the trigger, it pumps\r\nprojectiles into quarry with\r\nastonishing ease.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "33": 3,
+        "392": 1,
+        "588": 1
+      },
+      "previous_id": 17,
+      "branches": [
+        19
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 19,
+    "kind": "light-bowgun",
+    "name": "Dosha Faithbreaker III",
+    "description": "A Doshaguma light bowgun.\r\nLight on the trigger, it pumps\r\nprojectiles into quarry with\r\nastonishing ease.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "319": 6,
+        "320": 4,
+        "321": 2
+      },
+      "previous_id": 18,
+      "branches": [
+        74
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 20,
+    "kind": "light-bowgun",
+    "name": "Dosha Gigasbreaker I",
+    "description": "A Guardian Doshaguma light\r\nbowgun. To its defiers it shows\r\nno mercy, gruesomely returning\r\nthem to nature.",
+    "rarity": 4,
+    "raw": 190,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "390": 3,
+        "392": 2,
+        "393": 1
+      },
+      "previous_id": 17,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 21,
+    "kind": "light-bowgun",
+    "name": "Dosha Gigasbreaker II",
+    "description": "A Guardian Doshaguma light\r\nbowgun. To its defiers it shows\r\nno mercy, gruesomely returning\r\nthem to nature.",
+    "rarity": 6,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "397": 6,
+        "398": 4,
+        "399": 2,
+        "608": 1
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 22,
+    "kind": "light-bowgun",
+    "name": "Gigasbreaker Urbolkule",
+    "description": "An upgraded Dosha Gigasbreaker.\r\nIts destructive impulses transform\r\nwielders into violence incarnate.",
+    "rarity": 8,
+    "raw": 250,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "395": 6,
+        "660": 5,
+        "665": 6
+      },
+      "previous_id": 21,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 23,
+    "kind": "light-bowgun",
+    "name": "Chain Blitz I",
+    "description": "A light bowgun with a simple, but\r\nreliable, iron construction that is\r\nissued to new hunters on the field.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        11,
+        24
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 24,
+    "kind": "light-bowgun",
+    "name": "Chain Blitz II",
+    "description": "A light bowgun with a simple, but\r\nreliable, iron construction that is\r\nissued to new hunters on the field.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 23,
+      "branches": [
+        25
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 25,
+    "kind": "light-bowgun",
+    "name": "Chain Blitz III",
+    "description": "A light bowgun with a simple, but\r\nreliable, iron construction that is\r\nissued to new hunters on the field.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 24,
+      "branches": [
+        26
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 26,
+    "kind": "light-bowgun",
+    "name": "High Chain Blitz",
+    "description": "For this upgraded Chain Blitz,\r\nthey used high-grade ore and\r\nreturned to square one for\r\nthe firing mechanism.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 25,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 27,
+    "kind": "light-bowgun",
+    "name": "Titan Launcher I",
+    "description": "A Gravios light bowgun designed\r\nto support a variety of potent\r\nammo for maximum offensive\r\ncapability.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-160562336": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "543": 3,
+        "544": 4,
+        "546": 5,
+        "547": 2
+      },
+      "previous_id": null,
+      "branches": [
+        28
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 28,
+    "kind": "light-bowgun",
+    "name": "Titan Panzer",
+    "description": "An upgraded Titan Launcher.\r\nA single shot delivers the same\r\npower as a giant magazine.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-160562336": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "542": 6,
+        "545": 1,
+        "660": 5
+      },
+      "previous_id": 27,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 29,
+    "kind": "light-bowgun",
+    "name": "G. Rathling Gun I",
+    "description": "A Guardian Rathalos light\r\nbowgun. Like a blazing fire,\r\nits wielder's spirit never\r\nabates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 1,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 30,
+    "kind": "light-bowgun",
+    "name": "G. Rathling Gun II",
+    "description": "A Guardian Rathalos light\r\nbowgun. Like a blazing fire,\r\nits wielder's spirit never\r\nabates.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 1,
+      "313598432": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 29,
+      "branches": [
+        31
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 31,
+    "kind": "light-bowgun",
+    "name": "White Rathling Phoenix",
+    "description": "An upgraded G. Rathling Gun.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 1,
+      "313598432": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 30,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 32,
+    "kind": "light-bowgun",
+    "name": "Rathling Gun I",
+    "description": "A Rathalos light bowgun. Its\r\nblasts of scorching fire are\r\nas relentless as the Lord of\r\nthe Skies himself.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 39,
+      "branches": [
+        9,
+        33
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 33,
+    "kind": "light-bowgun",
+    "name": "Rathling Phoenix",
+    "description": "An upgraded Rathling Gun.\r\nFoes tremble before it in vain\r\nuntil they are reduced to dust.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 32,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 34,
+    "kind": "light-bowgun",
+    "name": "Assault Conga I",
+    "description": "A guerilla-grade light bowgun\r\nthat uses Congalala spoils.\r\nOh, the fur shock absorber?\r\nIt's flame-retardant.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "504": 3,
+        "505": 2,
+        "506": 1
+      },
+      "previous_id": 42,
+      "branches": [
+        35,
+        58
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 35,
+    "kind": "light-bowgun",
+    "name": "Assault Conga II",
+    "description": "A guerilla-grade light bowgun\r\nthat uses Congalala spoils.\r\nOh, the fur shock absorber?\r\nIt's flame-retardant.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-160562336": 1,
+      "1711950720": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "510": 5,
+        "511": 4,
+        "572": 2,
+        "585": 1
+      },
+      "previous_id": 34,
+      "branches": [
+        36
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 36,
+    "kind": "light-bowgun",
+    "name": "Combat Conga",
+    "description": "An upgraded Assault Conga,\r\nspecially treated to stay in top\r\ncondition in harsh environments.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-160562336": 2,
+      "1711950720": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "512": 2,
+        "659": 5
+      },
+      "previous_id": 35,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 37,
+    "kind": "light-bowgun",
+    "name": "Tail String I",
+    "description": "A light bowgun covered in white\r\nBlangonga fur. Its rounds rip\r\nthrough prey like a violent\r\nblizzard.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "538": 5,
+        "539": 4,
+        "541": 2,
+        "577": 4
+      },
+      "previous_id": null,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 38,
+    "kind": "light-bowgun",
+    "name": "Tail Catapult",
+    "description": "An upgraded Tail String that\r\nuses superior materials,\r\noverwhelming prey with\r\nan avalanche of gunfire.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "424": 1,
+        "537": 6,
+        "540": 4,
+        "660": 5
+      },
+      "previous_id": 37,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 39,
+    "kind": "light-bowgun",
+    "name": "Valkyrie Fire I",
+    "description": "A stunning light bowgun that\r\nsavages targets with fire, like\r\na Rathian alighting on her prey.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        32,
+        40
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 40,
+    "kind": "light-bowgun",
+    "name": "Valkyrie Fire II",
+    "description": "A stunning light bowgun that\r\nsavages targets with fire, like\r\na Rathian alighting on her prey.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 39,
+      "branches": [
+        41
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 41,
+    "kind": "light-bowgun",
+    "name": "Valkyrie Flame",
+    "description": "An upgraded Valkyrie Fire.\r\nAll who defy the queen are\r\nmowed down in a swath of\r\nexquisite pain.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 40,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 42,
+    "kind": "light-bowgun",
+    "name": "Hunter's Rifle I",
+    "description": "A light bowgun crafted from\r\na medley of bones. Consistent\r\nperformance and zero bulk make\r\nit great for novices.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        34,
+        43
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 43,
+    "kind": "light-bowgun",
+    "name": "Hunter's Rifle II",
+    "description": "A light bowgun crafted from\r\na medley of bones. Consistent\r\nperformance and zero bulk make\r\nit great for novices.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1711950720": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 42,
+      "branches": [
+        44,
+        52
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 44,
+    "kind": "light-bowgun",
+    "name": "Hunter's Rifle III",
+    "description": "A light bowgun crafted from\r\na medley of bones. Consistent\r\nperformance and zero bulk make\r\nit great for novices.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 43,
+      "branches": [
+        45
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 45,
+    "kind": "light-bowgun",
+    "name": "Hunter's Rifle IV",
+    "description": "A light bowgun crafted from\r\na medley of bones. Consistent\r\nperformance and zero bulk make\r\nit great for novices.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 44,
+      "branches": [
+        46
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 46,
+    "kind": "light-bowgun",
+    "name": "Power Rifle",
+    "description": "Only quality bones are used in\r\nthis upgraded Hunter's Rifle,\r\nlending it superior response\r\nand handling.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1": 1,
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 45,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 47,
+    "kind": "light-bowgun",
+    "name": "Felling Fulgur I",
+    "description": "A Guardian Fulgur Anjanath light\r\nbowgun. Only one able to tame\r\nits brutality through reason can\r\nwield it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 6,
+      "branches": [
+        48
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 48,
+    "kind": "light-bowgun",
+    "name": "Fulgursnipe Guardiana",
+    "description": "An upgraded Felling Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 47,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 49,
+    "kind": "light-bowgun",
+    "name": "Chthonian Gunfire I",
+    "description": "A Guardian Ebony Odogaron light\r\nbowgun. Beholden to beastly\r\ncravings, its thirst for blood\r\nnever wanes.",
+    "rarity": 4,
+    "raw": 140,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "426": 3,
+        "428": 2,
+        "429": 1
+      },
+      "previous_id": 58,
+      "branches": [
+        50
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 50,
+    "kind": "light-bowgun",
+    "name": "Chthonian Gunfire II",
+    "description": "A Guardian Ebony Odogaron light\r\nbowgun. Beholden to beastly\r\ncravings, its thirst for blood\r\nnever wanes.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "431": 1,
+        "435": 6,
+        "438": 2,
+        "608": 1
+      },
+      "previous_id": 49,
+      "branches": [
+        51
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 51,
+    "kind": "light-bowgun",
+    "name": "Bequeathed Animus",
+    "description": "An upgraded Chthonian Gunfire.\r\nDespite chewing free of its cycle\r\nof hunger, the beast remains\r\nunsated.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "436": 6,
+        "437": 1,
+        "455": 6,
+        "660": 5
+      },
+      "previous_id": 50,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 52,
+    "kind": "light-bowgun",
+    "name": "Ajara Shellgun I",
+    "description": "An Ajarakan light bowgun.\r\nEach projectile must endure\r\nthe barrel's searing heat\r\nbefore escaping.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-596764096": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "363": 3,
+        "365": 2,
+        "367": 1
+      },
+      "previous_id": 43,
+      "branches": [
+        53,
+        55
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 53,
+    "kind": "light-bowgun",
+    "name": "Ajara Shellgun II",
+    "description": "An Ajarakan light bowgun.\r\nEach projectile must endure\r\nthe barrel's searing heat\r\nbefore escaping.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-596764096": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "368": 1,
+        "372": 3,
+        "373": 2,
+        "375": 2
+      },
+      "previous_id": 52,
+      "branches": [
+        54
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 54,
+    "kind": "light-bowgun",
+    "name": "Ajara-Angaja",
+    "description": "An upgraded Ajara Shellgun.\r\nIn the hands of a lesser smith,\r\nthe materials would overheat\r\nand explode.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-596764096": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "371": 6,
+        "374": 1,
+        "660": 5
+      },
+      "previous_id": 53,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 55,
+    "kind": "light-bowgun",
+    "name": "Nu Chobotnice I",
+    "description": "A Nu Udra light bowgun.\r\nFrom the darkness it takes\r\naim, its prey left unaware of\r\nthe threat it faces.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "376": 3,
+        "377": 2,
+        "380": 1
+      },
+      "previous_id": 52,
+      "branches": [
+        56
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 56,
+    "kind": "light-bowgun",
+    "name": "Nu Chobotnice II",
+    "description": "A Nu Udra light bowgun.\r\nFrom the darkness it takes\r\naim, its prey left unaware of\r\nthe threat it faces.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "381": 1,
+        "384": 5,
+        "387": 4,
+        "389": 3
+      },
+      "previous_id": 55,
+      "branches": [
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 57,
+    "kind": "light-bowgun",
+    "name": "Abaddonian Chobotnice",
+    "description": "An upgraded Nu Chobotnice.\r\nEach shot from the abyss\r\nscreams forth like a\r\nnightmarish messenger.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "385": 4,
+        "386": 6,
+        "388": 1,
+        "661": 5
+      },
+      "previous_id": 56,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 58,
+    "kind": "light-bowgun",
+    "name": "Windshear Light I",
+    "description": "A Hirabami light bowgun that\r\nproduces wind in the barrel to\r\nfire rounds at lightning speed.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "402237312": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "353": 3,
+        "356": 2,
+        "599": 1
+      },
+      "previous_id": 34,
+      "branches": [
+        49,
+        59
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 59,
+    "kind": "light-bowgun",
+    "name": "Windshear Light II",
+    "description": "A Hirabami light bowgun that\r\nproduces wind in the barrel to\r\nfire rounds at lightning speed.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "402237312": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "361": 4,
+        "362": 1,
+        "600": 3
+      },
+      "previous_id": 58,
+      "branches": [
+        60
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 60,
+    "kind": "light-bowgun",
+    "name": "Windshear Light III",
+    "description": "A Hirabami light bowgun that\r\nproduces wind in the barrel to\r\nfire rounds at lightning speed.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "402237312": 1,
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "359": 5,
+        "425": 3
+      },
+      "previous_id": 59,
+      "branches": [
+        61
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 61,
+    "kind": "light-bowgun",
+    "name": "Windshear Uchibami",
+    "description": "An upgraded Windshear Light\r\nthat can find its mark even in the\r\nmidst of the harshest windstorm.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "402237312": 1,
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "360": 6,
+        "424": 1,
+        "659": 5
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 62,
+    "kind": "light-bowgun",
+    "name": "G. Veldian Impetum I",
+    "description": "A light bowgun made from\r\nGuardian spoils. It galvanizes\r\nthe body with unknown power,\r\nassuring accuracy.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 17,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 63,
+    "kind": "light-bowgun",
+    "name": "G. Veldian Impetum II",
+    "description": "A light bowgun made from\r\nGuardian spoils. It galvanizes\r\nthe body with unknown power,\r\nassuring accuracy.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 62,
+      "branches": [
+        64,
+        65
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 64,
+    "kind": "light-bowgun",
+    "name": "G. Expiating Caius",
+    "description": "An upgraded G. Veldian Impetum.\r\nIt echoes finality across the sky\r\nin an angelic song of salvation.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 63,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 65,
+    "kind": "light-bowgun",
+    "name": "Veldian Impetum I",
+    "description": "An Arkveld light bowgun.\r\nIn ancient days, a knight used\r\nsuch a weapon to gain renown\r\nas a wyvern hunter.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 63,
+      "branches": [
+        75
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 66,
+    "kind": "light-bowgun",
+    "name": "Artian Blaster I",
+    "description": "A weapon assembled from\r\nunearthed fragments. It has a\r\nmechanism that adjusts bullet\r\nforce for each target.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 67,
+    "kind": "light-bowgun",
+    "name": "Artian Blaster II",
+    "description": "A weapon assembled from\r\nunearthed fragments. It has a\r\nmechanism that adjusts bullet\r\nforce for each target.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 68,
+    "kind": "light-bowgun",
+    "name": "Animilater",
+    "description": "An ancient weapon with latent\r\npotential. Not even the souls of\r\nprey are safe from its bullets.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 69,
+    "kind": "light-bowgun",
+    "name": "Zoh Kaiah I",
+    "description": "A Zoh Shia light bowgun that\r\nthirsts for adventure.\r\nIts barrel flashes with each\r\nfierce, indiscriminate shot.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        70
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 70,
+    "kind": "light-bowgun",
+    "name": "Blazing Kaiah",
+    "description": "Kaiah harketh from on high:\r\nThou who seekest adventure,\r\nmay thy deathly barrage\r\ndeny thy cycle of rebirth.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 69,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 73,
+    "kind": "light-bowgun",
+    "name": "Esperanza Rifle",
+    "description": "A fully field-tested Hope Rifle.\r\nLike rain in times of drought, it\r\nrestores hope to the battlefield.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 74,
+    "kind": "light-bowgun",
+    "name": "Faithbreaker Leibolkule",
+    "description": "An upgraded Dosha Faithbreaker.\r\nIts gunfire rips through quarry as\r\nmercilessly as a stampede.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "318": 6,
+        "660": 5
+      },
+      "previous_id": 19,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 75,
+    "kind": "light-bowgun",
+    "name": "Expiating Caius",
+    "description": "An upgraded Veldian Impetum.\r\nEven giant wyverns fall when faced\r\nwith its storms of precise bullets.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 65,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 76,
+    "kind": "light-bowgun",
+    "name": "Desolate Mist I",
+    "description": "A weapon used by a warrior\r\nwho once fought for peace.\r\nScatters enemies like fog.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        77
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 77,
+    "kind": "light-bowgun",
+    "name": "Nifl Mist",
+    "description": "An enhanced Desolate Mist.\r\nIt knows not the fog's\r\nevanescence, only its power.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 76,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 81,
+    "kind": "light-bowgun",
+    "name": "Thundacrus I",
+    "description": "A light bowgun made of\r\nLagiacrus parts. Its majestic\r\nbarrel can fire high voltage\r\nelectricity.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        82
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 82,
+    "kind": "light-bowgun",
+    "name": "Thundacrus Rex",
+    "description": "An upgraded Thundacrus.\r\nElectrical power courses\r\nthrough it, making it the\r\nepitome of fear itself.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 81,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 86,
+    "kind": "light-bowgun",
+    "name": "Bethorned Agony",
+    "description": "As guilt swallows all, these\r\nthorns shall bind and punish\r\nyour pitiable soul.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 87,
+    "kind": "light-bowgun",
+    "name": "Bethorned Agony",
+    "description": "As guilt swallows all, these\r\nthorns shall bind and punish\r\nyour pitiable soul.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 88,
+    "kind": "light-bowgun",
+    "name": "Bethorned Agony",
+    "description": "As guilt swallows all, these\r\nthorns shall bind and punish\r\nyour pitiable soul.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  }
+]

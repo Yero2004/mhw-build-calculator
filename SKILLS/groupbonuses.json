@@ -1,0 +1,1520 @@
+[
+  {
+    "set_id": -2117203456,
+    "set_name": "Conga α",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -2109565568,
+    "set_name": "Quematrice",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -2086657152,
+    "set_name": "Gore α",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -2058671360,
+    "set_name": "Blango β",
+    "skill_id": 583598144,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -2040662912,
+    "set_name": "Vespoid α",
+    "skill_id": 1968728576,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1916391168,
+    "set_name": "Hirabami",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1853781504,
+    "set_name": "Rathalos β",
+    "skill_id": -1664678272,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1843265280,
+    "set_name": "Chatacabra α",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1823673856,
+    "set_name": "Vespoid",
+    "skill_id": 1968728576,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1727218944,
+    "set_name": "Doshaguma",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1715492864,
+    "set_name": "Seregios β",
+    "skill_id": -1664678272,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1699202560,
+    "set_name": "Guardian Rathalos β",
+    "skill_id": -2041451904,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1649902080,
+    "set_name": "Kunafa α",
+    "skill_id": -1642078720,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1581546752,
+    "set_name": "Rathian β",
+    "skill_id": -1664678272,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1569704320,
+    "set_name": "Comaqchi β",
+    "skill_id": 1685697920,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1564879104,
+    "set_name": "Guardian Seikret",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1535116544,
+    "set_name": "Nerscylla β",
+    "skill_id": 1685697920,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1496450816,
+    "set_name": "Sild α",
+    "skill_id": -1642078720,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1456507776,
+    "set_name": "Conga β",
+    "skill_id": 583598144,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1400394880,
+    "set_name": "Gypceros α",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1376663552,
+    "set_name": "Rathian α",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1346586880,
+    "set_name": "Guardian Arkveld",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1332061952,
+    "set_name": "Dahaad α",
+    "skill_id": -1769550080,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1314912640,
+    "set_name": "Uth Duna α",
+    "skill_id": -1769550080,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1311785984,
+    "set_name": "Rey Dau α",
+    "skill_id": -1769550080,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1309878016,
+    "set_name": "Guardian Rathalos α",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1284130432,
+    "set_name": "Kranodath α",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1266843008,
+    "set_name": "Butterfly α",
+    "skill_id": -1642078720,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1253492608,
+    "set_name": "Kranodath",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1158391424,
+    "set_name": "Guardian Doshaguma",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1128792192,
+    "set_name": "Talioth α",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1118126720,
+    "set_name": "Hirabami α",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -1116023296,
+    "set_name": "Uth Duna β",
+    "skill_id": 2107855744,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -972610496,
+    "set_name": "Rey Dau",
+    "skill_id": -1769550080,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -932860800,
+    "set_name": "Balahara α",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -909939840,
+    "set_name": "Gajau",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -830764992,
+    "set_name": "Melahoa α",
+    "skill_id": -1642078720,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -805142080,
+    "set_name": "Gypceros β",
+    "skill_id": 451472896,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -796412032,
+    "set_name": "Xu Wu α",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -746475968,
+    "set_name": "Suja α",
+    "skill_id": -1642078720,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -647496960,
+    "set_name": "Quematrice β",
+    "skill_id": -1664678272,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -636732672,
+    "set_name": "Kut-Ku α",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -631500928,
+    "set_name": "Lala Barina β",
+    "skill_id": 1685697920,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -605699072,
+    "set_name": "Arkveld α",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -520738208,
+    "set_name": "Xu Wu",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -436938720,
+    "set_name": "Gravios β",
+    "skill_id": -1664678272,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -434190656,
+    "set_name": "Mimiphyta α",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -355167712,
+    "set_name": "Guardian Seikret β",
+    "skill_id": -2041451904,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -309477024,
+    "set_name": "Guardian Rathalos",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -295012384,
+    "set_name": "Gravios α",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -282994240,
+    "set_name": "Uth Duna",
+    "skill_id": -1769550080,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -238549872,
+    "set_name": "Gajau α",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -59351948,
+    "set_name": "Dahaad β",
+    "skill_id": 2107855744,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": -24830612,
+    "set_name": "Lala Barina",
+    "skill_id": 1968728576,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 11,
+    "set_name": "Talioth",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 12,
+    "set_name": "Bulaqchi",
+    "skill_id": 1968728576,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 273,
+    "set_name": "Harvest α",
+    "skill_id": 13941,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 2261,
+    "set_name": "Earrings of Dedication α",
+    "skill_id": 2237,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 2461,
+    "set_name": "Orion α",
+    "skill_id": 13941,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 3633,
+    "set_name": "Akuma α",
+    "skill_id": 4554,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 4744,
+    "set_name": "Eager Wudwud α",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 5330,
+    "set_name": "Guild Cross α",
+    "skill_id": 2237,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 8248,
+    "set_name": "Afi α",
+    "skill_id": 13941,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 9442,
+    "set_name": "Gelidron α",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 11061,
+    "set_name": "Gourmand's Earring α",
+    "skill_id": 2237,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 12183,
+    "set_name": "Mizutsune β",
+    "skill_id": 583598144,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 15655,
+    "set_name": "Sakuratide α",
+    "skill_id": 13941,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 15894,
+    "set_name": "Dahaad γ",
+    "skill_id": 1484575872,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 16685,
+    "set_name": "Amstrigian α",
+    "skill_id": 451472896,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 17173,
+    "set_name": "Doshagumask α",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 17725,
+    "set_name": "Clerk α",
+    "skill_id": 2237,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 18386,
+    "set_name": "Nu Udra γ",
+    "skill_id": 1484575872,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 20042,
+    "set_name": "Blossom α",
+    "skill_id": 13941,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 20427,
+    "set_name": "Lagiacrus β",
+    "skill_id": 451472896,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 22297,
+    "set_name": "Numinous β",
+    "skill_id": -2041451904,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 29371,
+    "set_name": "Dreamwalker α",
+    "skill_id": 13941,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 29445,
+    "set_name": "Uth Duna γ",
+    "skill_id": 1484575872,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 30086,
+    "set_name": "Mizutsune α",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 30569,
+    "set_name": "Numinous α",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 30649,
+    "set_name": "Lagiacrus α",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 31453,
+    "set_name": "Ceremonial α",
+    "skill_id": 13941,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 31514,
+    "set_name": "Diver α",
+    "skill_id": 13941,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 32083,
+    "set_name": "Rey Dau γ",
+    "skill_id": 1484575872,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 3249367,
+    "set_name": "Lala Barina α",
+    "skill_id": 1968728576,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 12330399,
+    "set_name": "Balahara β",
+    "skill_id": -1664678272,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 29897828,
+    "set_name": "Guardian Doshaguma β",
+    "skill_id": -2041451904,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 124521752,
+    "set_name": "Guardian Ebony β",
+    "skill_id": -2041451904,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 130302384,
+    "set_name": "Doshaguma β",
+    "skill_id": 583598144,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 139617472,
+    "set_name": "Piragill β",
+    "skill_id": 451472896,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 238882304,
+    "set_name": "Guardian Arkveld α",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 253715744,
+    "set_name": "Guardian Seikret α",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 297911136,
+    "set_name": "Chatacabra β",
+    "skill_id": 451472896,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 303232896,
+    "set_name": "Piragill α",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 307878816,
+    "set_name": "Quematrice α",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 327345216,
+    "set_name": "Nu Udra β",
+    "skill_id": 2107855744,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 417054528,
+    "set_name": "Comaqchi",
+    "skill_id": 1968728576,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 458233920,
+    "set_name": "Blango α",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 459951104,
+    "set_name": "Kut-Ku β",
+    "skill_id": -1664678272,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 472240160,
+    "set_name": "Guardian Doshaguma α",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 598400000,
+    "set_name": "Rey Dau β",
+    "skill_id": 2107855744,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 608781568,
+    "set_name": "Guardian Ebony",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 638891520,
+    "set_name": "High Metal α",
+    "skill_id": -1642078720,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 672494016,
+    "set_name": "Conga",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 690915648,
+    "set_name": "Nerscylla",
+    "skill_id": 1968728576,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 744512064,
+    "set_name": "Vespoid β",
+    "skill_id": 1685697920,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 790327424,
+    "set_name": "Bulaqchi β",
+    "skill_id": 1685697920,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 808936256,
+    "set_name": "Death Stench α",
+    "skill_id": -1642078720,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 884421248,
+    "set_name": "Doshaguma α",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 889233792,
+    "set_name": "Battle α",
+    "skill_id": -1642078720,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 939921856,
+    "set_name": "King Beetle α",
+    "skill_id": -1642078720,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 951292800,
+    "set_name": "Hirabami β",
+    "skill_id": -1664678272,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 955926336,
+    "set_name": "Guardian Arkveld β",
+    "skill_id": -2041451904,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1044071680,
+    "set_name": "Nu Udra",
+    "skill_id": -1769550080,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1064459456,
+    "set_name": "Rompopolo β",
+    "skill_id": 451472896,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1116493056,
+    "set_name": "Nerscylla α",
+    "skill_id": 1968728576,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1122640768,
+    "set_name": "Talioth β",
+    "skill_id": 451472896,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1137760384,
+    "set_name": "Seregios α",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1178166400,
+    "set_name": "Nu Udra α",
+    "skill_id": -1769550080,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1204277120,
+    "set_name": "Chatacabra",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1254402048,
+    "set_name": "Ajarakan",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1349287168,
+    "set_name": "Kranodath β",
+    "skill_id": -1664678272,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1354790272,
+    "set_name": "Ajarakan β",
+    "skill_id": 583598144,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1493203456,
+    "set_name": "Guardian Fulgur α",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1552524288,
+    "set_name": "Guardian Ebony α",
+    "skill_id": -1305836672,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1619457664,
+    "set_name": "Artian α",
+    "skill_id": -2041451904,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1693966848,
+    "set_name": "Arkveld β",
+    "skill_id": 583598144,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1699065088,
+    "set_name": "Balahara",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1719980800,
+    "set_name": "Bulaqchi α",
+    "skill_id": 1968728576,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1725739136,
+    "set_name": "Guardian Fulgur β",
+    "skill_id": -2041451904,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1766304512,
+    "set_name": "Piragill",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1769659776,
+    "set_name": "Rathalos α",
+    "skill_id": 1487598336,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1827374976,
+    "set_name": "Xu Wu β",
+    "skill_id": 451472896,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1869289088,
+    "set_name": "Azuz α",
+    "skill_id": -1642078720,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1905422464,
+    "set_name": "Ajarakan α",
+    "skill_id": 1998066176,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 1956132992,
+    "set_name": "Gore β",
+    "skill_id": -1664678272,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 2045212544,
+    "set_name": "Rompopolo",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 2048560000,
+    "set_name": "Comaqchi α",
+    "skill_id": 1968728576,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  },
+  {
+    "set_id": 2113410944,
+    "set_name": "Rompopolo α",
+    "skill_id": -1648695680,
+    "ranks": [
+      {
+        "pieces": 3,
+        "skill_level": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,244 @@
+[
+  {
+    "id": -2123993856,
+    "name": "Spread/Power Shots",
+    "max_level": 1,
+    "ranks": [
+      "Slightly increases the power of\r\nspecified ammo and arrows."
+    ]
+  },
+  {
+    "id": -2022542848,
+    "name": "Blast Functionality",
+    "max_level": 1,
+    "ranks": [
+      "Lets you use blast coatings."
+    ]
+  },
+  {
+    "id": -1961297152,
+    "name": "Normal Shots",
+    "max_level": 1,
+    "ranks": [
+      "Slightly increases the power of\r\nspecified ammo and arrows."
+    ]
+  },
+  {
+    "id": -1863702144,
+    "name": "Paralysis Attack",
+    "max_level": 3,
+    "ranks": [
+      "Paralysis buildup +5%\r\nBonus: +10",
+      "Paralysis buildup +10%\r\nBonus: +20",
+      "Paralysis buildup +20%\r\nBonus: +50"
+    ]
+  },
+  {
+    "id": -1716324608,
+    "name": "Poison Attack",
+    "max_level": 3,
+    "ranks": [
+      "Poison buildup +5%\r\nBonus: +10",
+      "Poison buildup +10%\r\nBonus: +20",
+      "Poison buildup +20%\r\nBonus: +50"
+    ]
+  },
+  {
+    "id": -1507579776,
+    "name": "Rapid Fire Up",
+    "max_level": 1,
+    "ranks": [
+      "Rapid fire power +5%"
+    ]
+  },
+  {
+    "id": -844978880,
+    "name": "Blast Attack",
+    "max_level": 3,
+    "ranks": [
+      "Blast buildup +5%\r\nBonus: +10",
+      "Blast buildup +10%\r\nBonus: +20",
+      "Blast buildup +20%\r\nBonus: +50"
+    ]
+  },
+  {
+    "id": -776946176,
+    "name": "Dragon Attack",
+    "max_level": 3,
+    "ranks": [
+      "Dragon attack +40",
+      "Dragon attack +10%\r\nBonus: +50",
+      "Dragon attack +20%\r\nBonus: +60"
+    ]
+  },
+  {
+    "id": -676967744,
+    "name": "Para Functionality",
+    "max_level": 1,
+    "ranks": [
+      "Lets you use paralysis coatings."
+    ]
+  },
+  {
+    "id": -632440576,
+    "name": "Shock Absorber",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": -562534336,
+    "name": "Fire Attack",
+    "max_level": 3,
+    "ranks": [
+      "Fire attack +40",
+      "Fire attack +10%\r\nBonus: +50",
+      "Fire attack +20%\r\nBonus: +60"
+    ]
+  },
+  {
+    "id": -181774400,
+    "name": "Exhaust Functionality",
+    "max_level": 1,
+    "ranks": [
+      "Lets you use exhaust coatings."
+    ]
+  },
+  {
+    "id": 10503,
+    "name": "Rice Ball",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 166057120,
+    "name": "Sleep Attack",
+    "max_level": 3,
+    "ranks": [
+      "Sleep buildup +5%\r\nBonus: +10",
+      "Sleep buildup +10%\r\nBonus: +20",
+      "Sleep buildup +20%\r\nBonus: +50"
+    ]
+  },
+  {
+    "id": 169998480,
+    "name": "Sleep Functionality",
+    "max_level": 1,
+    "ranks": [
+      "Lets you use sleep coatings."
+    ]
+  },
+  {
+    "id": 397306144,
+    "name": "Bludgeoner",
+    "max_level": 3,
+    "ranks": [
+      "+5% damage dealt when\r\nyour sharpness gauge is\r\nyellow or lower.",
+      "+10% damage dealt when\r\nyour sharpness gauge is\r\nyellow or lower.",
+      "+10% damage dealt when\r\nyour sharpness gauge is\r\ngreen or lower."
+    ]
+  },
+  {
+    "id": 508916704,
+    "name": "Water Attack",
+    "max_level": 3,
+    "ranks": [
+      "Water attack +40",
+      "Water attack +10%\r\nBonus: +50",
+      "Water attack +20%\r\nBonus: +60"
+    ]
+  },
+  {
+    "id": 552982656,
+    "name": "Piercing Shots",
+    "max_level": 1,
+    "ranks": [
+      "Slightly increases the power of\r\nspecified ammo and arrows."
+    ]
+  },
+  {
+    "id": 919683456,
+    "name": "Poison Functionality",
+    "max_level": 1,
+    "ranks": [
+      "Lets you use poison coatings."
+    ]
+  },
+  {
+    "id": 1050520384,
+    "name": "Razor Sharp",
+    "max_level": 3,
+    "ranks": [
+      "Grants a 10% chance of no\r\nsharpness loss.",
+      "Grants a 25% chance of no\r\nsharpness loss.",
+      "Grants a 50% chance of no\r\nsharpness loss."
+    ]
+  },
+  {
+    "id": 1077686656,
+    "name": "Defense Boost",
+    "max_level": 7,
+    "ranks": [
+      "Defense +5",
+      "Defense +10",
+      "Defense +5%\r\nBonus: +10",
+      "Defense +5%\r\nBonus: +20\r\nAll elemental resistances +3",
+      "Defense +8%\r\nBonus: +20\r\nAll elemental resistances +3",
+      "Defense +8%\r\nBonus: +35\r\nAll elemental resistances +5",
+      "Defense +10%\r\nBonus: +35\r\nAll elemental resistances +5"
+    ]
+  },
+  {
+    "id": 1160639488,
+    "name": "Handicraft",
+    "max_level": 5,
+    "ranks": [
+      "Weapon sharpness +10",
+      "Weapon sharpness +20",
+      "Weapon sharpness +30",
+      "Weapon sharpness +40",
+      "Weapon sharpness +50"
+    ]
+  },
+  {
+    "id": 1268070400,
+    "name": "Ice Attack",
+    "max_level": 3,
+    "ranks": [
+      "Ice attack +40",
+      "Ice attack +10%\r\nBonus: +50",
+      "Ice attack +20%\r\nBonus: +60"
+    ]
+  },
+  {
+    "id": 1452140672,
+    "name": "Thunder Attack",
+    "max_level": 3,
+    "ranks": [
+      "Thunder attack +40",
+      "Thunder attack +10%\r\nBonus: +50",
+      "Thunder attack +20%\r\nBonus: +60"
+    ]
+  },
+  {
+    "id": 1594792704,
+    "name": "Mind's Eye",
+    "max_level": 3,
+    "ranks": [
+      "50% chance of your attacks\r\nnot being deflected, +10% attack\r\npower against hard targets.",
+      "100% chance of your attacks\r\nnot being deflected, +15% attack\r\npower against hard targets.",
+      "100% chance of your attacks\r\nnot being deflected, +30% attack\r\npower against hard targets."
+    ]
+  },
+  {
+    "id": 1639440000,
+    "name": "Self-Improvement",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  }
+]

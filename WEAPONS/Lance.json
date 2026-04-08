@@ -1,0 +1,4062 @@
+[
+  {
+    "id": 1,
+    "kind": "lance",
+    "name": "Hope Lance I",
+    "description": "A lance made specifically for the\r\nexpedition. Keep an iron-clad guard\r\nand strike with well-aimed thrusts.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 40,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "lance",
+    "name": "Hope Lance II",
+    "description": "A lance made specifically for the\r\nexpedition. Keep an iron-clad guard\r\nand strike with well-aimed thrusts.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 50,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        11,
+        25
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "lance",
+    "name": "Hope Lance III",
+    "description": "A lance made specifically for the\r\nexpedition. Keep an iron-clad guard\r\nand strike with well-aimed thrusts.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        51
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "lance",
+    "name": "Hope Lance IV",
+    "description": "A lance made specifically for the\r\nexpedition. Keep an iron-clad guard\r\nand strike with well-aimed thrusts.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "lance",
+    "name": "Hope Lance V",
+    "description": "A lance made specifically for the\r\nexpedition. Keep an iron-clad guard\r\nand strike with well-aimed thrusts.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 80,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        72
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "lance",
+    "name": "Bone Lance I",
+    "description": "As beginner lances go, it's this\r\nor the iron one. Extra yield in the\r\ntip dissipates the shock of impact.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 70,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        15,
+        20
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 7,
+    "kind": "lance",
+    "name": "Bone Lance II",
+    "description": "As beginner lances go, it's this\r\nor the iron one. Extra yield in the\r\ntip dissipates the shock of impact.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 1,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8,
+        41
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 8,
+    "kind": "lance",
+    "name": "Bone Lance III",
+    "description": "As beginner lances go, it's this\r\nor the iron one. Extra yield in the\r\ntip dissipates the shock of impact.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 2,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 9,
+    "kind": "lance",
+    "name": "Bone Lance IV",
+    "description": "As beginner lances go, it's this\r\nor the iron one. Extra yield in the\r\ntip dissipates the shock of impact.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 8,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 10,
+    "kind": "lance",
+    "name": "Hard Bone Lance",
+    "description": "The king of savage weaponry, this\r\nupgraded Bone Lance is crafted\r\nfrom only the finest materials.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 100,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 11,
+    "kind": "lance",
+    "name": "Chrome Drill I",
+    "description": "A mechanical lance once used for\r\nmining. Eight rotating blades make\r\nshort work of monster plating.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 30,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1674114176": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        12,
+        33
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 12,
+    "kind": "lance",
+    "name": "Chrome Drill II",
+    "description": "A mechanical lance once used for\r\nmining. Eight rotating blades make\r\nshort work of monster plating.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1674114176": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 13,
+    "kind": "lance",
+    "name": "Chrome Drill III",
+    "description": "A mechanical lance once used for\r\nmining. Eight rotating blades make\r\nshort work of monster plating.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1674114176": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 12,
+      "branches": [
+        14
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 14,
+    "kind": "lance",
+    "name": "Chrome Lance",
+    "description": "A Chrome Drill upgraded with\r\nrare steel. A craftsman's pride\r\nthat can pierce through anything.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 15,
+    "kind": "lance",
+    "name": "Quematrice Lanza I",
+    "description": "A Quematrice lance. Its fireproof\r\ndesign protects the weapon and\r\nwielder from its own intense heat.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 50,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "88": 3,
+        "90": 1,
+        "299": 2
+      },
+      "previous_id": 6,
+      "branches": [
+        16,
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 16,
+    "kind": "lance",
+    "name": "Quematrice Lanza II",
+    "description": "A Quematrice lance. Its fireproof\r\ndesign protects the weapon and\r\nwielder from its own intense heat.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 60,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "55": 1,
+        "91": 1,
+        "580": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        17
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 17,
+    "kind": "lance",
+    "name": "Quematrice Lanza III",
+    "description": "A Quematrice lance. Its fireproof\r\ndesign protects the weapon and\r\nwielder from its own intense heat.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 80,
+      "green": 50,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "303": 5,
+        "304": 3,
+        "305": 2
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 18,
+    "kind": "lance",
+    "name": "Quematrice Lanza IV",
+    "description": "A Quematrice lance. Its fireproof\r\ndesign protects the weapon and\r\nwielder from its own intense heat.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 80,
+      "yellow": 80,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "302": 6,
+        "389": 3,
+        "594": 5
+      },
+      "previous_id": 17,
+      "branches": [
+        19
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 19,
+    "kind": "lance",
+    "name": "Firetrail Kaminet",
+    "description": "An improved Quematrice Lanza.\r\nEach searing blow makes the life\r\nof prey evaporate with its heat.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 70,
+      "yellow": 80,
+      "green": 80,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "301": 6,
+        "388": 1,
+        "659": 5
+      },
+      "previous_id": 18,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1281946368
+  },
+  {
+    "id": 20,
+    "kind": "lance",
+    "name": "Barina Sarissa I",
+    "description": "A Lala Barina lance perfect for\r\nstabbing. The large bud contains\r\na potent paralytic agent.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 40,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 6,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 21,
+    "kind": "lance",
+    "name": "Barina Sarissa II",
+    "description": "A Lala Barina lance perfect for\r\nstabbing. The large bud contains\r\na potent paralytic agent.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 13,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 2,
+        "515": 1
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 22,
+    "kind": "lance",
+    "name": "Barina Sarissa III",
+    "description": "A Lala Barina lance perfect for\r\nstabbing. The large bud contains\r\na potent paralytic agent.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 23,
+    "kind": "lance",
+    "name": "Barina Sarissa IV",
+    "description": "A Lala Barina lance perfect for\r\nstabbing. The large bud contains\r\na potent paralytic agent.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 22,
+      "branches": [
+        24
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 24,
+    "kind": "lance",
+    "name": "Lala Aviculari",
+    "description": "A Barina Sarissa in glorious bloom.\r\nThe thorn of this red rose delivers\r\nall its paralytic poison at once.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 100,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 23,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 25,
+    "kind": "lance",
+    "name": "Balahara Lance I",
+    "description": "A Balahara lance with spiral\r\ngrooves that heighten its ability\r\nto penetrate and inflict damage.",
+    "rarity": 2,
+    "raw": 110,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "81": 3,
+        "82": 1,
+        "595": 1
+      },
+      "previous_id": 2,
+      "branches": [
+        26,
+        37
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 26,
+    "kind": "lance",
+    "name": "Balahara Lance II",
+    "description": "A Balahara lance with spiral\r\ngrooves that heighten its ability\r\nto penetrate and inflict damage.",
+    "rarity": 4,
+    "raw": 150,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 100,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "80": 2,
+        "83": 1,
+        "392": 1
+      },
+      "previous_id": 25,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 27,
+    "kind": "lance",
+    "name": "Balahara Lance III",
+    "description": "A Balahara lance with spiral\r\ngrooves that heighten its ability\r\nto penetrate and inflict damage.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "314": 2,
+        "315": 2,
+        "596": 2,
+        "704": 1
+      },
+      "previous_id": 26,
+      "branches": [
+        28
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 28,
+    "kind": "lance",
+    "name": "Balahara Lance IV",
+    "description": "A Balahara lance with spiral\r\ngrooves that heighten its ability\r\nto penetrate and inflict damage.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "313": 5,
+        "335": 3
+      },
+      "previous_id": 27,
+      "branches": [
+        29
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 29,
+    "kind": "lance",
+    "name": "Sandsea Prallaya",
+    "description": "An upgraded Balahara Lance that\r\nblends cutting and piercing power.\r\nThe blade rotates when drawn.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 100,
+      "green": 80,
+      "blue": 70,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "312": 6,
+        "334": 1,
+        "659": 5
+      },
+      "previous_id": 28,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 30,
+    "kind": "lance",
+    "name": "Dosha Fierceborer I",
+    "description": "A Doshaguma lance designed from\r\na wild mix of materials to harm\r\nanything in its inexorable path.",
+    "rarity": 2,
+    "raw": 140,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [],
+    "sharpness": {
+      "red": 30,
+      "orange": 90,
+      "yellow": 80,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "34": 3,
+        "35": 2,
+        "36": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        31,
+        48,
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 31,
+    "kind": "lance",
+    "name": "Dosha Fierceborer II",
+    "description": "A Doshaguma lance designed from\r\na wild mix of materials to harm\r\nanything in its inexorable path.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "33": 3,
+        "392": 1,
+        "588": 1
+      },
+      "previous_id": 30,
+      "branches": [
+        32
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 32,
+    "kind": "lance",
+    "name": "Dosha Fierceborer III",
+    "description": "A Doshaguma lance designed from\r\na wild mix of materials to harm\r\nanything in its inexorable path.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 90,
+      "green": 60,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "319": 6,
+        "320": 4,
+        "321": 2
+      },
+      "previous_id": 31,
+      "branches": [
+        73
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 33,
+    "kind": "lance",
+    "name": "Rompo Piercer I",
+    "description": "A spear infused with Rompopolo\r\nvenom. One prick is all it takes\r\nto inject a lethal dose of poison.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 100,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 2
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "336": 3,
+        "337": 2,
+        "601": 1
+      },
+      "previous_id": 11,
+      "branches": [
+        34,
+        45
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 34,
+    "kind": "lance",
+    "name": "Rompo Piercer II",
+    "description": "A spear infused with Rompopolo\r\nvenom. One prick is all it takes\r\nto inject a lethal dose of poison.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 90,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "342": 3,
+        "345": 1,
+        "602": 3
+      },
+      "previous_id": 33,
+      "branches": [
+        35
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 35,
+    "kind": "lance",
+    "name": "Rompo Piercer III",
+    "description": "A spear infused with Rompopolo\r\nvenom. One prick is all it takes\r\nto inject a lethal dose of poison.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 50,
+      "yellow": 100,
+      "green": 30,
+      "blue": 100,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "105": 1,
+        "343": 4,
+        "389": 3
+      },
+      "previous_id": 34,
+      "branches": [
+        36
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 36,
+    "kind": "lance",
+    "name": "Rompo Tetrotox",
+    "description": "An upgraded version of the Rompo\r\nPiercer, capable of injecting\r\npoison into its unsuspecting\r\nvictims even more quickly.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 100,
+      "green": 30,
+      "blue": 100,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "344": 3,
+        "659": 5
+      },
+      "previous_id": 35,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 37,
+    "kind": "lance",
+    "name": "Rey Indra I",
+    "description": "A lance imbued with Rey Dau's\r\nthunder. Oddly shaped, but\r\nstrikes true as lightning.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 150,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "139": 3,
+        "141": 1,
+        "142": 2
+      },
+      "previous_id": 25,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 38,
+    "kind": "lance",
+    "name": "Rey Indra II",
+    "description": "A lance imbued with Rey Dau's\r\nthunder. Oddly shaped, but\r\nstrikes true as lightning.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 130,
+      "green": 100,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "104": 3,
+        "536": 2,
+        "579": 1
+      },
+      "previous_id": 37,
+      "branches": [
+        39
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 39,
+    "kind": "lance",
+    "name": "Rey Indra III",
+    "description": "A lance imbued with Rey Dau's\r\nthunder. Oddly shaped, but\r\nstrikes true as lightning.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 120,
+      "green": 80,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "143": 1,
+        "144": 1,
+        "350": 4,
+        "352": 3
+      },
+      "previous_id": 38,
+      "branches": [
+        40
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 40,
+    "kind": "lance",
+    "name": "Indra Clairlance",
+    "description": "An upgraded Rey Indra.\r\nTo invaders it shows no\r\nquarter, punishing legions\r\nwith each fulgurant bite.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 110,
+      "green": 70,
+      "blue": 70,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "348": 6,
+        "349": 4,
+        "351": 1,
+        "661": 5
+      },
+      "previous_id": 39,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 41,
+    "kind": "lance",
+    "name": "Windpierce Lance I",
+    "description": "A spear made from Hirabami\r\nmembrane. It mesmerizes prey\r\nwith its wind-like gleam, then\r\npierces them through.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "353": 3,
+        "356": 2,
+        "599": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        42,
+        54
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 42,
+    "kind": "lance",
+    "name": "Windpierce Lance II",
+    "description": "A spear made from Hirabami\r\nmembrane. It mesmerizes prey\r\nwith its wind-like gleam, then\r\npierces them through.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 100,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "361": 4,
+        "362": 1,
+        "600": 3
+      },
+      "previous_id": 41,
+      "branches": [
+        43
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 43,
+    "kind": "lance",
+    "name": "Windpierce Lance III",
+    "description": "A spear made from Hirabami\r\nmembrane. It mesmerizes prey\r\nwith its wind-like gleam, then\r\npierces them through.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 30,
+      "blue": 140,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "359": 5,
+        "425": 3
+      },
+      "previous_id": 42,
+      "branches": [
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 44,
+    "kind": "lance",
+    "name": "Windpierce Tsukibami",
+    "description": "An upgraded Windpierce Lance.\r\nWith its battle standard shrouded\r\nin a fierce windstorm, it freezes\r\nall who stand before it.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 30,
+      "blue": 120,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3,
+      "402237312": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "360": 6,
+        "424": 1,
+        "659": 5
+      },
+      "previous_id": 43,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -6931531
+  },
+  {
+    "id": 45,
+    "kind": "lance",
+    "name": "Nu Osminog I",
+    "description": "A Nu Udra lance that binds weapon\r\nand wielder in a web of tentacles,\r\neager to drag prey down to hell.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 80,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "376": 3,
+        "377": 2,
+        "380": 1
+      },
+      "previous_id": 33,
+      "branches": [
+        46
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 46,
+    "kind": "lance",
+    "name": "Nu Osminog II",
+    "description": "A Nu Udra lance that binds weapon\r\nand wielder in a web of tentacles,\r\neager to drag prey down to hell.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 100,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "381": 1,
+        "384": 5,
+        "387": 4,
+        "389": 3
+      },
+      "previous_id": 45,
+      "branches": [
+        47
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 47,
+    "kind": "lance",
+    "name": "Abaddonian Osminog",
+    "description": "An upgraded Nu Osminog.\r\nUp from the inferno its dire\r\ntentacles climb, enveloping\r\nimpaled prey in flame.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "385": 4,
+        "386": 6,
+        "388": 1,
+        "661": 5
+      },
+      "previous_id": 46,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 48,
+    "kind": "lance",
+    "name": "Dosha Gloomborer I",
+    "description": "A Guardian Doshaguma lance.\r\nTo its defiers it shows no mercy,\r\nviciously returning them to nature.",
+    "rarity": 4,
+    "raw": 180,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 70,
+      "yellow": 120,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "390": 3,
+        "392": 2,
+        "393": 1
+      },
+      "previous_id": 30,
+      "branches": [
+        49
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 49,
+    "kind": "lance",
+    "name": "Dosha Gloomborer II",
+    "description": "A Guardian Doshaguma lance.\r\nTo its defiers it shows no mercy,\r\nviciously returning them to nature.",
+    "rarity": 6,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 100,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "397": 6,
+        "398": 4,
+        "399": 2,
+        "608": 1
+      },
+      "previous_id": 48,
+      "branches": [
+        50
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 50,
+    "kind": "lance",
+    "name": "Gloomborer Urshanith",
+    "description": "An upgraded Dosha Gloomborer.\r\nIts destructive impulses transform\r\nwielders into violence incarnate.",
+    "rarity": 8,
+    "raw": 250,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 90,
+      "green": 90,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "395": 6,
+        "660": 5,
+        "665": 6
+      },
+      "previous_id": 49,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 555478144
+  },
+  {
+    "id": 51,
+    "kind": "lance",
+    "name": "Albirath Tail I",
+    "description": "A Guardian Rathalos lance.\r\nLike a blazing fire, its wielder's\r\nspirit never abates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 60,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        52
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 52,
+    "kind": "lance",
+    "name": "Albirath Tail II",
+    "description": "A Guardian Rathalos lance.\r\nLike a blazing fire, its wielder's\r\nspirit never abates.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 120,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 51,
+      "branches": [
+        53
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 53,
+    "kind": "lance",
+    "name": "Shining Pillar",
+    "description": "An upgraded Albirath Tail.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 150,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 52,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 54,
+    "kind": "lance",
+    "name": "Chthonian Firewheel I",
+    "description": "A Guardian Ebony Odogaron lance.\r\nBeholden to beastly cravings,\r\nits thirst for blood never wanes.",
+    "rarity": 4,
+    "raw": 140,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "426": 3,
+        "428": 2,
+        "429": 1
+      },
+      "previous_id": 41,
+      "branches": [
+        55
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 55,
+    "kind": "lance",
+    "name": "Chthonian Firewheel II",
+    "description": "A Guardian Ebony Odogaron lance.\r\nBeholden to beastly cravings,\r\nits thirst for blood never wanes.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 31,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "431": 1,
+        "435": 6,
+        "438": 2,
+        "608": 1
+      },
+      "previous_id": 54,
+      "branches": [
+        56
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 56,
+    "kind": "lance",
+    "name": "Bequeathed Regret",
+    "description": "An upgraded Chthonian Firewheel.\r\nDespite chewing free of its cycle of\r\nhunger, the beast remains unsated.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 80,
+      "blue": 100,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-181127504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "436": 6,
+        "437": 1,
+        "455": 6,
+        "660": 5
+      },
+      "previous_id": 55,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 57,
+    "kind": "lance",
+    "name": "G. Veldian Lancea I",
+    "description": "A lance made from Guardian spoils.\r\nIt thrusts a sense of duty to defend\r\nthe weak into the wielder's mind.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 30,
+      "branches": [
+        58
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 58,
+    "kind": "lance",
+    "name": "G. Veldian Lancea II",
+    "description": "A lance made from Guardian spoils.\r\nIt thrusts a sense of duty to defend\r\nthe weak into the wielder's mind.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 60,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 57,
+      "branches": [
+        59,
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 59,
+    "kind": "lance",
+    "name": "G. Purifying Beaumains",
+    "description": "An upgraded G. Veldian Lancea.\r\nA shield to repel all evil, and\r\na lance to penetrate madness.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 58,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 60,
+    "kind": "lance",
+    "name": "Gravios Spear I",
+    "description": "A giant lance worthy of Gravios's\r\nname. The wielder must be extra\r\ncautious of its blast capabilities.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 80,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      30,
+      20
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 29,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "543": 3,
+        "544": 4,
+        "546": 5,
+        "547": 2
+      },
+      "previous_id": null,
+      "branches": [
+        61
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 61,
+    "kind": "lance",
+    "name": "Gravios Lance",
+    "description": "An upgraded Gravios Spear capable\r\nof piercing anything: plating, bone,\r\neven the very spark of life.",
+    "rarity": 8,
+    "raw": 250,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 70,
+      "yellow": 70,
+      "green": 70,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "542": 6,
+        "545": 1,
+        "660": 5
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 62,
+    "kind": "lance",
+    "name": "Harbah Lance I",
+    "description": "The countless Seregios scales\r\ncovering the blade of this lance\r\nresembles a crown of thorns.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 63,
+    "kind": "lance",
+    "name": "Turbulent Lance",
+    "description": "The enhanced version of the\r\nHarbah Lance. Its sharpness\r\ngrants it a menacing air.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 64,
+    "kind": "lance",
+    "name": "Red Tail I",
+    "description": "A lance fashioned from a Rathalos\r\ntail. Each thrust from this\r\nslender weapon produces\r\na scorching blaze.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 30,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 29,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": null,
+      "branches": [
+        65,
+        66
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 65,
+    "kind": "lance",
+    "name": "Spear of Prominence",
+    "description": "The Red Tail's enhanced form,\r\na top-tier powerhouse that\r\npairs vicious spikes with\r\ncrimson hellfire.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 64,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 66,
+    "kind": "lance",
+    "name": "Eiferschild I",
+    "description": "A Gore Magala lance that\r\nbinds souls with its gaze before\r\nsending them to the netherworld\r\nwith one fell thrust.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 70,
+      "blue": 40,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 64,
+      "branches": [
+        67
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 67,
+    "kind": "lance",
+    "name": "Fieberschild",
+    "description": "The Eiferschild's enhanced form,\r\nan unleashed demon that\r\nravenously seeks out souls\r\nto reave and devour.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 60,
+      "blue": 40,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 66,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 68,
+    "kind": "lance",
+    "name": "Veldian Lancea I",
+    "description": "An Arkveld lance. The knight\r\nwho wielded it won the hearts\r\nof thousands for devoted service.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 90,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 32,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 58,
+      "branches": [
+        74
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 69,
+    "kind": "lance",
+    "name": "Artian Lance I",
+    "description": "A weapon assembled from\r\nunearthed fragments. Its length\r\nand girth allow it to tower over\r\nobservers.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 70,
+    "kind": "lance",
+    "name": "Artian Lance II",
+    "description": "A weapon assembled from\r\nunearthed fragments. Its length\r\nand girth allow it to tower over\r\nobservers.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 71,
+    "kind": "lance",
+    "name": "Skyscraper",
+    "description": "An ancient weapon with latent\r\npotential. Reunited with its final\r\npiece, it will pierce heaven itself.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 72,
+    "kind": "lance",
+    "name": "Esperanza Lance",
+    "description": "A fully field-tested Hope Lance.\r\nIt drives through the worst of\r\nperils, finding the hope beyond.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 60,
+      "blue": 40,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 73,
+    "kind": "lance",
+    "name": "Fierceborer Dubhanith",
+    "description": "A further upgraded Dosha\r\nFierceborer. Its sharp tip cries\r\nout for more sacrifices.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -5,
+    "defense": 20,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 110,
+      "green": 50,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "318": 6,
+        "660": 5
+      },
+      "previous_id": 32,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -492617504
+  },
+  {
+    "id": 74,
+    "kind": "lance",
+    "name": "Purifying Beaumains",
+    "description": "An upgraded Veldian Lancea. The\r\nskill of its knightly wielder denied\r\nfoes even a single scratch.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 68,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 75,
+    "kind": "lance",
+    "name": "Zoh Sital I",
+    "description": "A Zoh Shia lance that sweeps\r\naway all who dare stand\r\nbefore it.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        76
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 76,
+    "kind": "lance",
+    "name": "Blazing Sital",
+    "description": "Sital harketh from on high:\r\nThou who seekest fulfillment,\r\nmay this immovable wall\r\ndeny all hindrances.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 75,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 78,
+    "kind": "lance",
+    "name": "Hana Mo Hana Nare I",
+    "description": "Like flower petals in the\r\nwind, this lance reminds all\r\nof life's ephemeral nature.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        79
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 79,
+    "kind": "lance",
+    "name": "Kimi Ga Kiru",
+    "description": "The Hana Mo Hana Nare's\r\nevolved form. Beautifully\r\ndispenses with life.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 78,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 82,
+    "kind": "lance",
+    "name": "Acrus Lance I",
+    "description": "A fearsome lance made from\r\nLagiacrus materials. Jolts its\r\nprey with electricity.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        83
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 83,
+    "kind": "lance",
+    "name": "High Acrus Lance",
+    "description": "Each attack from the Acrus\r\nLance's upgraded form carries\r\nthe sea lord's unbridled fury.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 70,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-307644128": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 82,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 85,
+    "kind": "lance",
+    "name": "Aether Pike",
+    "description": "A grotesque husk that thirsts\r\nfor potential, cast into darkness\r\nbut still clawing toward heaven.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 86,
+    "kind": "lance",
+    "name": "Aether Pike",
+    "description": "A grotesque husk that thirsts\r\nfor potential, cast into darkness\r\nbut still clawing toward heaven.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 87,
+    "kind": "lance",
+    "name": "Aether Pike",
+    "description": "A grotesque husk that thirsts\r\nfor potential, cast into darkness\r\nbut still clawing toward heaven.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 91,
+    "kind": "lance",
+    "name": "Paladin Lance I",
+    "description": "A lance given to a battle-\r\nhardened knight. Notable\r\nfor its large shield.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 70,
+      "yellow": 70,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 1,
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "56": 5,
+        "581": 1,
+        "616": 1,
+        "698": 3
+      },
+      "previous_id": null,
+      "branches": [
+        92
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -547584512
+  },
+  {
+    "id": 92,
+    "kind": "lance",
+    "name": "Babel Spear",
+    "description": "A golden metal spear bearing the\r\nname of a tower of legend. Solid\r\nas it looks, it defends well.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 60,
+      "yellow": 60,
+      "green": 50,
+      "blue": 130,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-307644128": 1,
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "579": 1,
+        "582": 5,
+        "616": 2,
+        "660": 5
+      },
+      "previous_id": 91,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -547584512
+  }
+]

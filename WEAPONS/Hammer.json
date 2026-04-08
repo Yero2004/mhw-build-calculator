@@ -1,0 +1,4054 @@
+[
+  {
+    "id": 1,
+    "kind": "hammer",
+    "name": "Hope Hammer I",
+    "description": "A hammer made specifically for the\r\nexpedition. Its weight on top of\r\nphysical force can smash anything.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        15,
+        65
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "hammer",
+    "name": "Hope Hammer II",
+    "description": "A hammer made specifically for the\r\nexpedition. Its weight on top of\r\nphysical force can smash anything.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 60,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        11
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "hammer",
+    "name": "Hope Hammer III",
+    "description": "A hammer made specifically for the\r\nexpedition. Its weight on top of\r\nphysical force can smash anything.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        35
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "hammer",
+    "name": "Hope Hammer IV",
+    "description": "A hammer made specifically for the\r\nexpedition. Its weight on top of\r\nphysical force can smash anything.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 70,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "hammer",
+    "name": "Hope Hammer V",
+    "description": "A hammer made specifically for the\r\nexpedition. Its weight on top of\r\nphysical force can smash anything.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 80,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        73
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "hammer",
+    "name": "Bone Bludgeon I",
+    "description": "A hammer that takes \"bare-bones\r\ndesign\" literally. Sure, it's just\r\na bone...but it's YOUR bone.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 60,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        19
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 7,
+    "kind": "hammer",
+    "name": "Bone Bludgeon II",
+    "description": "A hammer that takes \"bare-bones\r\ndesign\" literally. Sure, it's just\r\na bone...but it's YOUR bone.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 90,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8,
+        28,
+        32
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 8,
+    "kind": "hammer",
+    "name": "Bone Bludgeon III",
+    "description": "A hammer that takes \"bare-bones\r\ndesign\" literally. Sure, it's just\r\na bone...but it's YOUR bone.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 100,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 9,
+    "kind": "hammer",
+    "name": "Bone Bludgeon IV",
+    "description": "A hammer that takes \"bare-bones\r\ndesign\" literally. Sure, it's just\r\na bone...but it's YOUR bone.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 80,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 8,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 10,
+    "kind": "hammer",
+    "name": "Heavy Bone Bludgeon",
+    "description": "Is it still just a bone? Yes.\r\nBut as a hammer, this improved\r\nBone Bludgeon has never hit\r\nharder.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 70,
+      "green": 70,
+      "blue": 90,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 11,
+    "kind": "hammer",
+    "name": "Iron Hammer I",
+    "description": "Long before hammers went\r\nmainstream, there was a single\r\nold hunter who swore by this\r\nno-nonsense weapon.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        12,
+        24
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 12,
+    "kind": "hammer",
+    "name": "Iron Hammer II",
+    "description": "Long before hammers went\r\nmainstream, there was a single\r\nold hunter who swore by this\r\nno-nonsense weapon.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 60,
+      "yellow": 90,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 13,
+    "kind": "hammer",
+    "name": "Iron Hammer III",
+    "description": "Long before hammers went\r\nmainstream, there was a single\r\nold hunter who swore by this\r\nno-nonsense weapon.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 12,
+      "branches": [
+        14,
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 14,
+    "kind": "hammer",
+    "name": "Iron Devil",
+    "description": "Whatever fury hell hath, it must\r\nfeel a lot like the meaty,\r\nmonstrous swings of this\r\nupgraded Iron Hammer.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 15,
+    "kind": "hammer",
+    "name": "Chata Clobberer I",
+    "description": "A hammer designed like the head\r\nof a Chatacabra. The weight of its\r\njaw ensures that it packs a punch.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 110,
+      "green": 10,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "353114912": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "84": 1,
+        "85": 2,
+        "87": 3
+      },
+      "previous_id": 1,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 16,
+    "kind": "hammer",
+    "name": "Chata Clobberer II",
+    "description": "A hammer designed like the head\r\nof a Chatacabra. The weight of its\r\njaw ensures that it packs a punch.",
+    "rarity": 3,
+    "raw": 150,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "sharpness": {
+      "red": 80,
+      "orange": 30,
+      "yellow": 120,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "353114912": 1,
+      "1758661504": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "86": 2,
+        "337": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        17,
+        43
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 17,
+    "kind": "hammer",
+    "name": "Chata Clobberer III",
+    "description": "A hammer designed like the head\r\nof a Chatacabra. The weight of its\r\njaw ensures that it packs a punch.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 30,
+      "yellow": 110,
+      "green": 80,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "353114912": 1,
+      "1758661504": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "293": 5,
+        "294": 3,
+        "297": 2
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 18,
+    "kind": "hammer",
+    "name": "Chata Clobberer IV",
+    "description": "A hammer designed like the head\r\nof a Chatacabra. The weight of its\r\njaw ensures that it packs a punch.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 30,
+      "yellow": 120,
+      "green": 100,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "353114912": 1,
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "98": 6,
+        "296": 6,
+        "335": 3
+      },
+      "previous_id": 17,
+      "branches": [
+        74
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 19,
+    "kind": "hammer",
+    "name": "Balahara Hammer I",
+    "description": "A Balahara hammer.\r\nClad in steel, this hulking\r\nweapon can break through\r\nthe most stubborn bedrock.",
+    "rarity": 2,
+    "raw": 110,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 90,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "81": 3,
+        "82": 1,
+        "595": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        20
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 20,
+    "kind": "hammer",
+    "name": "Balahara Hammer II",
+    "description": "A Balahara hammer.\r\nClad in steel, this hulking\r\nweapon can break through\r\nthe most stubborn bedrock.",
+    "rarity": 4,
+    "raw": 150,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 30,
+      "yellow": 100,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "80": 2,
+        "83": 1,
+        "392": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 21,
+    "kind": "hammer",
+    "name": "Balahara Hammer III",
+    "description": "A Balahara hammer.\r\nClad in steel, this hulking\r\nweapon can break through\r\nthe most stubborn bedrock.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 23,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "314": 2,
+        "315": 2,
+        "596": 2,
+        "704": 1
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 22,
+    "kind": "hammer",
+    "name": "Balahara Hammer IV",
+    "description": "A Balahara hammer.\r\nClad in steel, this hulking\r\nweapon can break through\r\nthe most stubborn bedrock.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "313": 5,
+        "335": 3
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 23,
+    "kind": "hammer",
+    "name": "Sandsea Siamitiya",
+    "description": "An upgraded Balahara Hammer.\r\nIts impact shatters the earth's\r\ncrust, raising a cloud of dust.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 100,
+      "green": 90,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "312": 6,
+        "334": 1,
+        "659": 5
+      },
+      "previous_id": 22,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 24,
+    "kind": "hammer",
+    "name": "Rompo Wrecker I",
+    "description": "A Rompopolo hammer. Its odd\r\nshape resembles medical\r\nequipment from a time of plague.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 100,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "336": 3,
+        "337": 2,
+        "601": 1
+      },
+      "previous_id": 11,
+      "branches": [
+        25
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 25,
+    "kind": "hammer",
+    "name": "Rompo Wrecker II",
+    "description": "A Rompopolo hammer. Its odd\r\nshape resembles medical\r\nequipment from a time of plague.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 90,
+      "blue": 10,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 24,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "342": 3,
+        "345": 1,
+        "602": 3
+      },
+      "previous_id": 24,
+      "branches": [
+        26
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 26,
+    "kind": "hammer",
+    "name": "Rompo Wrecker III",
+    "description": "A Rompopolo hammer. Its odd\r\nshape resembles medical\r\nequipment from a time of plague.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 50,
+      "yellow": 100,
+      "green": 30,
+      "blue": 100,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "105": 1,
+        "343": 4,
+        "389": 3
+      },
+      "previous_id": 25,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 27,
+    "kind": "hammer",
+    "name": "Rompo Robustox",
+    "description": "An upgraded Rompo Wrecker. It\r\ngazes upon its victims with hollow\r\neyes as its lethal pecks fill them\r\nwith poison.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 100,
+      "green": 30,
+      "blue": 100,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "344": 3,
+        "659": 5
+      },
+      "previous_id": 26,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 28,
+    "kind": "hammer",
+    "name": "Cluster Hammer I",
+    "description": "A sleek hammer that is worthy\r\nof the Nerscylla. It deploys a\r\nneedle-like protrusion when\r\ndrawn.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 60,
+      "yellow": 30,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "513": 3,
+        "515": 2,
+        "605": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        29,
+        40
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 29,
+    "kind": "hammer",
+    "name": "Cluster Hammer II",
+    "description": "A sleek hammer that is worthy\r\nof the Nerscylla. It deploys a\r\nneedle-like protrusion when\r\ndrawn.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 60,
+      "yellow": 30,
+      "green": 100,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "521": 1,
+        "606": 3
+      },
+      "previous_id": 28,
+      "branches": [
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 30,
+    "kind": "hammer",
+    "name": "Cluster Hammer III",
+    "description": "A sleek hammer that is worthy\r\nof the Nerscylla. It deploys a\r\nneedle-like protrusion when\r\ndrawn.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 60,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "425": 3,
+        "480": 2,
+        "490": 3,
+        "520": 5
+      },
+      "previous_id": 29,
+      "branches": [
+        31
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 31,
+    "kind": "hammer",
+    "name": "Nerscrapper",
+    "description": "A Cluster Hammer upgrade.\r\nIt is designed to crush\r\ncarapaces and gouge out\r\nflesh with each blow.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 60,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 90,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 30,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 32,
+    "kind": "hammer",
+    "name": "Nu Pulpo I",
+    "description": "A Nu Udra hammer with a hidden\r\neye. At full power, the eye opens\r\nto oversee its prey's demise.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 1,
+      "1500129152": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "376": 3,
+        "377": 2,
+        "380": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        33
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 33,
+    "kind": "hammer",
+    "name": "Nu Pulpo II",
+    "description": "A Nu Udra hammer with a hidden\r\neye. At full power, the eye opens\r\nto oversee its prey's demise.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 110,
+      "green": 70,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 2,
+      "1500129152": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "381": 1,
+        "384": 5,
+        "387": 4,
+        "389": 3
+      },
+      "previous_id": 32,
+      "branches": [
+        34
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 34,
+    "kind": "hammer",
+    "name": "Abaddonian Pulpo",
+    "description": "An upgraded Nu Pulpo. Any\r\nprey that meets its hungry gaze\r\nis gripped by a fear that only\r\ndeath can cure.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 110,
+      "green": 50,
+      "blue": 50,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1444935552": 2,
+      "1500129152": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "385": 4,
+        "386": 6,
+        "388": 1,
+        "661": 5
+      },
+      "previous_id": 33,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 35,
+    "kind": "hammer",
+    "name": "Albirath Bludgeon I",
+    "description": "A Guardian Rathalos hammer.\r\nLike a blazing fire, its wielder's\r\nspirit never abates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 70,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        36
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 36,
+    "kind": "hammer",
+    "name": "Albirath Bludgeon II",
+    "description": "A Guardian Rathalos hammer.\r\nLike a blazing fire, its wielder's\r\nspirit never abates.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 120,
+      "yellow": 50,
+      "green": 50,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 35,
+      "branches": [
+        37
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 37,
+    "kind": "hammer",
+    "name": "Gibil Hammer",
+    "description": "An upgraded Albirath Bludgeon.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 150,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 36,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 38,
+    "kind": "hammer",
+    "name": "Jin Dhauda I",
+    "description": "A Jin Dahaad hammer. Its icy\r\nblows freeze all obstacles before\r\nshattering them to snowdust.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 50,
+      "green": 100,
+      "blue": 110,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 47,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "421": 4,
+        "422": 5,
+        "425": 1,
+        "707": 1
+      },
+      "previous_id": 13,
+      "branches": [
+        39
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 39,
+    "kind": "hammer",
+    "name": "Precipice Logamtu",
+    "description": "An upgraded Jin Dhauda. Its impact\r\nfreezes targets so fast they won't\r\nfeel the pain of obliteration.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 120,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "420": 4,
+        "423": 4,
+        "424": 1,
+        "661": 5
+      },
+      "previous_id": 38,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 40,
+    "kind": "hammer",
+    "name": "Nihil Hammer I",
+    "description": "A Xu Wu hammer that, with each\r\noppressive blow, banishes its\r\ntarget's consciousness to the void.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 60,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "440": 3,
+        "443": 2,
+        "444": 1
+      },
+      "previous_id": 28,
+      "branches": [
+        41
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 41,
+    "kind": "hammer",
+    "name": "Nihil Hammer II",
+    "description": "A Xu Wu hammer that, with each\r\noppressive blow, banishes its\r\ntarget's consciousness to the void.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 70,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "298": 2,
+        "445": 1,
+        "450": 6,
+        "451": 4
+      },
+      "previous_id": 40,
+      "branches": [
+        42
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 42,
+    "kind": "hammer",
+    "name": "Zaccio's Execution",
+    "description": "An upgraded Nihil Hammer.\r\nThose its gruesome blows hit\r\ncan only pray to retain some\r\nsemblance of form.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 110,
+      "yellow": 50,
+      "green": 50,
+      "blue": 60,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "448": 6,
+        "449": 4,
+        "452": 1,
+        "660": 5
+      },
+      "previous_id": 41,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1680519296
+  },
+  {
+    "id": 43,
+    "kind": "hammer",
+    "name": "G. Veldian Malleus I",
+    "description": "A hammer made from Guardian\r\nspoils. The aura of its designs\r\nsharpens the mind and renders\r\ntime imperceptible.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 90,
+      "green": 20,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 16,
+      "branches": [
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 44,
+    "kind": "hammer",
+    "name": "G. Veldian Malleus II",
+    "description": "A hammer made from Guardian\r\nspoils. The aura of its designs\r\nsharpens the mind and renders\r\ntime imperceptible.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 90,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 43,
+      "branches": [
+        45,
+        64
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 45,
+    "kind": "hammer",
+    "name": "G. Exultant Bedivere",
+    "description": "An upgraded G. Veldian Malleus.\r\nWhoever takes up this weapon is\r\nassured victories beyond number.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 80,
+      "yellow": 50,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 44,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 46,
+    "kind": "hammer",
+    "name": "Kut-Ku Pick I",
+    "description": "This limited Yian Kut-Ku hammer\r\nsold out the day it hit the\r\nmarket and has been impossible\r\nto find since.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 100,
+      "yellow": 60,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 41,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "522": 5,
+        "524": 2,
+        "526": 3,
+        "527": 1
+      },
+      "previous_id": null,
+      "branches": [
+        47,
+        60
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 47,
+    "kind": "hammer",
+    "name": "Kut-Ku Pick II",
+    "description": "This limited Yian Kut-Ku hammer\r\nsold out the day it hit the\r\nmarket and has been impossible\r\nto find since.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 120,
+      "yellow": 40,
+      "green": 70,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 47,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "389": 2,
+        "525": 4,
+        "534": 1,
+        "594": 4
+      },
+      "previous_id": 46,
+      "branches": [
+        48
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 48,
+    "kind": "hammer",
+    "name": "Kut-Ku Thwap",
+    "description": "An upgraded Kut-Ku Pick...\r\nWait—one of these is up for grabs?!\r\nGrab it! People will go Kut-Ku!",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 110,
+      "orange": 120,
+      "yellow": 30,
+      "green": 60,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 50,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "388": 1,
+        "523": 6,
+        "659": 5
+      },
+      "previous_id": 47,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 49,
+    "kind": "hammer",
+    "name": "Venom Monster I",
+    "description": "A monstrous hammer, feared for\r\nutilizing a specially concocted\r\npoison that deviates from your\r\nstandard virulence.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 110,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 31,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "353114912": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "529": 5,
+        "530": 3,
+        "531": 2,
+        "533": 1
+      },
+      "previous_id": null,
+      "branches": [
+        50,
+        52
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 50,
+    "kind": "hammer",
+    "name": "Venom Monster II",
+    "description": "A monstrous hammer, feared for\r\nutilizing a specially concocted\r\npoison that deviates from your\r\nstandard virulence.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 80,
+      "green": 60,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 34,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "353114912": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "532": 4,
+        "547": 2,
+        "602": 4
+      },
+      "previous_id": 49,
+      "branches": [
+        51
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 51,
+    "kind": "hammer",
+    "name": "Death Venom Hammer",
+    "description": "An upgraded Venom Monster.\r\nLaying hands on its poison\r\npromises certain death.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 50,
+      "yellow": 110,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "353114912": 1,
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "529": 6,
+        "534": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 50,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 52,
+    "kind": "hammer",
+    "name": "Crashing Fulgur I",
+    "description": "A Guardian Fulgur Anjanath\r\nhammer. Only one able to tame\r\nits brutality through reason can\r\nwield it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 100,
+      "yellow": 120,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 39,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 49,
+      "branches": [
+        53
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 53,
+    "kind": "hammer",
+    "name": "Fulgurhammer Guardiana",
+    "description": "An upgraded Crashing Fulgur.\r\nIts savage urges thwart reason and \r\nwill destroy an overeager wielder.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 120,
+      "green": 60,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 45,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 52,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 54,
+    "kind": "hammer",
+    "name": "Blan Gada I",
+    "description": "A Blangonga hammer.\r\nModeled after one wielded by\r\na simian god who commanded\r\nintense worship.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 110,
+      "green": 80,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "538": 5,
+        "539": 4,
+        "541": 2,
+        "577": 4
+      },
+      "previous_id": null,
+      "branches": [
+        55
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 55,
+    "kind": "hammer",
+    "name": "Singha Gada",
+    "description": "A colder, enhanced Blan Gada.\r\nGrants the strength of a simian\r\ngod who plucked mountains from\r\nthe earth.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 110,
+      "green": 80,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "424": 1,
+        "537": 6,
+        "540": 4,
+        "660": 5
+      },
+      "previous_id": 54,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 56,
+    "kind": "hammer",
+    "name": "Shell Hammer I",
+    "description": "A hammer that leverages its\r\nhighly heat-resistant Gravios\r\nplating to generate a blast\r\nwith each swing.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -20,
+    "defense": 30,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 110,
+      "orange": 70,
+      "yellow": 80,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      30,
+      20
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 34,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "543": 3,
+        "544": 4,
+        "546": 5,
+        "547": 2
+      },
+      "previous_id": null,
+      "branches": [
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 57,
+    "kind": "hammer",
+    "name": "Graviton Hammer",
+    "description": "A weapon to shatter space and time;\r\na weapon to destroy life itself.\r\nSuch is the upgraded Shell Hammer.",
+    "rarity": 8,
+    "raw": 250,
+    "affinity": -20,
+    "defense": 30,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 70,
+      "green": 70,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "542": 6,
+        "545": 1,
+        "660": 5
+      },
+      "previous_id": 56,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 58,
+    "kind": "hammer",
+    "name": "Matraca Hammer I",
+    "description": "A hammer forged from the scales\r\nof Seregios, capable of reducing\r\nfoes to dust.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 60,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        59
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 59,
+    "kind": "hammer",
+    "name": "Argyl Hammer",
+    "description": "An upgraded Matraca Hammer.\r\nThe sign of a revolutionary,\r\nas its strength seeks change.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 58,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 60,
+    "kind": "hammer",
+    "name": "Red Bludgeon I",
+    "description": "A Rathalos hammer, literally.\r\nOnly hunters who have shed their\r\nfear of the wyvern may take it up.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 34,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 46,
+      "branches": [
+        61,
+        62
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 61,
+    "kind": "hammer",
+    "name": "Huracan Hammer",
+    "description": "An upgraded Red Bludgeon.\r\nBlistering hot, it now bristles at\r\nthe thought of heeding any master.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 60,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 60,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 62,
+    "kind": "hammer",
+    "name": "Wuchtblick I",
+    "description": "A Gore Magala hammer shaped like a\r\ngrotesque skull, its evil eye\r\ndamned to stay closed for all time.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 70,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 27,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 60,
+      "branches": [
+        63
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 63,
+    "kind": "hammer",
+    "name": "Grimmblick",
+    "description": "The Wuchtblick's next evolution.\r\nIts evil eye widens, commencing the\r\nworld's return to nothingness...",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 60,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 62,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 64,
+    "kind": "hammer",
+    "name": "Veldian Malleus I",
+    "description": "An Arkveld hammer. In the hands\r\nof its knight wielder, it struck\r\nblows with tenfold ferocity.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 100,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 32,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 44,
+      "branches": [
+        75
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 65,
+    "kind": "hammer",
+    "name": "Jail Hammer I",
+    "description": "A unique hammer design that\r\nutilizes Thunderbug discharges\r\nto shock and paralyze monsters.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 50,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1758661504": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        66
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1616428288
+  },
+  {
+    "id": 66,
+    "kind": "hammer",
+    "name": "Jail Hammer II",
+    "description": "A unique hammer design that\r\nutilizes Thunderbug discharges\r\nto shock and paralyze monsters.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 60,
+      "yellow": 60,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 3,
+        "515": 1
+      },
+      "previous_id": 65,
+      "branches": [
+        67
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1616428288
+  },
+  {
+    "id": 67,
+    "kind": "hammer",
+    "name": "Jail Hammer III",
+    "description": "A unique hammer design that\r\nutilizes Thunderbug discharges\r\nto shock and paralyze monsters.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 70,
+      "green": 60,
+      "blue": 30,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1758661504": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 66,
+      "branches": [
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1616428288
+  },
+  {
+    "id": 68,
+    "kind": "hammer",
+    "name": "Jail Hammer IV",
+    "description": "A unique hammer design that\r\nutilizes Thunderbug discharges\r\nto shock and paralyze monsters.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 70,
+      "yellow": 60,
+      "green": 60,
+      "blue": 60,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 67,
+      "branches": [
+        69
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1616428288
+  },
+  {
+    "id": 69,
+    "kind": "hammer",
+    "name": "Binder Mace",
+    "description": "A masterfully upgraded Jail Hammer\r\nthat defies the usual construction.\r\nParalyzes targets on the spot.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 60,
+      "yellow": 60,
+      "green": 60,
+      "blue": 60,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 68,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1616428288
+  },
+  {
+    "id": 70,
+    "kind": "hammer",
+    "name": "Artian Hammer I",
+    "description": "A weapon assembled from\r\nunearthed fragments. No one\r\nknows yet what the propulsion\r\nmechanism was for.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 71,
+    "kind": "hammer",
+    "name": "Artian Hammer II",
+    "description": "A weapon assembled from\r\nunearthed fragments. No one\r\nknows yet what the propulsion\r\nmechanism was for.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 72,
+    "kind": "hammer",
+    "name": "Moteurvankel",
+    "description": "An ancient weapon with latent\r\npotential. Restored to full drive,\r\nit stands ready to smash everything.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 73,
+    "kind": "hammer",
+    "name": "Esperanza Hammer",
+    "description": "A fully field-tested Hope Hammer.\r\nMake your own hope—by crushing\r\nanything that gets in your way.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 60,
+      "blue": 40,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 74,
+    "kind": "hammer",
+    "name": "Shrouded Aghaturi",
+    "description": "An upgraded Chata Clobberer.\r\nWhen swung, it looks exactly\r\nlike a frog attempting to swallow\r\nits prey.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 30,
+      "yellow": 100,
+      "green": 90,
+      "blue": 70,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [],
+    "skills": {
+      "353114912": 1,
+      "1758661504": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "295": 6,
+        "659": 5
+      },
+      "previous_id": 18,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 75,
+    "kind": "hammer",
+    "name": "Exultant Bedivere",
+    "description": "An upgraded Veldian Malleus. The\r\nimpossibly strong knight who bore\r\nthis could swing it with one hand.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 90,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 64,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 76,
+    "kind": "hammer",
+    "name": "Zoh Uria I",
+    "description": "A Zoh Shia hammer with a thick\r\nouter shell that conceals the\r\nmerciless darkness within.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 100,
+      "green": 40,
+      "blue": 50,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        77
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 77,
+    "kind": "hammer",
+    "name": "Blazing Uria",
+    "description": "Uria harketh from on high:\r\nThou who seekest phenomena,\r\nmay thy hammer bring thee\r\nstillness.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 40,
+      "yellow": 100,
+      "green": 40,
+      "blue": 30,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 76,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 79,
+    "kind": "hammer",
+    "name": "Purity Hammer I",
+    "description": "A hammer passed down\r\nfrom a princess who brought\r\npeace by dispelling evil.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        80
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 80,
+    "kind": "hammer",
+    "name": "Sinter Hammer",
+    "description": "The Purity Hammer's enhanced\r\nform is a guiding light for\r\na world lost in darkness.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 80,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 79,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 83,
+    "kind": "hammer",
+    "name": "Vortex Hammer I",
+    "description": "An electric hammer inspired\r\nby the whirlpools Lagiacrus\r\ncreate to destroy prey.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 110,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 40,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        84
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 84,
+    "kind": "hammer",
+    "name": "High Vortex Hammer",
+    "description": "An upgraded Vortex Hammer.\r\nIts electric current has been\r\nboosted for increased intensity.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 90,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 45,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-893407296": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 83,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 86,
+    "kind": "hammer",
+    "name": "Bound Admonition",
+    "description": "A grotesque soul that thirsts\r\nfor potential, encaged but\r\ndriven to find its true vessel.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 87,
+    "kind": "hammer",
+    "name": "Bound Admonition",
+    "description": "A grotesque soul that thirsts\r\nfor potential, encaged but\r\ndriven to find its true vessel.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 88,
+    "kind": "hammer",
+    "name": "Bound Admonition",
+    "description": "A grotesque soul that thirsts\r\nfor potential, encaged but\r\ndriven to find its true vessel.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  }
+]

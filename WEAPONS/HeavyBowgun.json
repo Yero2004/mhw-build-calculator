@@ -1,0 +1,3055 @@
+[
+  {
+    "id": 1,
+    "kind": "heavy-bowgun",
+    "name": "Hope Cannon I",
+    "description": "A heavy bowgun made specifically\r\nfor the expedition. Each part was\r\ndesigned to aid high-power shots.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        6
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "heavy-bowgun",
+    "name": "Hope Cannon II",
+    "description": "A heavy bowgun made specifically\r\nfor the expedition. Each part was\r\ndesigned to aid high-power shots.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-420608864": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "heavy-bowgun",
+    "name": "Hope Cannon III",
+    "description": "A heavy bowgun made specifically\r\nfor the expedition. Each part was\r\ndesigned to aid high-power shots.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "heavy-bowgun",
+    "name": "Hope Cannon IV",
+    "description": "A heavy bowgun made specifically\r\nfor the expedition. Each part was\r\ndesigned to aid high-power shots.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5,
+        28
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "heavy-bowgun",
+    "name": "Hope Cannon V",
+    "description": "A heavy bowgun made specifically\r\nfor the expedition. Each part was\r\ndesigned to aid high-power shots.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        67
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "heavy-bowgun",
+    "name": "Chata Sheller I",
+    "description": "A Chatacabra heavy bowgun that\r\nfeatures a large-caliber magazine\r\nthat emphasizes firepower.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "84": 1,
+        "85": 2,
+        "87": 3
+      },
+      "previous_id": 1,
+      "branches": [
+        7
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 7,
+    "kind": "heavy-bowgun",
+    "name": "Chata Sheller II",
+    "description": "A Chatacabra heavy bowgun that\r\nfeatures a large-caliber magazine\r\nthat emphasizes firepower.",
+    "rarity": 3,
+    "raw": 150,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "86": 2,
+        "337": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8,
+        56
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 8,
+    "kind": "heavy-bowgun",
+    "name": "Chata Sheller III",
+    "description": "A Chatacabra heavy bowgun that\r\nfeatures a large-caliber magazine\r\nthat emphasizes firepower.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "293": 5,
+        "294": 3,
+        "297": 2
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 9,
+    "kind": "heavy-bowgun",
+    "name": "Chata Sheller IV",
+    "description": "A Chatacabra heavy bowgun that\r\nfeatures a large-caliber magazine\r\nthat emphasizes firepower.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "98": 6,
+        "296": 6,
+        "335": 3
+      },
+      "previous_id": 8,
+      "branches": [
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 10,
+    "kind": "heavy-bowgun",
+    "name": "Power Stinger I",
+    "description": "A Congalala heavy bowgun that\r\nplaces emphasis on handling,\r\nmaking it a reliable choice for a\r\ngood hunt.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-160562336": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "504": 3,
+        "505": 2,
+        "506": 1
+      },
+      "previous_id": 34,
+      "branches": [
+        11,
+        25
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 11,
+    "kind": "heavy-bowgun",
+    "name": "Power Stinger II",
+    "description": "A Congalala heavy bowgun that\r\nplaces emphasis on handling,\r\nmaking it a reliable choice for a\r\ngood hunt.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-160562336": 1,
+      "1711950720": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "510": 5,
+        "511": 4,
+        "572": 2,
+        "585": 1
+      },
+      "previous_id": 10,
+      "branches": [
+        12
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 12,
+    "kind": "heavy-bowgun",
+    "name": "Wild Stinger",
+    "description": "An upgraded Power Stinger.\r\nReliable in any situation, it takes\r\nthe \"dire\" out of \"predicament.\"",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-160562336": 2,
+      "1711950720": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "512": 2,
+        "659": 5
+      },
+      "previous_id": 11,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -772890752
+  },
+  {
+    "id": 13,
+    "kind": "heavy-bowgun",
+    "name": "Uth Dalgap I",
+    "description": "An Uth Duna heavy bowgun that\r\nputs cannons to shame with its\r\npowerful, high-compression\r\nrounds.",
+    "rarity": 3,
+    "raw": 160,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "324": 1,
+        "326": 2,
+        "328": 1
+      },
+      "previous_id": 35,
+      "branches": [
+        14
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 14,
+    "kind": "heavy-bowgun",
+    "name": "Uth Dalgap II",
+    "description": "An Uth Duna heavy bowgun that\r\nputs cannons to shame with its\r\npowerful, high-compression\r\nrounds.",
+    "rarity": 5,
+    "raw": 190,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "62": 1,
+        "315": 1,
+        "596": 3
+      },
+      "previous_id": 13,
+      "branches": [
+        15
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 15,
+    "kind": "heavy-bowgun",
+    "name": "Uth Dalgap III",
+    "description": "An Uth Duna heavy bowgun that\r\nputs cannons to shame with its\r\npowerful, high-compression\r\nrounds.",
+    "rarity": 7,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "327": 1,
+        "331": 3,
+        "333": 5,
+        "335": 3
+      },
+      "previous_id": 14,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 16,
+    "kind": "heavy-bowgun",
+    "name": "Dalgap-of-the-Waves",
+    "description": "An upgraded Uth Dalgap. With\r\nevery veil flutter, this piscine\r\nparagon unleashes a cascade\r\nof gunfire.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "330": 6,
+        "332": 6,
+        "334": 1,
+        "661": 5
+      },
+      "previous_id": 15,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 501778656
+  },
+  {
+    "id": 17,
+    "kind": "heavy-bowgun",
+    "name": "Rompo Sniper I",
+    "description": "A Rompopolo bowgun. This\r\nexperimental weapon can\r\nexpand its range by emitting\r\na poisonous gas.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1674114176": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "336": 3,
+        "337": 2,
+        "601": 1
+      },
+      "previous_id": 30,
+      "branches": [
+        18
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 18,
+    "kind": "heavy-bowgun",
+    "name": "Rompo Sniper II",
+    "description": "A Rompopolo bowgun. This\r\nexperimental weapon can\r\nexpand its range by emitting\r\na poisonous gas.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1674114176": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "342": 3,
+        "345": 1,
+        "602": 3
+      },
+      "previous_id": 17,
+      "branches": [
+        19
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 19,
+    "kind": "heavy-bowgun",
+    "name": "Rompo Sniper III",
+    "description": "A Rompopolo bowgun. This\r\nexperimental weapon can\r\nexpand its range by emitting\r\na poisonous gas.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "105": 1,
+        "343": 4,
+        "389": 3
+      },
+      "previous_id": 18,
+      "branches": [
+        20
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 20,
+    "kind": "heavy-bowgun",
+    "name": "Rompo Latrotox",
+    "description": "An upgraded Rompo Sniper.\r\nOne hit from this baby will lay\r\nan enemy flat before they even\r\nfeel the pain.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "344": 3,
+        "659": 5
+      },
+      "previous_id": 19,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -89415872
+  },
+  {
+    "id": 21,
+    "kind": "heavy-bowgun",
+    "name": "Ner Bustergun I",
+    "description": "A Heavy Bowgun that leverages\r\nthe Nerscylla's stretchy\r\nmaterials to achieve good\r\nhandling and firepower.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "513": 3,
+        "515": 2,
+        "605": 1
+      },
+      "previous_id": 35,
+      "branches": [
+        22
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 22,
+    "kind": "heavy-bowgun",
+    "name": "Ner Bustergun II",
+    "description": "A Heavy Bowgun that leverages\r\nthe Nerscylla's stretchy\r\nmaterials to achieve good\r\nhandling and firepower.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "521": 1,
+        "606": 3
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 23,
+    "kind": "heavy-bowgun",
+    "name": "Ner Bustergun III",
+    "description": "A Heavy Bowgun that leverages\r\nthe Nerscylla's stretchy\r\nmaterials to achieve good\r\nhandling and firepower.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "425": 3,
+        "480": 2,
+        "490": 3,
+        "520": 5
+      },
+      "previous_id": 22,
+      "branches": [
+        24
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 24,
+    "kind": "heavy-bowgun",
+    "name": "Buster Blaster",
+    "description": "An upgraded Ner Bustergun.\r\nMuch like the Nerscylla, its well-\r\naimed strikes eviscerate prey.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 23,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 25,
+    "kind": "heavy-bowgun",
+    "name": "Nu Muneo I",
+    "description": "A Nu Udra heavy bowgun as\r\nfearsome as its namesake.\r\nTo even hold its grotesque\r\nbarrel saps one's sanity.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "376": 3,
+        "377": 2,
+        "380": 1
+      },
+      "previous_id": 10,
+      "branches": [
+        26
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 26,
+    "kind": "heavy-bowgun",
+    "name": "Nu Muneo II",
+    "description": "A Nu Udra heavy bowgun as\r\nfearsome as its namesake.\r\nTo even hold its grotesque\r\nbarrel saps one's sanity.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "381": 1,
+        "384": 5,
+        "387": 4,
+        "389": 3
+      },
+      "previous_id": 25,
+      "branches": [
+        27
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 27,
+    "kind": "heavy-bowgun",
+    "name": "Abaddonian Muneo",
+    "description": "An upgraded Nu Muneo that\r\nwrithes revoltingly, its darkness\r\nso vast that misfortune bows\r\nto it.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "385": 4,
+        "386": 6,
+        "388": 1,
+        "661": 5
+      },
+      "previous_id": 26,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 401764448
+  },
+  {
+    "id": 28,
+    "kind": "heavy-bowgun",
+    "name": "Jin Dhaphal I",
+    "description": "A heavy bowgun with a cooling\r\napparatus born of Jin Dahaad's\r\nforbidding, icy clime.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "421": 4,
+        "422": 5,
+        "425": 1,
+        "707": 1
+      },
+      "previous_id": 4,
+      "branches": [
+        29
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 29,
+    "kind": "heavy-bowgun",
+    "name": "Precipice Malmiam",
+    "description": "An upgraded Jin Dhaphal.\r\nFreed from its eternal mountain\r\nprison, this blizzard will not be\r\nquieted again.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "420": 4,
+        "423": 4,
+        "424": 1,
+        "661": 5
+      },
+      "previous_id": 28,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 30,
+    "kind": "heavy-bowgun",
+    "name": "Iron Assault I",
+    "description": "A simple bowgun that's perfect\r\nfor beginners.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        17,
+        31
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 31,
+    "kind": "heavy-bowgun",
+    "name": "Iron Assault II",
+    "description": "A simple bowgun that's perfect\r\nfor beginners.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 30,
+      "branches": [
+        32
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 32,
+    "kind": "heavy-bowgun",
+    "name": "Iron Assault III",
+    "description": "A simple bowgun that's perfect\r\nfor beginners.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 31,
+      "branches": [
+        33
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 33,
+    "kind": "heavy-bowgun",
+    "name": "Steel Assault",
+    "description": "It may look like a simple\r\nbowgun, but in the hands\r\nof an expert, watch out!",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 32,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 34,
+    "kind": "heavy-bowgun",
+    "name": "Bone Shooter I",
+    "description": "Though cheaply constructed, this\r\nbowgun is surprisingly reliable.\r\nIt also makes an excellent base\r\nfor further upgrades.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        10,
+        35
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 35,
+    "kind": "heavy-bowgun",
+    "name": "Bone Shooter II",
+    "description": "Though cheaply constructed, this\r\nbowgun is surprisingly reliable.\r\nIt also makes an excellent base\r\nfor further upgrades.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 1,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 34,
+      "branches": [
+        13,
+        21,
+        36
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 36,
+    "kind": "heavy-bowgun",
+    "name": "Bone Shooter III",
+    "description": "Though cheaply constructed, this\r\nbowgun is surprisingly reliable.\r\nIt also makes an excellent base\r\nfor further upgrades.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 2,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 35,
+      "branches": [
+        37
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 37,
+    "kind": "heavy-bowgun",
+    "name": "Bone Shooter IV",
+    "description": "Though cheaply constructed, this\r\nbowgun is surprisingly reliable.\r\nIt also makes an excellent base\r\nfor further upgrades.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 36,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 38,
+    "kind": "heavy-bowgun",
+    "name": "Heavy Shooter",
+    "description": "An upgraded Bone Shooter,\r\nbeloved even by veteran\r\nhunters.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 37,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 39,
+    "kind": "heavy-bowgun",
+    "name": "Yian Kut-Ku Cannon I",
+    "description": "A high-powered, high-caliber\r\nYian Kut-Ku Heavy Bowgun.\r\nIt makes liberal use of fire-\r\nresistant materials.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-893407296": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "522": 5,
+        "524": 2,
+        "526": 3,
+        "527": 1
+      },
+      "previous_id": null,
+      "branches": [
+        40,
+        48
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 40,
+    "kind": "heavy-bowgun",
+    "name": "Yian Kut-Ku Cannon II",
+    "description": "A high-powered, high-caliber\r\nYian Kut-Ku Heavy Bowgun.\r\nIt makes liberal use of fire-\r\nresistant materials.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "389": 2,
+        "525": 4,
+        "534": 1,
+        "594": 4
+      },
+      "previous_id": 39,
+      "branches": [
+        41
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 41,
+    "kind": "heavy-bowgun",
+    "name": "Super Kut-Ku Cannon",
+    "description": "An upgraded Yian Kut-Ku\r\nCannon. Its output has been\r\nmaximized to incinerate foes\r\nin a blink.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-893407296": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "388": 1,
+        "523": 6,
+        "659": 5
+      },
+      "previous_id": 40,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 42,
+    "kind": "heavy-bowgun",
+    "name": "Tankmage I",
+    "description": "A Gypceros heavy bowgun that\r\nleverages the elastic materials for\r\nsuperior grip and stability.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "529": 5,
+        "530": 3,
+        "531": 2,
+        "533": 1
+      },
+      "previous_id": null,
+      "branches": [
+        43
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 43,
+    "kind": "heavy-bowgun",
+    "name": "Tankmage II",
+    "description": "A Gypceros heavy bowgun that\r\nleverages the elastic materials for\r\nsuperior grip and stability.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "532": 4,
+        "547": 2,
+        "602": 4
+      },
+      "previous_id": 42,
+      "branches": [
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 44,
+    "kind": "heavy-bowgun",
+    "name": "Tanksorcerer",
+    "description": "An upgraded Tankmage with\r\ndrastically improved firepower\r\nthat could take down a whole\r\ncitadel.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-307644128": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "529": 6,
+        "534": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 43,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1049075776
+  },
+  {
+    "id": 45,
+    "kind": "heavy-bowgun",
+    "name": "Queen's Longfire I",
+    "description": "A Rathian heavy bowgun that\r\ndelivers fire resistance and\r\nthe consistent, hard-hitting\r\nfirepower hunters love.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        46,
+        52
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 46,
+    "kind": "heavy-bowgun",
+    "name": "Queen's Longfire II",
+    "description": "A Rathian heavy bowgun that\r\ndelivers fire resistance and\r\nthe consistent, hard-hitting\r\nfirepower hunters love.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 45,
+      "branches": [
+        47
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 47,
+    "kind": "heavy-bowgun",
+    "name": "Queen's Farflier",
+    "description": "The upgraded form of the\r\nQueen's Longfire, a sleek-\r\nbarreled technical marvel\r\nthat only veterans can wield.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1629629184": 1,
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 46,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 48,
+    "kind": "heavy-bowgun",
+    "name": "Grounding Fulgur I",
+    "description": "A Guardian Fulgur Anjanath heavy\r\nbowgun. Only one able to tame\r\nits brutality through reason can\r\nwield it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 39,
+      "branches": [
+        49
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 49,
+    "kind": "heavy-bowgun",
+    "name": "Fulgurblast Guardiana",
+    "description": "An upgraded Grounding Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 48,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 50,
+    "kind": "heavy-bowgun",
+    "name": "Sayyad Cannon I",
+    "description": "A magnificently gilded Seregios\r\nheavy bowgun. With fury against\r\ninjustice and bullets of gold, the\r\nrebellious soul strikes true.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "3504": 1,
+      "30828": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        51
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 51,
+    "kind": "heavy-bowgun",
+    "name": "Insurrection Cannon",
+    "description": "An upgraded Sayyad Cannon.\r\nIt'll continue firing as long as\r\nthe revolutionary spirit survives.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "3504": 1,
+      "30828": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 50,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 52,
+    "kind": "heavy-bowgun",
+    "name": "Gravios Howl I",
+    "description": "A massive Gravios bowgun that\r\nshakes environs with each\r\npotent blast from its gigantic\r\nmuzzle.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "543": 3,
+        "544": 4,
+        "546": 5,
+        "547": 2
+      },
+      "previous_id": 45,
+      "branches": [
+        53,
+        54
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 53,
+    "kind": "heavy-bowgun",
+    "name": "Gravios Gigahowl",
+    "description": "An upgraded Gravios Howl. Its\r\nraucous blasts thunder through\r\nthe air, shattering the\r\natmosphere.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-1674114176": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "542": 6,
+        "545": 1,
+        "660": 5
+      },
+      "previous_id": 52,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 54,
+    "kind": "heavy-bowgun",
+    "name": "Tödlicher Abzug I",
+    "description": "A Gore Magala Heavy Bowgun\r\nthat pronounces black curses\r\nupon prey, devouring them\r\nfrom within.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 52,
+      "branches": [
+        55
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 55,
+    "kind": "heavy-bowgun",
+    "name": "Ableben Abzug",
+    "description": "An enhanced Tödlicher Abzug.\r\nIts black curses have doomed\r\ncountless opponents.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 54,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 56,
+    "kind": "heavy-bowgun",
+    "name": "G. Veldian Tormentum I",
+    "description": "A heavy bowgun made from\r\nGuardian spoils. Cold and\r\nweighty, it quiets the pulse\r\nand preserves composure.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 7,
+      "branches": [
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 57,
+    "kind": "heavy-bowgun",
+    "name": "G. Veldian Tormentum II",
+    "description": "A heavy bowgun made from\r\nGuardian spoils. Cold and\r\nweighty, it quiets the pulse\r\nand preserves composure.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 56,
+      "branches": [
+        58,
+        59
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 58,
+    "kind": "heavy-bowgun",
+    "name": "G. Aeternal Palamedes",
+    "description": "An upgraded G. Veldian\r\nTormentum. Even after\r\nthe last shot is fired, its\r\nsoul yearns to take life.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 57,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 59,
+    "kind": "heavy-bowgun",
+    "name": "Veldian Tormentum I",
+    "description": "An Arkveld heavy bowgun.\r\nFamously, a knight of an\r\nancient impregnable city\r\nused it to repel intruders.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 57,
+      "branches": [
+        69
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 60,
+    "kind": "heavy-bowgun",
+    "name": "Artian Sheller I",
+    "description": "A weapon assembled from\r\nunearthed fragments. The\r\narm-like parts seem to\r\nincrease the force of rounds.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 61,
+    "kind": "heavy-bowgun",
+    "name": "Artian Sheller II",
+    "description": "A weapon assembled from\r\nunearthed fragments. The\r\narm-like parts seem to\r\nincrease the force of rounds.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 62,
+    "kind": "heavy-bowgun",
+    "name": "Greifen",
+    "description": "An ancient weapon with latent\r\npotential. Fully restored, its\r\nbarrel is a fount of destruction.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 63,
+    "kind": "heavy-bowgun",
+    "name": "Zoh Mitran I",
+    "description": "A Zoh Shia heavy bowgun\r\nthat leaves cruel destruction\r\nin its wake.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        64
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 64,
+    "kind": "heavy-bowgun",
+    "name": "Blazing Mitran",
+    "description": "Mitran harketh from on high:\r\nThou who seekest the covenant,\r\nmay thy muzzle declare thy\r\njudgment.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 63,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 67,
+    "kind": "heavy-bowgun",
+    "name": "Esperanza Cannon",
+    "description": "A fully field-tested Hope\r\nCannon. Its powerful, diverse\r\nammo lights the world and\r\nbanishes despair.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "-420608864": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 68,
+    "kind": "heavy-bowgun",
+    "name": "Shrouded Muktana",
+    "description": "An upgraded Chata Sheller with\r\na reexamined design, yielding\r\nfirepower that can obliterate\r\nboulders.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1711950720": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "295": 6,
+        "659": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 69,
+    "kind": "heavy-bowgun",
+    "name": "Aeternal Palamedes",
+    "description": "An upgraded Veldian Tormentum.\r\nIn service to its knight, it picked\r\noff all threats with eerie precision.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "1613139840": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 59,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 70,
+    "kind": "heavy-bowgun",
+    "name": "Cirrus Blaster I",
+    "description": "A bowgun created by an old\r\nwarrior tribe. Its blast can\r\ndispel even thick, dark fog.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        71
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 71,
+    "kind": "heavy-bowgun",
+    "name": "Mountainous Roar",
+    "description": "A Cirrus Blaster upgrade.\r\nIts shots leave behind a\r\nwatery trail.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 70,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 75,
+    "kind": "heavy-bowgun",
+    "name": "Lagia Blitz I",
+    "description": "A weapon made of Lagiacrus parts.\r\nThe electrified barrel prevents\r\nbullets from losing velocity.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        76
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 76,
+    "kind": "heavy-bowgun",
+    "name": "Thunderblitz Cannon",
+    "description": "An upgraded Lagia Blitz.\r\nConcentrated electrical\r\nenergy gives each shot\r\ngreat destructive force.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {
+      "30201": 1,
+      "1613139840": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 75,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 80,
+    "kind": "heavy-bowgun",
+    "name": "Trembling Hels",
+    "description": "A once blissful memory that\r\nthirsts for potential, in lieu of the\r\nfreedom of pain it will never know.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 81,
+    "kind": "heavy-bowgun",
+    "name": "Trembling Hels",
+    "description": "A once blissful memory that\r\nthirsts for potential, in lieu of the\r\nfreedom of pain it will never know.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 82,
+    "kind": "heavy-bowgun",
+    "name": "Trembling Hels",
+    "description": "A once blissful memory that\r\nthirsts for potential, in lieu of the\r\nfreedom of pain it will never know.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 0,
+      "orange": 0,
+      "yellow": 0,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  }
+]

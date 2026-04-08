@@ -1,0 +1,4249 @@
+[
+  {
+    "id": 1,
+    "kind": "insect-glaive",
+    "name": "Hope Glaive I",
+    "description": "An insect glaive made specifically\r\nfor the expedition. Control insects\r\nwhile moving with nimble ease.",
+    "rarity": 1,
+    "raw": 90,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 40,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [
+        2,
+        15
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 2,
+    "kind": "insect-glaive",
+    "name": "Hope Glaive II",
+    "description": "An insect glaive made specifically\r\nfor the expedition. Control insects\r\nwhile moving with nimble ease.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 40,
+      "orange": 50,
+      "yellow": 40,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "53": 2
+      },
+      "previous_id": 1,
+      "branches": [
+        3,
+        11,
+        24
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 3,
+    "kind": "insect-glaive",
+    "name": "Hope Glaive III",
+    "description": "An insect glaive made specifically\r\nfor the expedition. Control insects\r\nwhile moving with nimble ease.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "54": 2,
+        "55": 3
+      },
+      "previous_id": 2,
+      "branches": [
+        4,
+        40
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 4,
+    "kind": "insect-glaive",
+    "name": "Hope Glaive IV",
+    "description": "An insect glaive made specifically\r\nfor the expedition. Control insects\r\nwhile moving with nimble ease.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "56": 4
+      },
+      "previous_id": 3,
+      "branches": [
+        5
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 5,
+    "kind": "insect-glaive",
+    "name": "Hope Glaive V",
+    "description": "An insect glaive made specifically\r\nfor the expedition. Control insects\r\nwhile moving with nimble ease.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 80,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "582": 5,
+        "656": 4
+      },
+      "previous_id": 4,
+      "branches": [
+        73
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 6,
+    "kind": "insect-glaive",
+    "name": "Bone Staff I",
+    "description": "A simple insect glaive made of bone.\r\nWith the right upgrades, it has the\r\npotential to be a powerful weapon.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 80,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      40,
+      10
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "58": 2
+      },
+      "previous_id": null,
+      "branches": [
+        7,
+        19
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 7,
+    "kind": "insect-glaive",
+    "name": "Bone Staff II",
+    "description": "A simple insect glaive made of bone.\r\nWith the right upgrades, it has the\r\npotential to be a powerful weapon.",
+    "rarity": 2,
+    "raw": 130,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 40,
+      "yellow": 110,
+      "green": 0,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 1,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "59": 2,
+        "489": 1
+      },
+      "previous_id": 6,
+      "branches": [
+        8,
+        37
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 8,
+    "kind": "insect-glaive",
+    "name": "Bone Staff III",
+    "description": "A simple insect glaive made of bone.\r\nWith the right upgrades, it has the\r\npotential to be a powerful weapon.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 100,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 2,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "588": 2
+      },
+      "previous_id": 7,
+      "branches": [
+        9
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 9,
+    "kind": "insect-glaive",
+    "name": "Bone Staff IV",
+    "description": "A simple insect glaive made of bone.\r\nWith the right upgrades, it has the\r\npotential to be a powerful weapon.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 80,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "61": 2,
+        "658": 4
+      },
+      "previous_id": 8,
+      "branches": [
+        10
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 10,
+    "kind": "insect-glaive",
+    "name": "Aerial Glaive",
+    "description": "Repeated upgrades have yielded this\r\nfinished Bone Staff, with the same\r\nno-frills look and easy handling.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 60,
+      "green": 70,
+      "blue": 110,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-283334048": 3,
+      "1": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "62": 1,
+        "656": 5,
+        "659": 5
+      },
+      "previous_id": 9,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1365154048
+  },
+  {
+    "id": 11,
+    "kind": "insect-glaive",
+    "name": "Iron Gale I",
+    "description": "An insect glaive calibrated to\r\navoid collateral damage. Two\r\nunique blades produce\r\ncentrifugal force.",
+    "rarity": 2,
+    "raw": 120,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 20,
+      "orange": 40,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "54": 1,
+        "57": 2
+      },
+      "previous_id": 2,
+      "branches": [
+        12,
+        45
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 12,
+    "kind": "insect-glaive",
+    "name": "Iron Gale II",
+    "description": "An insect glaive calibrated to\r\navoid collateral damage. Two\r\nunique blades produce\r\ncentrifugal force.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 60,
+      "yellow": 90,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "578": 1,
+        "583": 2
+      },
+      "previous_id": 11,
+      "branches": [
+        13
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 13,
+    "kind": "insect-glaive",
+    "name": "Iron Gale III",
+    "description": "An insect glaive calibrated to\r\navoid collateral damage. Two\r\nunique blades produce\r\ncentrifugal force.",
+    "rarity": 6,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 70,
+      "yellow": 90,
+      "green": 60,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "582": 4,
+        "655": 3,
+        "698": 3
+      },
+      "previous_id": 12,
+      "branches": [
+        14,
+        43
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 14,
+    "kind": "insect-glaive",
+    "name": "Chrome Gale",
+    "description": "An Iron Gale further enhanced\r\nwith a rare steel. Allows the user\r\nto attack like the wind itself.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 20,
+      "orange": 60,
+      "yellow": 90,
+      "green": 70,
+      "blue": 50,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "686533440": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "579": 1,
+        "659": 5
+      },
+      "previous_id": 13,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 2
+  },
+  {
+    "id": 15,
+    "kind": "insect-glaive",
+    "name": "Chata Glaive I",
+    "description": "An insect glaive made out of\r\nChatacabra materials, perfectly\r\nweighted to flow unwaveringly\r\nthrough the air.",
+    "rarity": 1,
+    "raw": 110,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 10,
+      "yellow": 110,
+      "green": 30,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "84": 1,
+        "85": 2,
+        "87": 3
+      },
+      "previous_id": 1,
+      "branches": [
+        16
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 16,
+    "kind": "insect-glaive",
+    "name": "Chata Glaive II",
+    "description": "An insect glaive made out of\r\nChatacabra materials, perfectly\r\nweighted to flow unwaveringly\r\nthrough the air.",
+    "rarity": 3,
+    "raw": 150,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [],
+    "sharpness": {
+      "red": 80,
+      "orange": 10,
+      "yellow": 120,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "86": 2,
+        "337": 1
+      },
+      "previous_id": 15,
+      "branches": [
+        17,
+        48
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 17,
+    "kind": "insect-glaive",
+    "name": "Chata Glaive III",
+    "description": "An insect glaive made out of\r\nChatacabra materials, perfectly\r\nweighted to flow unwaveringly\r\nthrough the air.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 20,
+      "yellow": 110,
+      "green": 80,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "293": 5,
+        "294": 3,
+        "297": 2
+      },
+      "previous_id": 16,
+      "branches": [
+        18
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 18,
+    "kind": "insect-glaive",
+    "name": "Chata Glaive IV",
+    "description": "An insect glaive made out of\r\nChatacabra materials, perfectly\r\nweighted to flow unwaveringly\r\nthrough the air.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 10,
+      "yellow": 120,
+      "green": 100,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "98": 6,
+        "296": 6,
+        "335": 3
+      },
+      "previous_id": 17,
+      "branches": [
+        74
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 19,
+    "kind": "insect-glaive",
+    "name": "Barina Perche I",
+    "description": "A Lala Barina insect glaive as\r\ngraceful as its namesake. To avoid\r\nits sting, one must watch its dance.",
+    "rarity": 1,
+    "raw": 100,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 40,
+      "yellow": 40,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 500,
+      "inputs": {
+        "273": 3,
+        "274": 1,
+        "603": 2
+      },
+      "previous_id": 6,
+      "branches": [
+        20,
+        33
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 20,
+    "kind": "insect-glaive",
+    "name": "Barina Perche II",
+    "description": "A Lala Barina insect glaive as\r\ngraceful as its namesake. To avoid\r\nits sting, one must watch its dance.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "275": 1,
+        "277": 2,
+        "515": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        21
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 21,
+    "kind": "insect-glaive",
+    "name": "Barina Perche III",
+    "description": "A Lala Barina insect glaive as\r\ngraceful as its namesake. To avoid\r\nits sting, one must watch its dance.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 100,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "308": 3,
+        "310": 2,
+        "604": 5
+      },
+      "previous_id": 20,
+      "branches": [
+        22
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 22,
+    "kind": "insect-glaive",
+    "name": "Barina Perche IV",
+    "description": "A Lala Barina insect glaive as\r\ngraceful as its namesake. To avoid\r\nits sting, one must watch its dance.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "306": 6,
+        "309": 4,
+        "656": 3
+      },
+      "previous_id": 21,
+      "branches": [
+        23
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 23,
+    "kind": "insect-glaive",
+    "name": "Lala Stromatopelm",
+    "description": "A sharper and even more lovely\r\nBarina Perche. To be bewitched by\r\nits dance is to forfeit one's life.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 110,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "paralysis",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-168922880": 1,
+      "686533440": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "307": 6,
+        "490": 4,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 22,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1246963200
+  },
+  {
+    "id": 24,
+    "kind": "insect-glaive",
+    "name": "Balahara Glaive I",
+    "description": "A Balahara insect glaive with most\r\nof its weight in the tip, making it\r\nhard to command without training.",
+    "rarity": 2,
+    "raw": 110,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 90,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 1
+    },
+    "crafting": {
+      "zenny_cost": 800,
+      "inputs": {
+        "81": 3,
+        "82": 1,
+        "595": 1
+      },
+      "previous_id": 2,
+      "branches": [
+        25,
+        29
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 25,
+    "kind": "insect-glaive",
+    "name": "Balahara Glaive II",
+    "description": "A Balahara insect glaive with most\r\nof its weight in the tip, making it\r\nhard to command without training.",
+    "rarity": 4,
+    "raw": 150,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 30,
+      "yellow": 100,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "80": 2,
+        "83": 1,
+        "392": 1
+      },
+      "previous_id": 24,
+      "branches": [
+        26
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 26,
+    "kind": "insect-glaive",
+    "name": "Balahara Glaive III",
+    "description": "A Balahara insect glaive with most\r\nof its weight in the tip, making it\r\nhard to command without training.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "314": 2,
+        "315": 2,
+        "596": 2,
+        "704": 1
+      },
+      "previous_id": 25,
+      "branches": [
+        27
+      ],
+      "is_shortcut": true
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 27,
+    "kind": "insect-glaive",
+    "name": "Balahara Glaive IV",
+    "description": "A Balahara insect glaive with most\r\nof its weight in the tip, making it\r\nhard to command without training.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 110,
+      "green": 90,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "313": 5,
+        "335": 3
+      },
+      "previous_id": 26,
+      "branches": [
+        28
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 28,
+    "kind": "insect-glaive",
+    "name": "Sandsea Uchaltiya",
+    "description": "An upgraded Balahara Glaive that\r\nadds even more devastating weight\r\nto the tip of the weapon.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 30,
+      "orange": 30,
+      "yellow": 100,
+      "green": 80,
+      "blue": 70,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "312": 6,
+        "334": 1,
+        "659": 5
+      },
+      "previous_id": 27,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1830241664
+  },
+  {
+    "id": 29,
+    "kind": "insect-glaive",
+    "name": "Rey Halilintar I",
+    "description": "A forbidding insect glaive imbued\r\nwith Rey Dau's thunder. Said to\r\nconjure lightning when held aloft.",
+    "rarity": 3,
+    "raw": 140,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 140,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 2000,
+      "inputs": {
+        "139": 3,
+        "141": 1,
+        "142": 2
+      },
+      "previous_id": 24,
+      "branches": [
+        30
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 30,
+    "kind": "insect-glaive",
+    "name": "Rey Halilintar II",
+    "description": "A forbidding insect glaive imbued\r\nwith Rey Dau's thunder. Said to\r\nconjure lightning when held aloft.",
+    "rarity": 5,
+    "raw": 170,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 120,
+      "green": 100,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "104": 3,
+        "536": 2,
+        "579": 1
+      },
+      "previous_id": 29,
+      "branches": [
+        31
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 31,
+    "kind": "insect-glaive",
+    "name": "Rey Halilintar III",
+    "description": "A forbidding insect glaive imbued\r\nwith Rey Dau's thunder. Said to\r\nconjure lightning when held aloft.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 110,
+      "green": 80,
+      "blue": 80,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "143": 1,
+        "144": 1,
+        "350": 4,
+        "352": 3
+      },
+      "previous_id": 30,
+      "branches": [
+        32
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 32,
+    "kind": "insect-glaive",
+    "name": "Halilintar Clairglaive",
+    "description": "An upgraded Rey Halilintar. May its\r\nlighting surge upon the raging\r\nwinds and ravage the battlefield.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 10,
+      "orange": 10,
+      "yellow": 100,
+      "green": 70,
+      "blue": 70,
+      "white": 90,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "348": 6,
+        "349": 4,
+        "351": 1,
+        "661": 5
+      },
+      "previous_id": 31,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -621613632
+  },
+  {
+    "id": 33,
+    "kind": "insect-glaive",
+    "name": "Stealth Glaive I",
+    "description": "A strong and flexible glaive. Upon\r\ndrawing it, its prongs deploy and\r\nrelease Nerscylla pheromones.",
+    "rarity": 3,
+    "raw": 120,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 110,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "513": 3,
+        "515": 2,
+        "605": 1
+      },
+      "previous_id": 19,
+      "branches": [
+        34
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 34,
+    "kind": "insect-glaive",
+    "name": "Stealth Glaive II",
+    "description": "A strong and flexible glaive. Upon\r\ndrawing it, its prongs deploy and\r\nrelease Nerscylla pheromones.",
+    "rarity": 5,
+    "raw": 150,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 100,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 1,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "519": 3,
+        "521": 1,
+        "606": 3
+      },
+      "previous_id": 33,
+      "branches": [
+        35
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 35,
+    "kind": "insect-glaive",
+    "name": "Stealth Glaive III",
+    "description": "A strong and flexible glaive. Upon\r\ndrawing it, its prongs deploy and\r\nrelease Nerscylla pheromones.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 90,
+      "blue": 60,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "425": 3,
+        "480": 2,
+        "490": 3,
+        "520": 5
+      },
+      "previous_id": 34,
+      "branches": [
+        36
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 36,
+    "kind": "insect-glaive",
+    "name": "Stealth Glaive Redux",
+    "description": "The Stealth Glaive's enhanced form.\r\nThe weapon of choice for an expert\r\nKinsect user in a secret society.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 40,
+      "yellow": 30,
+      "green": 60,
+      "blue": 40,
+      "white": 110,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "sleep",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1475134080": 2,
+      "-283334048": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "518": 6,
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 35,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 128739328
+  },
+  {
+    "id": 37,
+    "kind": "insect-glaive",
+    "name": "Ajara Trident I",
+    "description": "An Ajarakan insect glaive that\r\ndelivers a flurry of blast-inducing\r\nblows that can sear the very air.",
+    "rarity": 3,
+    "raw": 130,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 70,
+      "green": 70,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 1500,
+      "inputs": {
+        "363": 3,
+        "365": 2,
+        "367": 1
+      },
+      "previous_id": 7,
+      "branches": [
+        38
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 38,
+    "kind": "insect-glaive",
+    "name": "Ajara Trident II",
+    "description": "An Ajarakan insect glaive that\r\ndelivers a flurry of blast-inducing\r\nblows that can sear the very air.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 90,
+      "green": 40,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "368": 1,
+        "372": 3,
+        "373": 2,
+        "375": 2
+      },
+      "previous_id": 37,
+      "branches": [
+        39
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 39,
+    "kind": "insect-glaive",
+    "name": "Ajara-Bhadra",
+    "description": "An Ajara Trident by its true name.\r\nDivinely guided, the artisan thrice\r\nimbued it with hopes for salvation.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 90,
+      "blue": 40,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "371": 6,
+        "374": 1,
+        "660": 5
+      },
+      "previous_id": 38,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 948173312
+  },
+  {
+    "id": 40,
+    "kind": "insect-glaive",
+    "name": "Guardian Rathmaul I",
+    "description": "A Guardian Rathalos insect glaive.\r\nLike a blazing fire, its wielder's\r\nspirit never abates.",
+    "rarity": 4,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 90,
+      "yellow": 60,
+      "green": 50,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "400": 3,
+        "402": 2,
+        "593": 1
+      },
+      "previous_id": 3,
+      "branches": [
+        41
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 41,
+    "kind": "insect-glaive",
+    "name": "Guardian Rathmaul II",
+    "description": "A Guardian Rathalos insect glaive.\r\nLike a blazing fire, its wielder's\r\nspirit never abates.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 100,
+      "yellow": 50,
+      "green": 50,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 17,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "408": 5,
+        "410": 2,
+        "608": 1,
+        "706": 1
+      },
+      "previous_id": 40,
+      "branches": [
+        42
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 42,
+    "kind": "insect-glaive",
+    "name": "Alabaster Rathmaul",
+    "description": "An upgraded Guardian Rathmaul.\r\nA regal soul rests within its\r\nimmaculate flood of power.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 130,
+      "yellow": 50,
+      "green": 50,
+      "blue": 40,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 1,
+      "1389859584": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "407": 6,
+        "455": 6,
+        "660": 5,
+        "705": 1
+      },
+      "previous_id": 41,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 520158048
+  },
+  {
+    "id": 43,
+    "kind": "insect-glaive",
+    "name": "Jin Dhachhad",
+    "description": "A Jin Dahaad insect glaive that\r\nconjures up frost winds, freezing\r\nall in sight without prejudice.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 30,
+      "green": 100,
+      "blue": 110,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 32,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "421": 4,
+        "422": 5,
+        "425": 1,
+        "707": 1
+      },
+      "previous_id": 13,
+      "branches": [
+        44
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 44,
+    "kind": "insect-glaive",
+    "name": "Precipice Geumgel",
+    "description": "An upgraded Jin Dhachhad.\r\nMantled in a frozen haze,\r\nits blade locks prey inside\r\na prison of ice.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 40,
+      "yellow": 20,
+      "green": 80,
+      "blue": 120,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "420": 4,
+        "423": 4,
+        "424": 1,
+        "661": 5
+      },
+      "previous_id": 43,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1346940416
+  },
+  {
+    "id": 45,
+    "kind": "insect-glaive",
+    "name": "Chthonian Vajra I",
+    "description": "A Guardian Ebony Odogaron insect\r\nglaive. Beholden to its own\r\nbeastly cravings, its thirst for\r\nblood never wanes.",
+    "rarity": 4,
+    "raw": 140,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 80,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "426": 3,
+        "428": 2,
+        "429": 1
+      },
+      "previous_id": 11,
+      "branches": [
+        46
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 46,
+    "kind": "insect-glaive",
+    "name": "Chthonian Vajra II",
+    "description": "A Guardian Ebony Odogaron insect\r\nglaive. Beholden to its own\r\nbeastly cravings, its thirst for\r\nblood never wanes.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 70,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "431": 1,
+        "435": 6,
+        "438": 2,
+        "608": 1
+      },
+      "previous_id": 45,
+      "branches": [
+        47
+      ],
+      "is_shortcut": true
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 47,
+    "kind": "insect-glaive",
+    "name": "Bequeathed Testament",
+    "description": "An upgraded Chthonian Vajra.\r\nDespite chewing free of its cycle of\r\nhunger, the beast remains unsated.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 80,
+      "green": 80,
+      "blue": 90,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "436": 6,
+        "437": 1,
+        "455": 6,
+        "660": 5
+      },
+      "previous_id": 46,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 756004224
+  },
+  {
+    "id": 48,
+    "kind": "insect-glaive",
+    "name": "G. Veldian Trudis I",
+    "description": "An insect glaive made from\r\nGuardian spoils. Each swing\r\ndulls one's ability to tell\r\ngood from evil.",
+    "rarity": 4,
+    "raw": 170,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      1,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 80,
+      "green": 40,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 2600,
+      "inputs": {
+        "454": 3,
+        "588": 2,
+        "607": 1,
+        "664": 3
+      },
+      "previous_id": 16,
+      "branches": [
+        49
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 49,
+    "kind": "insect-glaive",
+    "name": "G. Veldian Trudis II",
+    "description": "An insect glaive made from\r\nGuardian spoils. Each swing\r\ndulls one's ability to tell\r\ngood from evil.",
+    "rarity": 6,
+    "raw": 210,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 60,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "62": 1,
+        "455": 6,
+        "608": 3,
+        "665": 6
+      },
+      "previous_id": 48,
+      "branches": [
+        50,
+        69
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 50,
+    "kind": "insect-glaive",
+    "name": "G. Enduring Tor",
+    "description": "An upgraded G. Veldian Trudis.\r\nLong after its reason for war has\r\ngone, the blade still lashes out.",
+    "rarity": 8,
+    "raw": 240,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "456": 2,
+        "463": 4,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 49,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 559385600
+  },
+  {
+    "id": 51,
+    "kind": "insect-glaive",
+    "name": "Kut-Ku Pike I",
+    "description": "A rousing, vividly designed insect\r\nglaive that mimics the way a Yian\r\nKut-Ku pounces on its prey.",
+    "rarity": 5,
+    "raw": 180,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 100,
+      "yellow": 50,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 26,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 2
+    },
+    "crafting": {
+      "zenny_cost": 4000,
+      "inputs": {
+        "522": 5,
+        "524": 2,
+        "526": 3,
+        "527": 1
+      },
+      "previous_id": null,
+      "branches": [
+        52,
+        57
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 52,
+    "kind": "insect-glaive",
+    "name": "Kut-Ku Pike II",
+    "description": "A rousing, vividly designed insect\r\nglaive that mimics the way a Yian\r\nKut-Ku pounces on its prey.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 110,
+      "yellow": 30,
+      "green": 70,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 32,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "389": 2,
+        "525": 4,
+        "534": 1,
+        "594": 4
+      },
+      "previous_id": 51,
+      "branches": [
+        53
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 53,
+    "kind": "insect-glaive",
+    "name": "Toucan Pike",
+    "description": "An upgraded Kut-Ku Pike.\r\nThere is no escape from the vicious\r\ngnashing of its sharp beak.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 120,
+      "yellow": 20,
+      "green": 60,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 35,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "388": 1,
+        "523": 6,
+        "659": 5
+      },
+      "previous_id": 52,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1239485824
+  },
+  {
+    "id": 54,
+    "kind": "insect-glaive",
+    "name": "Princess Regalia I",
+    "description": "An insect glaive lavishly crafted\r\nfrom the stunning and regal\r\ntrappings of the Rathian.",
+    "rarity": 5,
+    "raw": 160,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 40,
+      "green": 90,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 12,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 2
+    },
+    "crafting": {
+      "zenny_cost": 5000,
+      "inputs": {
+        "102": 5,
+        "104": 3,
+        "105": 2,
+        "536": 1
+      },
+      "previous_id": null,
+      "branches": [
+        55,
+        65
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 55,
+    "kind": "insect-glaive",
+    "name": "Princess Regalia II",
+    "description": "An insect glaive lavishly crafted\r\nfrom the stunning and regal\r\ntrappings of the Rathian.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 40,
+      "green": 110,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "103": 6,
+        "352": 2,
+        "411": 1
+      },
+      "previous_id": 54,
+      "branches": [
+        56
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 56,
+    "kind": "insect-glaive",
+    "name": "Queen Regalia",
+    "description": "The Princess Regalia's enhanced\r\nform. Every rose has its thorn...\r\nor in this case, its cruel poison.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 80,
+      "yellow": 30,
+      "green": 100,
+      "blue": 30,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "poison",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1629629184": 1,
+      "-168922880": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "102": 5,
+        "106": 1,
+        "659": 5
+      },
+      "previous_id": 55,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -2118986496
+  },
+  {
+    "id": 57,
+    "kind": "insect-glaive",
+    "name": "Rising Fulgur I",
+    "description": "A Guardian Fulgur Anjanath\r\ninsect glaive. Only one able\r\nto tame its brutality through\r\nreason can wield it.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 100,
+      "yellow": 100,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "483": 5,
+        "485": 1,
+        "584": 2,
+        "598": 4
+      },
+      "previous_id": 51,
+      "branches": [
+        58
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 58,
+    "kind": "insect-glaive",
+    "name": "Fulgurglaive Guardiana",
+    "description": "An upgraded Rising Fulgur.\r\nIts savage urges thwart reason\r\nand will destroy an overeager\r\nwielder.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 40,
+      "orange": 90,
+      "yellow": 120,
+      "green": 40,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "482": 6,
+        "484": 4,
+        "486": 1,
+        "660": 5
+      },
+      "previous_id": 57,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1002649728
+  },
+  {
+    "id": 59,
+    "kind": "insect-glaive",
+    "name": "Blizzard Glaive I",
+    "description": "A Blangonga insect glaive that\r\nassails prey with a flurry of\r\nblows and yields no mobility\r\nto any storm.",
+    "rarity": 6,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 90,
+      "green": 80,
+      "blue": 50,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 14,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "538": 5,
+        "539": 4,
+        "541": 2,
+        "577": 4
+      },
+      "previous_id": null,
+      "branches": [
+        60
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 60,
+    "kind": "insect-glaive",
+    "name": "Immaculate Blizzard",
+    "description": "An upgraded Blizzard Glaive that\r\nhandles as nimbly as the simian\r\ngod who hurdled the islands of\r\nthe sea.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 30,
+      "yellow": 90,
+      "green": 80,
+      "blue": 50,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "ice",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "424": 1,
+        "537": 6,
+        "540": 4,
+        "660": 5
+      },
+      "previous_id": 59,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1226118784
+  },
+  {
+    "id": 61,
+    "kind": "insect-glaive",
+    "name": "Graviafaren I",
+    "description": "An insect glaive made of Gravios\r\nbone. The head ornament seems\r\nto herald the approach of a real\r\nGravios.",
+    "rarity": 6,
+    "raw": 220,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 70,
+      "yellow": 80,
+      "green": 60,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      30,
+      20
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 19,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "543": 3,
+        "544": 4,
+        "546": 5,
+        "547": 2
+      },
+      "previous_id": null,
+      "branches": [
+        62
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 62,
+    "kind": "insect-glaive",
+    "name": "Gravordius",
+    "description": "An inferno to blaze the way,\r\nleaving naught but ash in its wake.\r\nSuch is the upgraded Graviafaren.",
+    "rarity": 8,
+    "raw": 250,
+    "affinity": -15,
+    "defense": 30,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 70,
+      "yellow": 70,
+      "green": 70,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "status",
+        "type": "blastblight",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1946345856": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "92": 1,
+        "542": 6,
+        "545": 1,
+        "660": 5
+      },
+      "previous_id": 61,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1094733056
+  },
+  {
+    "id": 63,
+    "kind": "insect-glaive",
+    "name": "Altair I",
+    "description": "A Seregios insect glaive. The\r\nsharp blades that line both\r\nsides of this glaive can slash\r\nthrough anything in their path.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 80,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "550": 4,
+        "551": 1,
+        "553": 3,
+        "555": 2
+      },
+      "previous_id": null,
+      "branches": [
+        64
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 64,
+    "kind": "insect-glaive",
+    "name": "Alteal",
+    "description": "The upgraded form of the Altair.\r\nWhen wielded in battle, sworn\r\nenemies are cut down with ease.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 25,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 70,
+      "yellow": 100,
+      "green": 50,
+      "blue": 50,
+      "white": 30,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "25070": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "549": 5,
+        "552": 3,
+        "554": 1,
+        "661": 5
+      },
+      "previous_id": 63,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1228067456
+  },
+  {
+    "id": 65,
+    "kind": "insect-glaive",
+    "name": "Rathmaul I",
+    "description": "An insect glaive made from\r\nRathalos materials. Its every\r\nfiery strike evokes the king's\r\nvaliant rage.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 40,
+      "green": 30,
+      "blue": 60,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 21,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "411": 1,
+        "557": 5,
+        "558": 4,
+        "561": 2
+      },
+      "previous_id": 54,
+      "branches": [
+        66,
+        67
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 66,
+    "kind": "insect-glaive",
+    "name": "Firedance Rathmaul",
+    "description": "An upgraded Rathmaul.\r\nNo longer containable, the king's\r\nrage will soon devour the land.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 70,
+      "yellow": 50,
+      "green": 40,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-1607763456": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "556": 6,
+        "559": 1,
+        "560": 1,
+        "660": 5
+      },
+      "previous_id": 65,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -622134208
+  },
+  {
+    "id": 67,
+    "kind": "insect-glaive",
+    "name": "Leumundslist",
+    "description": "An insect glaive imbued with the\r\nanimus of a dead Gore Magala.\r\nJust holding it conjures a\r\nbaleful miasma.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 80,
+      "yellow": 80,
+      "green": 60,
+      "blue": 30,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 16,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "418": 5,
+        "565": 4,
+        "566": 1,
+        "569": 3
+      },
+      "previous_id": 65,
+      "branches": [
+        68
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 68,
+    "kind": "insect-glaive",
+    "name": "Leumundsgift",
+    "description": "The Leumundslist's enhanced\r\nform. The miasma spreads\r\nthrough the land, laying\r\nwaste to all in its path.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": 20,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 90,
+      "green": 50,
+      "blue": 30,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 20,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "313598432": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "567": 2,
+        "568": 1,
+        "570": 5,
+        "661": 5
+      },
+      "previous_id": 67,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 861502784
+  },
+  {
+    "id": 69,
+    "kind": "insect-glaive",
+    "name": "Veldian Trudis I",
+    "description": "An Arkveld insect glaive. The\r\nknight who wielded it had a\r\ncharitable heart toward all\r\nnature.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 80,
+      "blue": 80,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 22,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "92": 1,
+        "459": 4,
+        "462": 2,
+        "466": 3
+      },
+      "previous_id": 49,
+      "branches": [
+        75
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 70,
+    "kind": "insect-glaive",
+    "name": "Artian Glaive I",
+    "description": "A weapon assembled from unearthed\r\nfragments. The deployed helix seems\r\nto be the blueprint for a creature.",
+    "rarity": 6,
+    "raw": 170,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 40,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      20,
+      30
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 40,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 71,
+    "kind": "insect-glaive",
+    "name": "Artian Glaive II",
+    "description": "A weapon assembled from unearthed\r\nfragments. The deployed helix seems\r\nto be the blueprint for a creature.",
+    "rarity": 7,
+    "raw": 180,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      2,
+      2,
+      2
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 100,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 72,
+    "kind": "insect-glaive",
+    "name": "Diprielcha",
+    "description": "An ancient weapon with latent\r\npotential. The evolution in the\r\nhelix... Does it depict hope, or...?",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 40,
+      "yellow": 60,
+      "green": 80,
+      "blue": 70,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 200,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 73,
+    "kind": "insect-glaive",
+    "name": "Esperanza Glaive",
+    "description": "A fully field-tested Hope Glaive.\r\nIt buoys a despairing heart, lifting\r\nyou effortlessly through the air.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 60,
+      "yellow": 50,
+      "green": 60,
+      "blue": 40,
+      "white": 90,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "-2096489472": 2,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "659": 5
+      },
+      "previous_id": 5,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1
+  },
+  {
+    "id": 74,
+    "kind": "insect-glaive",
+    "name": "Shrouded Laphoka",
+    "description": "An upgraded Chata Glaive,\r\ncapable of barraging opponents\r\nwith the tenacity of an endless\r\ngravel storm.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 15,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 10,
+      "yellow": 100,
+      "green": 90,
+      "blue": 90,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "37": 1,
+        "295": 6,
+        "659": 5
+      },
+      "previous_id": 18,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 1028911680
+  },
+  {
+    "id": 75,
+    "kind": "insect-glaive",
+    "name": "Enduring Tor",
+    "description": "An upgraded Veldian Trudis. In a\r\nwar-torn land, its knight-wielder\r\nsought to lead the people to peace.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 50,
+      "orange": 50,
+      "yellow": 50,
+      "green": 70,
+      "blue": 70,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "691199232": 3
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "460": 5,
+        "464": 3,
+        "465": 1,
+        "661": 5
+      },
+      "previous_id": 69,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 769195136
+  },
+  {
+    "id": 76,
+    "kind": "insect-glaive",
+    "name": "Zoh Katir I",
+    "description": "A Zoh Shia insect glaive with\r\na motley jewel that shines\r\nin answer to all creation.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 50,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 10,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "710": 1,
+        "712": 5,
+        "713": 4,
+        "715": 1
+      },
+      "previous_id": null,
+      "branches": [
+        77
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 77,
+    "kind": "insect-glaive",
+    "name": "Blazing Katir",
+    "description": "Katir harketh from on high:\r\nThou who seekest prosperity,\r\nmay thy jewel guide thee\r\nto finality.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 5,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 90,
+      "orange": 40,
+      "yellow": 90,
+      "green": 40,
+      "blue": 30,
+      "white": 60,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "dragon",
+        "value": 15,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "576193792": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "714": 3,
+        "717": 1,
+        "719": 4
+      },
+      "previous_id": 76,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 146353744
+  },
+  {
+    "id": 79,
+    "kind": "insect-glaive",
+    "name": "Fox Halberd I",
+    "description": "A glaive owned by a warrior\r\nwho served to the death. Its\r\nblade dances like the wind.",
+    "rarity": 6,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 60,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 2,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 10000,
+      "inputs": {
+        "720": 2,
+        "722": 5,
+        "723": 3,
+        "726": 1
+      },
+      "previous_id": null,
+      "branches": [
+        80
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 80,
+    "kind": "insect-glaive",
+    "name": "Curved Naganagi",
+    "description": "An enhanced Fox Halberd.\r\nIt sweeps over the battlefield\r\nlike a cool breeze.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 80,
+      "orange": 60,
+      "yellow": 40,
+      "green": 40,
+      "blue": 60,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "water",
+        "value": 23,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-847539392": 3,
+      "313598432": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "724": 4,
+        "727": 4,
+        "728": 1
+      },
+      "previous_id": 79,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1175600512
+  },
+  {
+    "id": 81,
+    "kind": "insect-glaive",
+    "name": "Omega's Rod",
+    "description": "An insect glaive modeled after\r\na certain autonomous weapon.\r\nBarrages the target with attacks.",
+    "rarity": 7,
+    "raw": 190,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 70,
+      "green": 30,
+      "blue": 80,
+      "white": 40,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 18,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "31998": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "737": 1,
+        "738": 8,
+        "740": 6,
+        "744": 1
+      },
+      "previous_id": null,
+      "branches": [
+        82
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -765803328
+  },
+  {
+    "id": 82,
+    "kind": "insect-glaive",
+    "name": "True Omega's Rod",
+    "description": "Omega's Rod, after having\r\nevolved through combat.\r\nBrings annihilation with\r\na deluge of light.",
+    "rarity": 8,
+    "raw": 210,
+    "affinity": 10,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 20,
+      "yellow": 60,
+      "green": 20,
+      "blue": 80,
+      "white": 70,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "fire",
+        "value": 23,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "31998": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "739": 7,
+        "741": 5,
+        "743": 5,
+        "745": 1
+      },
+      "previous_id": 81,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -765803328
+  },
+  {
+    "id": 83,
+    "kind": "insect-glaive",
+    "name": "Thunder Glaive Triacrus I",
+    "description": "A three-pronged Lagiacrus insect\r\nglaive. A single swing unleashes a\r\nbolt of lightning powerful enough\r\nto cleave a mountain in two.",
+    "rarity": 7,
+    "raw": 200,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2
+    ],
+    "sharpness": {
+      "red": 70,
+      "orange": 50,
+      "yellow": 40,
+      "green": 100,
+      "blue": 40,
+      "white": 50,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 25,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "729": 2,
+        "731": 5,
+        "734": 1,
+        "735": 3
+      },
+      "previous_id": null,
+      "branches": [
+        84
+      ],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 84,
+    "kind": "insect-glaive",
+    "name": "Fractal Glaive Boltlagia",
+    "description": "An upgraded Thunder Glaive\r\nTriacrus. Its lightning bolts\r\nembody the wrath of a sea god,\r\ncrushing anything in its wake.",
+    "rarity": 8,
+    "raw": 220,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 60,
+      "orange": 40,
+      "yellow": 30,
+      "green": 80,
+      "blue": 60,
+      "white": 80,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [
+      {
+        "kind": "element",
+        "type": "thunder",
+        "value": 30,
+        "hidden": false
+      }
+    ],
+    "skills": {
+      "-283334048": 2,
+      "30201": 1
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "661": 5,
+        "732": 4,
+        "733": 3,
+        "736": 1
+      },
+      "previous_id": 83,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": -1122003456
+  },
+  {
+    "id": 86,
+    "kind": "insect-glaive",
+    "name": "Limbo Llor",
+    "description": "Haunting tears that thirst for\r\npotential, even as all other\r\nhopes drown in a sea of lament.",
+    "rarity": 8,
+    "raw": 200,
+    "affinity": -10,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 87,
+    "kind": "insect-glaive",
+    "name": "Limbo Llor",
+    "description": "Haunting tears that thirst for\r\npotential, even as all other\r\nhopes drown in a sea of lament.",
+    "rarity": 8,
+    "raw": 180,
+    "affinity": 15,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 50,
+      "blue": 70,
+      "white": 10,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 88,
+    "kind": "insect-glaive",
+    "name": "Limbo Llor",
+    "description": "Haunting tears that thirst for\r\npotential, even as all other\r\nhopes drown in a sea of lament.",
+    "rarity": 8,
+    "raw": 190,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      3
+    ],
+    "sharpness": {
+      "red": 140,
+      "orange": 40,
+      "yellow": 40,
+      "green": 80,
+      "blue": 30,
+      "white": 20,
+      "purple": 0
+    },
+    "handicraft": [
+      50
+    ],
+    "specials": [],
+    "skills": {},
+    "crafting": {
+      "zenny_cost": 300,
+      "inputs": {},
+      "previous_id": null,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": null
+  },
+  {
+    "id": 93,
+    "kind": "insect-glaive",
+    "name": "Vanguard's Glaive",
+    "description": "An insect glaive resembling the\r\nstaff used by Kunafa Village's\r\nSeikret riders. Traditionally given\r\nas proof of one's coming of age.",
+    "rarity": 7,
+    "raw": 210,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      2,
+      1
+    ],
+    "sharpness": {
+      "red": 110,
+      "orange": 40,
+      "yellow": 110,
+      "green": 90,
+      "blue": 0,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      10,
+      40
+    ],
+    "specials": [],
+    "skills": {
+      "402237312": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 14000,
+      "inputs": {
+        "56": 3,
+        "503": 3,
+        "550": 2,
+        "555": 1
+      },
+      "previous_id": null,
+      "branches": [
+        94
+      ],
+      "is_shortcut": false
+    },
+    "series_id": 145862672
+  },
+  {
+    "id": 94,
+    "kind": "insect-glaive",
+    "name": "Vanguard's Pride",
+    "description": "The ultimate form of the Vanguard's\r\nGlaive. When wielded in harmony\r\nwith a Seikret, one might as well\r\nbe fighting alongside a dragon.",
+    "rarity": 8,
+    "raw": 230,
+    "affinity": 0,
+    "defense": 0,
+    "slots": [
+      3,
+      3,
+      1
+    ],
+    "sharpness": {
+      "red": 100,
+      "orange": 30,
+      "yellow": 100,
+      "green": 100,
+      "blue": 20,
+      "white": 0,
+      "purple": 0
+    },
+    "handicraft": [
+      0,
+      50
+    ],
+    "specials": [],
+    "skills": {
+      "402237312": 1,
+      "1444935552": 2
+    },
+    "crafting": {
+      "zenny_cost": 20000,
+      "inputs": {
+        "534": 1,
+        "553": 2,
+        "582": 3,
+        "661": 5
+      },
+      "previous_id": 93,
+      "branches": [],
+      "is_shortcut": false
+    },
+    "series_id": 145862672
+  }
+]

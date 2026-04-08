@@ -1,0 +1,3424 @@
+[
+  {
+    "id": -2144349312,
+    "name": "Venom Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1716324608": 1
+    }
+  },
+  {
+    "id": -2136274304,
+    "name": "Handicraft Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1160639488": 2
+    }
+  },
+  {
+    "id": -2135118208,
+    "name": "Flayer Jewel [3]",
+    "level": 3,
+    "allowed_on": "armor",
+    "skills": {
+      "-856322816": 1
+    }
+  },
+  {
+    "id": -2098600064,
+    "name": "Crit Stat/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-168922880": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": -2092760832,
+    "name": "Sleep Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "166057120": 1
+    }
+  },
+  {
+    "id": -2046315136,
+    "name": "Precise Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 2
+    }
+  },
+  {
+    "id": -2040726144,
+    "name": "Bolt/Precise Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": -1958732416,
+    "name": "Water Res Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "383104832": 1
+    }
+  },
+  {
+    "id": -1957828352,
+    "name": "Sleep Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "166057120": 2
+    }
+  },
+  {
+    "id": -1918136064,
+    "name": "Drain Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1758661504": 3
+    }
+  },
+  {
+    "id": -1911376000,
+    "name": "Destroyer Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "1470960256": 1
+    }
+  },
+  {
+    "id": -1907467776,
+    "name": "Bandolier Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1613139840": 3
+    }
+  },
+  {
+    "id": -1898312320,
+    "name": "Escape Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "1966172160": 1
+    }
+  },
+  {
+    "id": -1890995072,
+    "name": "Charge Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1475134080": 1
+    }
+  },
+  {
+    "id": -1843593600,
+    "name": "Attack Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1": 2
+    }
+  },
+  {
+    "id": -1838842752,
+    "name": "Bandolier/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "1613139840": 3
+    }
+  },
+  {
+    "id": -1826260608,
+    "name": "Blaze/Precise Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3,
+      "-420608864": 1
+    }
+  },
+  {
+    "id": -1814261888,
+    "name": "Bolt Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1452140672": 1
+    }
+  },
+  {
+    "id": -1808385664,
+    "name": "Suture Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "1940820864": 1
+    }
+  },
+  {
+    "id": -1801961088,
+    "name": "Fire Res Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "1425756032": 1
+    }
+  },
+  {
+    "id": -1780766976,
+    "name": "Grinder/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1160639488": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "id": -1779241856,
+    "name": "Poison Jewel [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1629629184": 1
+    }
+  },
+  {
+    "id": -1775008128,
+    "name": "Hungerless Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "2045149568": 1
+    }
+  },
+  {
+    "id": -1770074240,
+    "name": "Enhancer Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "691199232": 1
+    }
+  },
+  {
+    "id": -1769520768,
+    "name": "Bolt/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1160639488": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": -1749412352,
+    "name": "Specimen Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "898284480": 1
+    }
+  },
+  {
+    "id": -1730551168,
+    "name": "Salvo Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1507579776": 1
+    }
+  },
+  {
+    "id": -1726768640,
+    "name": "Mirewalker Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-201445760": 1
+    }
+  },
+  {
+    "id": -1723727616,
+    "name": "Magazine Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "802725120": 2
+    }
+  },
+  {
+    "id": -1720284416,
+    "name": "Rzr Sharp Jwl III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1050520384": 3
+    }
+  },
+  {
+    "id": -1714653184,
+    "name": "Sleep Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "166057120": 3
+    }
+  },
+  {
+    "id": -1709840128,
+    "name": "Dragon Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3
+    }
+  },
+  {
+    "id": -1708108928,
+    "name": "Sonorous/Attack Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1237438336": 2,
+      "1": 1
+    }
+  },
+  {
+    "id": -1706210176,
+    "name": "Crit Stat Jwl III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-168922880": 3
+    }
+  },
+  {
+    "id": -1693028992,
+    "name": "Bolt Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1452140672": 2
+    }
+  },
+  {
+    "id": -1672815872,
+    "name": "Blaze/Guardian Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3,
+      "-181127504": 1
+    }
+  },
+  {
+    "id": -1669066368,
+    "name": "Venom Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1716324608": 2
+    }
+  },
+  {
+    "id": -1664513664,
+    "name": "Drain Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1758661504": 2
+    }
+  },
+  {
+    "id": -1645940096,
+    "name": "Foray Jewel [3]",
+    "level": 3,
+    "allowed_on": "armor",
+    "skills": {
+      "27684744": 1
+    }
+  },
+  {
+    "id": -1631437696,
+    "name": "Grinder/Ironwall Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "id": -1626218240,
+    "name": "Def Lock Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "1522518528": 1
+    }
+  },
+  {
+    "id": -1622630272,
+    "name": "Dragon/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "-776946176": 3
+    }
+  },
+  {
+    "id": -1609962496,
+    "name": "Grinder/Draw Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "686533440": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "id": -1604621952,
+    "name": "Opener Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1711950720": 2
+    }
+  },
+  {
+    "id": -1581788032,
+    "name": "Charge Up/Attack Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1": 1,
+      "353114912": 1
+    }
+  },
+  {
+    "id": -1569165952,
+    "name": "Quickswitch Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 3
+    }
+  },
+  {
+    "id": -1550869760,
+    "name": "Mighty Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "632127488": 1
+    }
+  },
+  {
+    "id": -1549794304,
+    "name": "Guardian Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181127504": 1
+    }
+  },
+  {
+    "id": -1545069696,
+    "name": "Sharp Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1500129152": 2
+    }
+  },
+  {
+    "id": -1518352896,
+    "name": "Bolt Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1452140672": 3
+    }
+  },
+  {
+    "id": -1489248128,
+    "name": "Guardian/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "-181127504": 3
+    }
+  },
+  {
+    "id": -1485261696,
+    "name": "Jumping Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "673822976": 1
+    }
+  },
+  {
+    "id": -1465477120,
+    "name": "Bolt/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": -1463543552,
+    "name": "Mind's Eye Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1594792704": 1
+    }
+  },
+  {
+    "id": -1452017024,
+    "name": "Rzr Sharp/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "1050520384": 3
+    }
+  },
+  {
+    "id": -1449268352,
+    "name": "Recovery Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-1121468544": 1
+    }
+  },
+  {
+    "id": -1434375936,
+    "name": "Pep Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-193031552": 1
+    }
+  },
+  {
+    "id": -1416808832,
+    "name": "Dragon Res Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-2125233152": 1
+    }
+  },
+  {
+    "id": -1401571456,
+    "name": "Sane Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-1662120192": 1
+    }
+  },
+  {
+    "id": -1397276160,
+    "name": "Trueshot Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-160562336": 2
+    }
+  },
+  {
+    "id": -1394596736,
+    "name": "Stream Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 1
+    }
+  },
+  {
+    "id": -1392648576,
+    "name": "Earplugs Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "192746944": 1
+    }
+  },
+  {
+    "id": -1381641984,
+    "name": "Physique Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-1689391744": 1
+    }
+  },
+  {
+    "id": -1374390656,
+    "name": "Opener Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1711950720": 3
+    }
+  },
+  {
+    "id": -1345708800,
+    "name": "Blaze/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3,
+      "-307644128": 1
+    }
+  },
+  {
+    "id": -1340047744,
+    "name": "Mastery Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1389859584": 1
+    }
+  },
+  {
+    "id": -1319399040,
+    "name": "Gambit/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1946345856": 3,
+      "-893407296": 1
+    }
+  },
+  {
+    "id": -1318893952,
+    "name": "Survival Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-593005376": 1
+    }
+  },
+  {
+    "id": -1267187456,
+    "name": "Thunder Res Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "2143068800": 1
+    }
+  },
+  {
+    "id": -1220470528,
+    "name": "Draw Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "686533440": 3
+    }
+  },
+  {
+    "id": -1218528128,
+    "name": "Guardian Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181127504": 3
+    }
+  },
+  {
+    "id": -1205597696,
+    "name": "Quickswitch/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": -1188973056,
+    "name": "Stream Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 2
+    }
+  },
+  {
+    "id": -1178454912,
+    "name": "Flight Jewel [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "402237312": 1
+    }
+  },
+  {
+    "id": -1166585472,
+    "name": "Precise Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 1
+    }
+  },
+  {
+    "id": -1163377152,
+    "name": "Blunt Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "397306144": 3
+    }
+  },
+  {
+    "id": -1161972480,
+    "name": "Poisoncoat Jewel [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "919683456": 1
+    }
+  },
+  {
+    "id": -1159995904,
+    "name": "Sleepcoat Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "169998480": 1
+    }
+  },
+  {
+    "id": -1152759424,
+    "name": "Crit Elem/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "313598432": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": -1139186816,
+    "name": "Leap Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "78208296": 1
+    }
+  },
+  {
+    "id": -1133012096,
+    "name": "Venom Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1716324608": 3
+    }
+  },
+  {
+    "id": -1113106688,
+    "name": "Adapt Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "424768352": 1
+    }
+  },
+  {
+    "id": -1108771200,
+    "name": "Crit Stat/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "-168922880": 3
+    }
+  },
+  {
+    "id": -1082640896,
+    "name": "Magazine/Expert Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2096489472": 1,
+      "802725120": 2
+    }
+  },
+  {
+    "id": -1081371008,
+    "name": "Expert Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2096489472": 3
+    }
+  },
+  {
+    "id": -1072040640,
+    "name": "Ice Res Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "652161472": 1
+    }
+  },
+  {
+    "id": -1055912640,
+    "name": "Gambit/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1946345856": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": -1050453888,
+    "name": "Crit Elem/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "313598432": 3
+    }
+  },
+  {
+    "id": -1034943744,
+    "name": "Gambit Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1946345856": 1
+    }
+  },
+  {
+    "id": -1016655360,
+    "name": "Antipara Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "522288832": 1
+    }
+  },
+  {
+    "id": -1016332736,
+    "name": "Blast Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-844978880": 1
+    }
+  },
+  {
+    "id": -1003144960,
+    "name": "Paracoat Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-676967744": 1
+    }
+  },
+  {
+    "id": -949824384,
+    "name": "KO Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1
+    }
+  },
+  {
+    "id": -937758144,
+    "name": "Blaze/Enhancer Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3,
+      "691199232": 1
+    }
+  },
+  {
+    "id": -933830080,
+    "name": "Gambit/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1946345856": 3,
+      "-307644128": 1
+    }
+  },
+  {
+    "id": -919326784,
+    "name": "Flight/Draw Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "402237312": 1,
+      "686533440": 1
+    }
+  },
+  {
+    "id": -857552768,
+    "name": "Blast Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-844978880": 2
+    }
+  },
+  {
+    "id": -848728960,
+    "name": "Critical Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1607763456": 2
+    }
+  },
+  {
+    "id": -790612736,
+    "name": "Bolt/Ironwall Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": -777488128,
+    "name": "Blaze/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": -773823488,
+    "name": "Charge/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1475134080": 3,
+      "-893407296": 1
+    }
+  },
+  {
+    "id": -753381888,
+    "name": "Guardian Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181127504": 2
+    }
+  },
+  {
+    "id": -749488896,
+    "name": "Crit Element Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "313598432": 1
+    }
+  },
+  {
+    "id": -725659840,
+    "name": "Wind Resist Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-895828480": 1
+    }
+  },
+  {
+    "id": -714680256,
+    "name": "Paralyzer Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1863702144": 1
+    }
+  },
+  {
+    "id": -712981504,
+    "name": "Focus Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-283334048": 3
+    }
+  },
+  {
+    "id": -706109632,
+    "name": "Poison/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1629629184": 1,
+      "-893407296": 1
+    }
+  },
+  {
+    "id": -699699904,
+    "name": "Flight/Attack Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1": 1,
+      "402237312": 1
+    }
+  },
+  {
+    "id": -693750528,
+    "name": "Blastcoat Jewel [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2022542848": 1
+    }
+  },
+  {
+    "id": -682377152,
+    "name": "Grinder/Expert Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2096489472": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "id": -677836288,
+    "name": "Magazine/Draw Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "686533440": 1,
+      "802725120": 2
+    }
+  },
+  {
+    "id": -673317952,
+    "name": "Refresh Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "-315492576": 1
+    }
+  },
+  {
+    "id": -645579072,
+    "name": "Blaze/Focus Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3,
+      "-283334048": 1
+    }
+  },
+  {
+    "id": -645377408,
+    "name": "Charge Up/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "353114912": 1
+    }
+  },
+  {
+    "id": -621608832,
+    "name": "Focus/Handicraft Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-283334048": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": -595931264,
+    "name": "Sonorous/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1237438336": 2,
+      "-893407296": 1
+    }
+  },
+  {
+    "id": -590616064,
+    "name": "Growth Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "1639440000": 1
+    }
+  },
+  {
+    "id": -557270784,
+    "name": "Bandolier Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1613139840": 2
+    }
+  },
+  {
+    "id": -546783040,
+    "name": "Shield/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": -534202944,
+    "name": "Protection Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "1346775424": 1
+    }
+  },
+  {
+    "id": -522458240,
+    "name": "Paralyzer Jwl III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1863702144": 3
+    }
+  },
+  {
+    "id": -510575936,
+    "name": "Stream/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "508916704": 3
+    }
+  },
+  {
+    "id": -508830240,
+    "name": "Sonorous Jewel [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1237438336": 1
+    }
+  },
+  {
+    "id": -493483136,
+    "name": "Razor Sharp Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1050520384": 1
+    }
+  },
+  {
+    "id": -487601632,
+    "name": "Quickswitch/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 3,
+      "-307644128": 1
+    }
+  },
+  {
+    "id": -477564992,
+    "name": "Dragon/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3,
+      "-307644128": 1
+    }
+  },
+  {
+    "id": -463114720,
+    "name": "Guardian/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181127504": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": -451614112,
+    "name": "Expert Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2096489472": 1
+    }
+  },
+  {
+    "id": -447558304,
+    "name": "Chain Jewel [3]",
+    "level": 3,
+    "allowed_on": "armor",
+    "skills": {
+      "565867136": 1
+    }
+  },
+  {
+    "id": -430198272,
+    "name": "Magazine/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "802725120": 2,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": -417484064,
+    "name": "Brace Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "742695104": 1
+    }
+  },
+  {
+    "id": -394478144,
+    "name": "Dive Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-1304512512": 1
+    }
+  },
+  {
+    "id": -389889248,
+    "name": "Poison/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1629629184": 1,
+      "-307644128": 1
+    }
+  },
+  {
+    "id": -384925600,
+    "name": "Antidote Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "1459579264": 1
+    }
+  },
+  {
+    "id": -325572000,
+    "name": "Bomber Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-857543744": 1
+    }
+  },
+  {
+    "id": -316552800,
+    "name": "Geology Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "595870656": 1
+    }
+  },
+  {
+    "id": -301443072,
+    "name": "Enhancer Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "691199232": 2
+    }
+  },
+  {
+    "id": -292390464,
+    "name": "Blaze/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "-562534336": 3
+    }
+  },
+  {
+    "id": -245086656,
+    "name": "Draw Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "686533440": 1
+    }
+  },
+  {
+    "id": -243518144,
+    "name": "Charge Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1475134080": 2
+    }
+  },
+  {
+    "id": -198925264,
+    "name": "Sheath Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-1073401280": 1
+    }
+  },
+  {
+    "id": -198819232,
+    "name": "Shield Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 2
+    }
+  },
+  {
+    "id": -177096704,
+    "name": "Satiated Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "850626240": 1
+    }
+  },
+  {
+    "id": -150840288,
+    "name": "Dragon Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 2
+    }
+  },
+  {
+    "id": -145991360,
+    "name": "Razor Sharp Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1050520384": 2
+    }
+  },
+  {
+    "id": -143560672,
+    "name": "Sonorous/Expert Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2096489472": 1,
+      "-1237438336": 2
+    }
+  },
+  {
+    "id": -140702464,
+    "name": "Poison/Draw Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1629629184": 1,
+      "686533440": 1
+    }
+  },
+  {
+    "id": -102120712,
+    "name": "Grinder/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "id": -98207152,
+    "name": "Ironwall Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1
+    }
+  },
+  {
+    "id": -92885912,
+    "name": "Blaze/Shield Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 1,
+      "-562534336": 3
+    }
+  },
+  {
+    "id": -87428912,
+    "name": "Artillery Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-596764096": 2
+    }
+  },
+  {
+    "id": -35111916,
+    "name": "Fungiform Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "-481419552": 1
+    }
+  },
+  {
+    "id": -19370102,
+    "name": "Opener/Precise Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 1,
+      "1711950720": 3
+    }
+  },
+  {
+    "id": -15284539,
+    "name": "Blaze Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 2
+    }
+  },
+  {
+    "id": -12878304,
+    "name": "Blaze Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 1
+    }
+  },
+  {
+    "id": 276,
+    "name": "Shield/Stream Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 3,
+      "508916704": 1
+    }
+  },
+  {
+    "id": 783,
+    "name": "Bolt/Opener Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1452140672": 3,
+      "1711950720": 1
+    }
+  },
+  {
+    "id": 1508,
+    "name": "Dragon/Guardian Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3,
+      "-181127504": 1
+    }
+  },
+  {
+    "id": 1570,
+    "name": "Dragon/Focus Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3,
+      "-283334048": 1
+    }
+  },
+  {
+    "id": 1591,
+    "name": "Crit Elem/Blaze Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 1,
+      "313598432": 3
+    }
+  },
+  {
+    "id": 1625,
+    "name": "Frost/Rzr Sharp Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1050520384": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 1919,
+    "name": "Focus/Frost Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-283334048": 3,
+      "1268070400": 1
+    }
+  },
+  {
+    "id": 2186,
+    "name": "Rzr Sharp/Frost Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1050520384": 3,
+      "1268070400": 1
+    }
+  },
+  {
+    "id": 2420,
+    "name": "Dragon/Opener Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3,
+      "1711950720": 1
+    }
+  },
+  {
+    "id": 3416,
+    "name": "Focus/Stream Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-283334048": 3,
+      "508916704": 1
+    }
+  },
+  {
+    "id": 3690,
+    "name": "Quickswitch/Dragon Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 3,
+      "-776946176": 1
+    }
+  },
+  {
+    "id": 4514,
+    "name": "Bandolier/Blaze Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 1,
+      "1613139840": 3
+    }
+  },
+  {
+    "id": 4715,
+    "name": "Rzr Sharp/Stream Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 1,
+      "1050520384": 3
+    }
+  },
+  {
+    "id": 4781,
+    "name": "Blaze/Opener Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3,
+      "1711950720": 1
+    }
+  },
+  {
+    "id": 5173,
+    "name": "Bolt/Focus Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-283334048": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": 5731,
+    "name": "Enhancer/Blaze Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 1,
+      "691199232": 3
+    }
+  },
+  {
+    "id": 5876,
+    "name": "Crit Elem/Stream Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "313598432": 3,
+      "508916704": 1
+    }
+  },
+  {
+    "id": 6393,
+    "name": "Bolt/Rzr Sharp Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1050520384": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": 6455,
+    "name": "Enhancer/Frost Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "691199232": 3,
+      "1268070400": 1
+    }
+  },
+  {
+    "id": 6866,
+    "name": "Crit Elem/Bolt Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "313598432": 3,
+      "1452140672": 1
+    }
+  },
+  {
+    "id": 7249,
+    "name": "Dragon/Crit Elem Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3,
+      "313598432": 1
+    }
+  },
+  {
+    "id": 7817,
+    "name": "Frost/Bandolier Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1268070400": 3,
+      "1613139840": 1
+    }
+  },
+  {
+    "id": 8302,
+    "name": "Dragon/Shield Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 1,
+      "-776946176": 3
+    }
+  },
+  {
+    "id": 8988,
+    "name": "Quickswitch/Blaze Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 3,
+      "-562534336": 1
+    }
+  },
+  {
+    "id": 9096,
+    "name": "Shield/Frost Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 3,
+      "1268070400": 1
+    }
+  },
+  {
+    "id": 11183,
+    "name": "Bolt/Quickswitch Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": 12151,
+    "name": "Crit Elem/Frost Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "313598432": 3,
+      "1268070400": 1
+    }
+  },
+  {
+    "id": 12241,
+    "name": "Shield/Bolt Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 3,
+      "1452140672": 1
+    }
+  },
+  {
+    "id": 12727,
+    "name": "Stream/Rzr Sharp Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 3,
+      "1050520384": 1
+    }
+  },
+  {
+    "id": 13386,
+    "name": "Stream/Shield Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 1,
+      "508916704": 3
+    }
+  },
+  {
+    "id": 13550,
+    "name": "Frost/Focus Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-283334048": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 14731,
+    "name": "Stream/Crit Elem Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "313598432": 1,
+      "508916704": 3
+    }
+  },
+  {
+    "id": 14794,
+    "name": "Opener/Bolt Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1452140672": 1,
+      "1711950720": 3
+    }
+  },
+  {
+    "id": 14855,
+    "name": "Dragon/Enhancer Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3,
+      "691199232": 1
+    }
+  },
+  {
+    "id": 14956,
+    "name": "Rzr Sharp/Blaze Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 1,
+      "1050520384": 3
+    }
+  },
+  {
+    "id": 15379,
+    "name": "Opener/Stream Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 1,
+      "1711950720": 3
+    }
+  },
+  {
+    "id": 16193,
+    "name": "Guardian/Blaze Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 1,
+      "-181127504": 3
+    }
+  },
+  {
+    "id": 16930,
+    "name": "Focus/Bolt Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-283334048": 3,
+      "1452140672": 1
+    }
+  },
+  {
+    "id": 17415,
+    "name": "Frost/Enhancer Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "691199232": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 17610,
+    "name": "Focus/Dragon Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 1,
+      "-283334048": 3
+    }
+  },
+  {
+    "id": 17913,
+    "name": "Bolt/Shield Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": 17949,
+    "name": "Bandolier/Stream Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 1,
+      "1613139840": 3
+    }
+  },
+  {
+    "id": 18359,
+    "name": "Bandolier/Frost Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1268070400": 1,
+      "1613139840": 3
+    }
+  },
+  {
+    "id": 18958,
+    "name": "Quickswitch/Frost Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 3,
+      "1268070400": 1
+    }
+  },
+  {
+    "id": 19383,
+    "name": "Bolt/Crit Elem Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "313598432": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": 20183,
+    "name": "Dragon/Quickswitch Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 1,
+      "-776946176": 3
+    }
+  },
+  {
+    "id": 20287,
+    "name": "Shield/Dragon Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 3,
+      "-776946176": 1
+    }
+  },
+  {
+    "id": 20306,
+    "name": "Frost/Guardian Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181127504": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 20412,
+    "name": "Blaze/Crit Elem Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3,
+      "313598432": 1
+    }
+  },
+  {
+    "id": 21045,
+    "name": "Frost/Crit Elem Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "313598432": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 21328,
+    "name": "Guardian/Dragon Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 1,
+      "-181127504": 3
+    }
+  },
+  {
+    "id": 21515,
+    "name": "Dragon/Bandolier Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3,
+      "1613139840": 1
+    }
+  },
+  {
+    "id": 21891,
+    "name": "Bolt/Guardian Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181127504": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": 22048,
+    "name": "Stream/Enhancer Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 3,
+      "691199232": 1
+    }
+  },
+  {
+    "id": 22310,
+    "name": "Stream/Guardian Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181127504": 1,
+      "508916704": 3
+    }
+  },
+  {
+    "id": 22604,
+    "name": "Bandolier/Bolt Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1452140672": 1,
+      "1613139840": 3
+    }
+  },
+  {
+    "id": 22673,
+    "name": "Guardian/Stream Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181127504": 3,
+      "508916704": 1
+    }
+  },
+  {
+    "id": 22681,
+    "name": "Enhancer/Stream Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 1,
+      "691199232": 3
+    }
+  },
+  {
+    "id": 23236,
+    "name": "Bolt/Bandolier Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1452140672": 3,
+      "1613139840": 1
+    }
+  },
+  {
+    "id": 23494,
+    "name": "Dragon/Rzr Sharp Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3,
+      "1050520384": 1
+    }
+  },
+  {
+    "id": 23522,
+    "name": "Focus/Blaze Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 1,
+      "-283334048": 3
+    }
+  },
+  {
+    "id": 23556,
+    "name": "Guardian/Bolt Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181127504": 3,
+      "1452140672": 1
+    }
+  },
+  {
+    "id": 23622,
+    "name": "Quickswitch/Bolt Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 3,
+      "1452140672": 1
+    }
+  },
+  {
+    "id": 23677,
+    "name": "Frost/Quickswitch Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 24211,
+    "name": "Guardian/Frost Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181127504": 3,
+      "1268070400": 1
+    }
+  },
+  {
+    "id": 24561,
+    "name": "Opener/Frost Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1268070400": 1,
+      "1711950720": 3
+    }
+  },
+  {
+    "id": 24768,
+    "name": "Stream/Bandolier Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 3,
+      "1613139840": 1
+    }
+  },
+  {
+    "id": 24865,
+    "name": "Rzr Sharp/Dragon Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 1,
+      "1050520384": 3
+    }
+  },
+  {
+    "id": 24927,
+    "name": "Opener/Blaze Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 1,
+      "1711950720": 3
+    }
+  },
+  {
+    "id": 25926,
+    "name": "Blaze/Bandolier Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3,
+      "1613139840": 1
+    }
+  },
+  {
+    "id": 25952,
+    "name": "Enhancer/Bolt Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "691199232": 3,
+      "1452140672": 1
+    }
+  },
+  {
+    "id": 26003,
+    "name": "Shield/Blaze Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 3,
+      "-562534336": 1
+    }
+  },
+  {
+    "id": 26077,
+    "name": "Enhancer/Dragon Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 1,
+      "691199232": 3
+    }
+  },
+  {
+    "id": 27036,
+    "name": "Quickswitch/Stream Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 3,
+      "508916704": 1
+    }
+  },
+  {
+    "id": 27791,
+    "name": "Bandolier/Dragon Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 1,
+      "1613139840": 3
+    }
+  },
+  {
+    "id": 28076,
+    "name": "Opener/Dragon Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 1,
+      "1711950720": 3
+    }
+  },
+  {
+    "id": 30137,
+    "name": "Crit Elem/Dragon Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 1,
+      "313598432": 3
+    }
+  },
+  {
+    "id": 30161,
+    "name": "Frost/Opener Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1268070400": 3,
+      "1711950720": 1
+    }
+  },
+  {
+    "id": 30405,
+    "name": "Rzr Sharp/Bolt Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1050520384": 3,
+      "1452140672": 1
+    }
+  },
+  {
+    "id": 30490,
+    "name": "Stream/Quickswitch Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 1,
+      "508916704": 3
+    }
+  },
+  {
+    "id": 31893,
+    "name": "Frost/Shield Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 32288,
+    "name": "Bolt/Enhancer Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "691199232": 1,
+      "1452140672": 3
+    }
+  },
+  {
+    "id": 32433,
+    "name": "Stream/Focus Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-283334048": 1,
+      "508916704": 3
+    }
+  },
+  {
+    "id": 32676,
+    "name": "Stream/Opener Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 3,
+      "1711950720": 1
+    }
+  },
+  {
+    "id": 5028590,
+    "name": "Grinder Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1444935552": 2
+    }
+  },
+  {
+    "id": 5672852,
+    "name": "Defense Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "1077686656": 1
+    }
+  },
+  {
+    "id": 7844454,
+    "name": "Grinder Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1444935552": 1
+    }
+  },
+  {
+    "id": 17525612,
+    "name": "Poison/Precise Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1629629184": 1,
+      "-420608864": 1
+    }
+  },
+  {
+    "id": 19401228,
+    "name": "Gambit Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1946345856": 3
+    }
+  },
+  {
+    "id": 23951036,
+    "name": "Razor Sharp/KO Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "1050520384": 3
+    }
+  },
+  {
+    "id": 34988560,
+    "name": "Spread Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2123993856": 1
+    }
+  },
+  {
+    "id": 44196940,
+    "name": "KO Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 2
+    }
+  },
+  {
+    "id": 64300272,
+    "name": "Focus/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "-283334048": 3
+    }
+  },
+  {
+    "id": 67372504,
+    "name": "Sharp Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1500129152": 1
+    }
+  },
+  {
+    "id": 72596768,
+    "name": "Ranger Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "1845834112": 1
+    }
+  },
+  {
+    "id": 97814240,
+    "name": "Artillery Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-596764096": 1
+    }
+  },
+  {
+    "id": 103198480,
+    "name": "Bandolier/Precise Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 1,
+      "1613139840": 3
+    }
+  },
+  {
+    "id": 115284000,
+    "name": "Charge/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1475134080": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": 124240896,
+    "name": "Crit Status Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-168922880": 1
+    }
+  },
+  {
+    "id": 130724024,
+    "name": "Attack Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1": 1
+    }
+  },
+  {
+    "id": 146040608,
+    "name": "Handicraft Jwl III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1160639488": 3
+    }
+  },
+  {
+    "id": 163043584,
+    "name": "Opener/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "1711950720": 3
+    }
+  },
+  {
+    "id": 183160800,
+    "name": "Quickswitch Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 2
+    }
+  },
+  {
+    "id": 186552368,
+    "name": "Frost Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1268070400": 1
+    }
+  },
+  {
+    "id": 213184688,
+    "name": "Flawless Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "2106877312": 1
+    }
+  },
+  {
+    "id": 219173888,
+    "name": "Dragon/Precise Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3,
+      "-420608864": 1
+    }
+  },
+  {
+    "id": 248848256,
+    "name": "Expert Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2096489472": 2
+    }
+  },
+  {
+    "id": 280205024,
+    "name": "Attack Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1": 3
+    }
+  },
+  {
+    "id": 298345088,
+    "name": "Magazine Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "802725120": 1
+    }
+  },
+  {
+    "id": 336866720,
+    "name": "Poison/Expert Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2096489472": 1,
+      "-1629629184": 1
+    }
+  },
+  {
+    "id": 386498304,
+    "name": "Frost Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 391149760,
+    "name": "Poison/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1629629184": 1,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": 435353600,
+    "name": "Handicraft Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1160639488": 1
+    }
+  },
+  {
+    "id": 446613472,
+    "name": "Enhancer Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "691199232": 3
+    }
+  },
+  {
+    "id": 454747104,
+    "name": "Medicine Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-1235658624": 1
+    }
+  },
+  {
+    "id": 457280288,
+    "name": "Charge Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1475134080": 3
+    }
+  },
+  {
+    "id": 460437856,
+    "name": "Flight/Expert Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2096489472": 1,
+      "402237312": 1
+    }
+  },
+  {
+    "id": 499818016,
+    "name": "Sonorous/Draw Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1237438336": 2,
+      "686533440": 1
+    }
+  },
+  {
+    "id": 519959680,
+    "name": "Furor Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "1359821952": 1
+    }
+  },
+  {
+    "id": 520733824,
+    "name": "Crit Stat/Precise Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 1,
+      "-168922880": 3
+    }
+  },
+  {
+    "id": 583988672,
+    "name": "Mind's Eye Jwl III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1594792704": 3
+    }
+  },
+  {
+    "id": 594204352,
+    "name": "KO Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 3
+    }
+  },
+  {
+    "id": 618579264,
+    "name": "Magazine/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "802725120": 2
+    }
+  },
+  {
+    "id": 639622592,
+    "name": "Paralyzer Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1863702144": 2
+    }
+  },
+  {
+    "id": 645053056,
+    "name": "Gobbler Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "634068352": 1
+    }
+  },
+  {
+    "id": 654954304,
+    "name": "Stream/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "508916704": 3
+    }
+  },
+  {
+    "id": 656487488,
+    "name": "Ambush Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "-171796848": 1
+    }
+  },
+  {
+    "id": 668852032,
+    "name": "Phoenix Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "-1700743296": 1
+    }
+  },
+  {
+    "id": 694060672,
+    "name": "Steadfast Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "705317568": 1
+    }
+  },
+  {
+    "id": 701807872,
+    "name": "Antiblast Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "820385792": 1
+    }
+  },
+  {
+    "id": 714935168,
+    "name": "Drain Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1758661504": 1
+    }
+  },
+  {
+    "id": 759889920,
+    "name": "Mind's Eye Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1594792704": 2
+    }
+  },
+  {
+    "id": 767051200,
+    "name": "Tenderizer Jewel [3]",
+    "level": 3,
+    "allowed_on": "armor",
+    "skills": {
+      "-397570464": 1
+    }
+  },
+  {
+    "id": 771935488,
+    "name": "Artillery Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-596764096": 3
+    }
+  },
+  {
+    "id": 795180288,
+    "name": "Charge Up Jewel [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "353114912": 1
+    }
+  },
+  {
+    "id": 797303936,
+    "name": "Focus Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-283334048": 2
+    }
+  },
+  {
+    "id": 839957184,
+    "name": "Charge Up/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "353114912": 1,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": 865685248,
+    "name": "Shockproof Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-632440576": 1
+    }
+  },
+  {
+    "id": 886913856,
+    "name": "Blaze Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3
+    }
+  },
+  {
+    "id": 895028672,
+    "name": "Frost Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "1268070400": 2
+    }
+  },
+  {
+    "id": 897466048,
+    "name": "Dragon/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": 910101056,
+    "name": "Crit Elem/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "313598432": 3
+    }
+  },
+  {
+    "id": 912898176,
+    "name": "Blaze/Quickswitch Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 1,
+      "-562534336": 3
+    }
+  },
+  {
+    "id": 914233472,
+    "name": "Stream/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": 934416192,
+    "name": "Charge Up/Expert Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-2096489472": 1,
+      "353114912": 1
+    }
+  },
+  {
+    "id": 944809600,
+    "name": "Crit Element/Precise Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 1,
+      "313598432": 3
+    }
+  },
+  {
+    "id": 948977536,
+    "name": "Throttle Jewel [3]",
+    "level": 3,
+    "allowed_on": "armor",
+    "skills": {
+      "1763191040": 1
+    }
+  },
+  {
+    "id": 949857152,
+    "name": "Perfume Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-411441344": 1
+    }
+  },
+  {
+    "id": 954350400,
+    "name": "Maintenance Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "469540352": 1
+    }
+  },
+  {
+    "id": 986212736,
+    "name": "Critical Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1607763456": 3
+    }
+  },
+  {
+    "id": 1024615424,
+    "name": "Frost/Precise Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 1031937152,
+    "name": "Blaze/Rzr Sharp Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-562534336": 3,
+      "1050520384": 1
+    }
+  },
+  {
+    "id": 1067880832,
+    "name": "Draincoat Jewel [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-181774400": 1
+    }
+  },
+  {
+    "id": 1088947584,
+    "name": "Shield Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 3
+    }
+  },
+  {
+    "id": 1096472320,
+    "name": "Grinder/Attack Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1": 1,
+      "1444935552": 2
+    }
+  },
+  {
+    "id": 1115345024,
+    "name": "Blunt Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "397306144": 2
+    }
+  },
+  {
+    "id": 1150766464,
+    "name": "Critical Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1607763456": 1
+    }
+  },
+  {
+    "id": 1162934272,
+    "name": "Sharp Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1500129152": 3
+    }
+  },
+  {
+    "id": 1174071168,
+    "name": "Focus/Precise Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 1,
+      "-283334048": 3
+    }
+  },
+  {
+    "id": 1179637760,
+    "name": "Gambit Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1946345856": 2
+    }
+  },
+  {
+    "id": 1190642816,
+    "name": "Bandolier Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1613139840": 1
+    }
+  },
+  {
+    "id": 1194220032,
+    "name": "Blunt Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "397306144": 1
+    }
+  },
+  {
+    "id": 1202986624,
+    "name": "Forceshot Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961297152": 1
+    }
+  },
+  {
+    "id": 1213481984,
+    "name": "Quickswitch Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 1
+    }
+  },
+  {
+    "id": 1216872320,
+    "name": "Crit Element Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "313598432": 2
+    }
+  },
+  {
+    "id": 1230875008,
+    "name": "Flash Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-257693696": 1
+    }
+  },
+  {
+    "id": 1287680640,
+    "name": "Flight/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "402237312": 1,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": 1305797760,
+    "name": "Counter Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "280489184": 1
+    }
+  },
+  {
+    "id": 1343145856,
+    "name": "Precise Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 3
+    }
+  },
+  {
+    "id": 1377760768,
+    "name": "Trueshot Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-160562336": 1
+    }
+  },
+  {
+    "id": 1389113984,
+    "name": "Frost/KO Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 1397927296,
+    "name": "Crit Status/KO Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-893407296": 1,
+      "-168922880": 3
+    }
+  },
+  {
+    "id": 1414248576,
+    "name": "Potential Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "422666624": 1
+    }
+  },
+  {
+    "id": 1427190272,
+    "name": "Crit Status Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-168922880": 2
+    }
+  },
+  {
+    "id": 1443679488,
+    "name": "Shield/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 3,
+      "-307644128": 1
+    }
+  },
+  {
+    "id": 1444555776,
+    "name": "Shield Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1674114176": 1
+    }
+  },
+  {
+    "id": 1478235520,
+    "name": "Evasion Jewel [2]",
+    "level": 2,
+    "allowed_on": "armor",
+    "skills": {
+      "144660544": 1
+    }
+  },
+  {
+    "id": 1494637824,
+    "name": "Frost/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1160639488": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 1536980096,
+    "name": "Stream Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "508916704": 3
+    }
+  },
+  {
+    "id": 1596720768,
+    "name": "Frost/Ironwall Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 1,
+      "1268070400": 3
+    }
+  },
+  {
+    "id": 1597431680,
+    "name": "Draw Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "686533440": 2
+    }
+  },
+  {
+    "id": 1598502400,
+    "name": "Counterattack Jewel [3]",
+    "level": 3,
+    "allowed_on": "armor",
+    "skills": {
+      "1174975744": 1
+    }
+  },
+  {
+    "id": 1619248640,
+    "name": "Quickswitch/KO Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1961116288": 3,
+      "-893407296": 1
+    }
+  },
+  {
+    "id": 1636575872,
+    "name": "Rzr Sharp/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1050520384": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": 1701043584,
+    "name": "Pierce Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "552982656": 1
+    }
+  },
+  {
+    "id": 1731714432,
+    "name": "Friendship Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "894530496": 1
+    }
+  },
+  {
+    "id": 1738329216,
+    "name": "Sprinter Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-682586176": 1
+    }
+  },
+  {
+    "id": 1789092864,
+    "name": "Crit Elem Jwl III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "313598432": 3
+    }
+  },
+  {
+    "id": 1832912384,
+    "name": "Blast Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-844978880": 3
+    }
+  },
+  {
+    "id": 1833462144,
+    "name": "Stream/Precise Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-420608864": 1,
+      "508916704": 3
+    }
+  },
+  {
+    "id": 1887590400,
+    "name": "Enhancer/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "691199232": 3,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": 1906356096,
+    "name": "Focus Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-283334048": 1
+    }
+  },
+  {
+    "id": 1910118400,
+    "name": "Charge Up/Draw Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "353114912": 1,
+      "686533440": 1
+    }
+  },
+  {
+    "id": 1933586560,
+    "name": "Climber Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-692636288": 1
+    }
+  },
+  {
+    "id": 1967618304,
+    "name": "Ironwall Jewel II [2]",
+    "level": 2,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 2
+    }
+  },
+  {
+    "id": 1979979520,
+    "name": "Botany Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "860517760": 1
+    }
+  },
+  {
+    "id": 2003488640,
+    "name": "Challenger Jewel [3]",
+    "level": 3,
+    "allowed_on": "armor",
+    "skills": {
+      "1865909632": 1
+    }
+  },
+  {
+    "id": 2004238976,
+    "name": "Magazine/Attack Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "1": 1,
+      "802725120": 2
+    }
+  },
+  {
+    "id": 2005516288,
+    "name": "Ironwall Jewel III [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-307644128": 3
+    }
+  },
+  {
+    "id": 2071836160,
+    "name": "Sonorous/Handicraft Jwl [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1237438336": 2,
+      "1160639488": 1
+    }
+  },
+  {
+    "id": 2074953216,
+    "name": "Enduring Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-1684613760": 1
+    }
+  },
+  {
+    "id": 2088515968,
+    "name": "Dragon Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "-776946176": 1
+    }
+  },
+  {
+    "id": 2092268800,
+    "name": "Opener Jewel [1]",
+    "level": 1,
+    "allowed_on": "weapon",
+    "skills": {
+      "1711950720": 1
+    }
+  },
+  {
+    "id": 2099419520,
+    "name": "Footing Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "-609509888": 1
+    }
+  },
+  {
+    "id": 2117714048,
+    "name": "Poison/Attack Jewel [3]",
+    "level": 3,
+    "allowed_on": "weapon",
+    "skills": {
+      "-1629629184": 1,
+      "1": 1
+    }
+  },
+  {
+    "id": 2145184512,
+    "name": "Intimidator Jewel [1]",
+    "level": 1,
+    "allowed_on": "armor",
+    "skills": {
+      "1472632704": 1
+    }
+  }
+]

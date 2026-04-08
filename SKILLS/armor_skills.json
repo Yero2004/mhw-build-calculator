@@ -1,0 +1,688 @@
+[
+  {
+    "id": -2125233152,
+    "name": "Dragon Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Dragon resistance +6",
+      "Dragon resistance +12",
+      "Dragon resistance +20\r\nDefense +10"
+    ]
+  },
+  {
+    "id": -1700743296,
+    "name": "Coalescence",
+    "max_level": 3,
+    "ranks": [
+      "When active, grants a slight\r\nincrease to elemental attack\r\nand status buildup.",
+      "When active, grants an\r\nincrease to elemental attack\r\nand status buildup.",
+      "When active, grants a large\r\nincrease to elemental attack\r\nand status buildup."
+    ]
+  },
+  {
+    "id": -1689391744,
+    "name": "Constitution",
+    "max_level": 5,
+    "ranks": [
+      "Reduces fixed stamina\r\ndepletion by 10%.",
+      "Reduces fixed stamina\r\ndepletion by 20%.",
+      "Reduces fixed stamina\r\ndepletion by 30%.",
+      "Reduces fixed stamina\r\ndepletion by 40%.",
+      "Reduces fixed stamina\r\ndepletion by 50%."
+    ]
+  },
+  {
+    "id": -1684613760,
+    "name": "Item Prolonger",
+    "max_level": 3,
+    "ranks": [
+      "Item effect duration +10%",
+      "Item effect duration +25%",
+      "Item effect duration +50%"
+    ]
+  },
+  {
+    "id": -1662120192,
+    "name": "Antivirus",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases recovery rate\r\nafter contracting the Frenzy.\r\nAffinity +3% if cured.",
+      "Increases recovery rate after\r\ncontracting the Frenzy.\r\nAffinity +6% if cured.",
+      "Greatly increases recovery rate\r\nafter contracting the Frenzy.\r\nAffinity +10% if cured."
+    ]
+  },
+  {
+    "id": -1304512512,
+    "name": "Leap of Faith",
+    "max_level": 1,
+    "ranks": [
+      "Enables skill use."
+    ]
+  },
+  {
+    "id": -1235658624,
+    "name": "Recovery Up",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases recovery.",
+      "Moderately increases recovery.",
+      "Greatly increases recovery."
+    ]
+  },
+  {
+    "id": -1121468544,
+    "name": "Recovery Speed",
+    "max_level": 3,
+    "ranks": [
+      "Doubles the speed at which\r\nyou heal recoverable damage.",
+      "Triples the speed at which\r\nyou heal recoverable damage.",
+      "Quadruples the speed at\r\nwhich you heal recoverable\r\ndamage."
+    ]
+  },
+  {
+    "id": -1073401280,
+    "name": "Quick Sheathe",
+    "max_level": 3,
+    "ranks": [
+      "Slightly increases sheathing\r\nspeed.",
+      "Increases sheathing speed.",
+      "Greatly increases sheathing\r\nspeed."
+    ]
+  },
+  {
+    "id": -895828480,
+    "name": "Windproof",
+    "max_level": 3,
+    "ranks": [
+      "Negates minor wind pressure\r\nand halves the effects of\r\nmajor wind pressure.",
+      "Negates minor and major wind\r\npressure and halves the effects\r\nof dragon wind pressure.",
+      "Negates all kinds of wind pressure."
+    ]
+  },
+  {
+    "id": -857543744,
+    "name": "Bombardier",
+    "max_level": 3,
+    "ranks": [
+      "Explosive power +10%",
+      "Explosive power +20%",
+      "Explosive power +30%"
+    ]
+  },
+  {
+    "id": -856322816,
+    "name": "Flayer",
+    "max_level": 5,
+    "ranks": [
+      "Makes it ever so slightly easier\r\nto inflict wounds. Also deals\r\nadditional non-elemental damage.",
+      "Makes it moderately easier to inflict\r\nwounds. Also deals slightly more\r\nadditional non-elemental damage.",
+      "Makes it easier to inflict wounds.\r\nAlso deals moderately more\r\nadditional non-elemental damage.",
+      "Makes it much easier to inflict\r\nwounds. Also deals more additional\r\nnon-elemental damage.",
+      "Makes it significantly easier to\r\ninflict wounds. Also deals much more\r\nadditional non-elemental damage."
+    ]
+  },
+  {
+    "id": -692636288,
+    "name": "Cliffhanger",
+    "max_level": 1,
+    "ranks": [
+      "Reduces stamina depletion while\r\nclimbing by 50%."
+    ]
+  },
+  {
+    "id": -682586176,
+    "name": "Marathon Runner",
+    "max_level": 3,
+    "ranks": [
+      "Reduces continuous stamina\r\ndepletion by 15%.",
+      "Reduces continuous stamina\r\ndepletion by 30%.",
+      "Reduces continuous stamina\r\ndepletion by 50%."
+    ]
+  },
+  {
+    "id": -609509888,
+    "name": "Tremor Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Nullifies very minor ground tremors\r\nand halves effects of minor ground\r\ntremors.",
+      "Nullifies up to minor ground tremors\r\nand greatly reduces the effects of\r\nmajor ground tremors.",
+      "Nullifies all ground tremors."
+    ]
+  },
+  {
+    "id": -593005376,
+    "name": "Survival Expert",
+    "max_level": 3,
+    "ranks": [
+      "Restores 50 health.",
+      "Restores 80 health.",
+      "Restores 100 health."
+    ]
+  },
+  {
+    "id": -568838336,
+    "name": "Blight Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the duration of all\r\nelemental blights by 50%.",
+      "Reduces the duration of all\r\nelemental blights by 75%.",
+      "Nullifies all elemental blights."
+    ]
+  },
+  {
+    "id": -481419552,
+    "name": "Mushroomancer",
+    "max_level": 3,
+    "ranks": [
+      "Lets you digest blue mushrooms\r\nand toadstools.",
+      "Additionally lets you digest\r\nnitroshrooms and parashrooms.",
+      "Additionally lets you digest\r\nmandragoras, devil's blight,\r\nand exciteshrooms."
+    ]
+  },
+  {
+    "id": -411441344,
+    "name": "Stench Resistance",
+    "max_level": 2,
+    "ranks": [
+      "Reduces stench duration by 50%.",
+      "Prevents stench."
+    ]
+  },
+  {
+    "id": -397570464,
+    "name": "Weakness Exploit",
+    "max_level": 5,
+    "ranks": [
+      "Attacks that hit weak points gain\r\naffinity +5%, with an extra 3%\r\non wounds.",
+      "Attacks that hit weak points gain\r\naffinity +10%, with an extra 5%\r\non wounds.",
+      "Attacks that hit weak points gain\r\naffinity +15%, with an extra 10%\r\non wounds.",
+      "Attacks that hit weak points have\r\n20% increased affinity, with an\r\nextra 15% on wounds.",
+      "Attacks that hit weak points have\r\n30% increased affinity, with an\r\nextra 20% on wounds."
+    ]
+  },
+  {
+    "id": -315492576,
+    "name": "Stamina Surge",
+    "max_level": 3,
+    "ranks": [
+      "Stamina recovery speed +10%",
+      "Stamina recovery speed +30%",
+      "Stamina recovery speed +50%"
+    ]
+  },
+  {
+    "id": -257693696,
+    "name": "Blindsider",
+    "max_level": 1,
+    "ranks": [
+      "Improves the effectiveness of\r\nflash attacks and items."
+    ]
+  },
+  {
+    "id": -201445760,
+    "name": "Aquatic/Oilsilt Mobility",
+    "max_level": 2,
+    "ranks": [
+      "Negates the effects of muddy streams,\r\nnullifies slowing from water and oilsilt,\r\nand reduces slowing from heavy oil.",
+      "Also negates the effects of waves."
+    ]
+  },
+  {
+    "id": -193031552,
+    "name": "Sleep Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the duration\r\nof sleep by 30%.",
+      "Reduces the duration\r\nof sleep by 60%.",
+      "Prevents sleep."
+    ]
+  },
+  {
+    "id": -171796848,
+    "name": "Ambush",
+    "max_level": 3,
+    "ranks": [
+      "Attack +5% while active.",
+      "Attack +10% while active.",
+      "Attack +15% while active."
+    ]
+  },
+  {
+    "id": 27684744,
+    "name": "Foray",
+    "max_level": 5,
+    "ranks": [
+      "Attack +6 against large monsters\r\naffected by poison or paralysis.",
+      "Attack +8 and affinity +5%\r\nagainst large monsters affected\r\nby poison or paralysis.",
+      "Attack +10 and affinity +10%\r\nagainst large monsters affected\r\nby poison or paralysis.",
+      "Attack +12 and affinity +15%\r\nagainst large monsters affected\r\nby poison or paralysis.",
+      "Attack +15 and affinity +20%\r\nagainst large monsters affected\r\nby poison or paralysis."
+    ]
+  },
+  {
+    "id": 78208296,
+    "name": "Jump Master",
+    "max_level": 1,
+    "ranks": [
+      "Negates knockback during\r\njumps."
+    ]
+  },
+  {
+    "id": 144660544,
+    "name": "Evade Window",
+    "max_level": 5,
+    "ranks": [
+      "Very slightly increases\r\ninvulnerability window.",
+      "Slightly increases\r\ninvulnerability window.",
+      "Increases invulnerability\r\nwindow.",
+      "Greatly increases\r\ninvulnerability window.",
+      "Massively increases\r\ninvulnerability window."
+    ]
+  },
+  {
+    "id": 192746944,
+    "name": "Earplugs",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the effects of weak\r\nmonster roars.",
+      "Nullifies weak monster roars and\r\nreduces the effects of strong\r\nmonster roars.",
+      "Nullifies weak and strong\r\nmonster roars."
+    ]
+  },
+  {
+    "id": 280489184,
+    "name": "Counterstrike",
+    "max_level": 3,
+    "ranks": [
+      "Attack +10 while active.",
+      "Attack +15 while active.\r\nModerately extends effect time.",
+      "Attack +25 while active.\r\nExtends effect time."
+    ]
+  },
+  {
+    "id": 383104832,
+    "name": "Water Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Water resistance +6",
+      "Water resistance +12",
+      "Water resistance +20\r\nDefense +10"
+    ]
+  },
+  {
+    "id": 422666624,
+    "name": "Heroics",
+    "max_level": 5,
+    "ranks": [
+      "Defense +50 while active.",
+      "Attack +5% and defense +50\r\nwhile active.",
+      "Attack +5% and defense +100\r\nwhile active.",
+      "Attack +10% and defense +100\r\nwhile active.",
+      "Attack +30% and defense-increasing\r\neffects are negated while active."
+    ]
+  },
+  {
+    "id": 424768352,
+    "name": "Adaptability",
+    "max_level": 2,
+    "ranks": [
+      "Negates the effects of heat and cold.",
+      "Negates environmental damage."
+    ]
+  },
+  {
+    "id": 469540352,
+    "name": "Tool Specialist",
+    "max_level": 5,
+    "ranks": [
+      "Shortens recharge time by 10%.",
+      "Shortens recharge time by 20%.",
+      "Shortens recharge time by 30%.",
+      "Shortens recharge time by 40%.",
+      "Shortens recharge time by 50%."
+    ]
+  },
+  {
+    "id": 522288832,
+    "name": "Paralysis Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the duration\r\nof paralysis by 30%.",
+      "Reduces the duration\r\nof paralysis by 60%.",
+      "Prevents paralysis."
+    ]
+  },
+  {
+    "id": 565867136,
+    "name": "Burst",
+    "max_level": 5,
+    "ranks": [
+      "On first hit, gain a small temporary\r\nattack and element boost, replaced\r\nby a larger boost after the fifth hit.",
+      "Hit 5 successive times for\r\na moderate stat boost.",
+      "Hit 5 successive times for\r\na bigger stat boost.",
+      "Hit 5 successive times for\r\nan even bigger stat boost.",
+      "Hit 5 successive times for\r\na huge stat boost."
+    ]
+  },
+  {
+    "id": 595870656,
+    "name": "Geologist",
+    "max_level": 3,
+    "ranks": [
+      "One extra item when gathering\r\nfrom bonepiles.",
+      "Additionally adds one extra item\r\nwhen gathering special items.",
+      "Additionally adds one extra item\r\nwhen gathering from mining\r\noutcrops."
+    ]
+  },
+  {
+    "id": 632127488,
+    "name": "Maximum Might",
+    "max_level": 3,
+    "ranks": [
+      "Affinity +10% while active",
+      "Affinity +20% while active",
+      "Affinity +30% while active"
+    ]
+  },
+  {
+    "id": 634068352,
+    "name": "Speed Eating",
+    "max_level": 3,
+    "ranks": [
+      "Moderately increases eating\r\nspeed.",
+      "Increases eating speed.",
+      "Greatly increases eating\r\nspeed."
+    ]
+  },
+  {
+    "id": 652161472,
+    "name": "Ice Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Ice resistance +6",
+      "Ice resistance +12",
+      "Ice resistance +20\r\nDefense +10"
+    ]
+  },
+  {
+    "id": 673822976,
+    "name": "Evade Extender",
+    "max_level": 3,
+    "ranks": [
+      "Slightly extends evasion\r\ndistance.",
+      "Extends evasion distance.",
+      "Greatly extends evasion\r\ndistance."
+    ]
+  },
+  {
+    "id": 705317568,
+    "name": "Stun Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the duration\r\nof stun by 30%.",
+      "Reduces the duration\r\nof stun by 60%.",
+      "Prevents stun."
+    ]
+  },
+  {
+    "id": 742695104,
+    "name": "Flinch Free",
+    "max_level": 3,
+    "ranks": [
+      "Prevents knockbacks.",
+      "Prevents knockbacks. Tripping is\r\nreduced to a knockback instead.",
+      "Prevents knockbacks and\r\ntripping."
+    ]
+  },
+  {
+    "id": 820385792,
+    "name": "Blast Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Delays blastblight and reduces\r\nblast damage.",
+      "Greatly delays blastblight and\r\ngreatly reduces blast damage.",
+      "Prevents blastblight."
+    ]
+  },
+  {
+    "id": 850626240,
+    "name": "Free Meal",
+    "max_level": 3,
+    "ranks": [
+      "Activates 10% of the time.",
+      "Activates 25% of the time.",
+      "Activates 45% of the time."
+    ]
+  },
+  {
+    "id": 860517760,
+    "name": "Botanist",
+    "max_level": 4,
+    "ranks": [
+      "One extra consumable herb\r\nitem per gather.",
+      "Additionally adds one extra\r\nconsumable fruit, nut, or seed\r\nitem per gather.",
+      "Additionally adds one extra\r\nconsumable insect item per\r\ngather.",
+      "Additionally adds one extra\r\nconsumable mushroom item\r\nper gather."
+    ]
+  },
+  {
+    "id": 894530496,
+    "name": "Wide-Range",
+    "max_level": 5,
+    "ranks": [
+      "Items affect nearby allies\r\nwith 33% of their efficacy.",
+      "Items affect nearby allies\r\nin a wider radius with 33%\r\nof their efficacy.",
+      "Items affect nearby allies\r\nin a wider radius with 66%\r\nof their efficacy.",
+      "Items affect nearby allies\r\nin a much wider radius with\r\n66% of their efficacy.",
+      "Items affect nearby allies\r\nin a much wider radius with\r\nfull efficacy."
+    ]
+  },
+  {
+    "id": 898284480,
+    "name": "Entomologist",
+    "max_level": 1,
+    "ranks": [
+      "Activates skill effect."
+    ]
+  },
+  {
+    "id": 1174975744,
+    "name": "Adrenaline Rush",
+    "max_level": 5,
+    "ranks": [
+      "Attack +10 while active.",
+      "Attack +15 while active.",
+      "Attack +20 while active.",
+      "Attack +25 while active.",
+      "Attack +30 while active."
+    ]
+  },
+  {
+    "id": 1346775424,
+    "name": "Divine Blessing",
+    "max_level": 3,
+    "ranks": [
+      "While active, reduces damage\r\ntaken by 15%.",
+      "While active, reduces damage\r\ntaken by 30%.",
+      "While active, reduces damage\r\ntaken by 50%."
+    ]
+  },
+  {
+    "id": 1359821952,
+    "name": "Resentment",
+    "max_level": 5,
+    "ranks": [
+      "Attack +5 while active.",
+      "Attack +10 while active.",
+      "Attack +15 while active.",
+      "Attack +20 while active.",
+      "Attack +25 while active."
+    ]
+  },
+  {
+    "id": 1425756032,
+    "name": "Fire Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Fire resistance +6",
+      "Fire resistance +12",
+      "Fire resistance +20\r\nDefense +10"
+    ]
+  },
+  {
+    "id": 1459579264,
+    "name": "Poison Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the number of times\r\nyou take poison damage.",
+      "Greatly reduces the number of\r\ntimes you take poison damage.",
+      "Prevents poison."
+    ]
+  },
+  {
+    "id": 1470960256,
+    "name": "Partbreaker",
+    "max_level": 3,
+    "ranks": [
+      "Increases part damage and\r\ndamage dealt when conditions\r\nare met by 10%.",
+      "Increases part damage and\r\ndamage dealt when conditions\r\nare met by 20%.",
+      "Increases part damage and\r\ndamage dealt when conditions\r\nare met by 30%."
+    ]
+  },
+  {
+    "id": 1472632704,
+    "name": "Intimidator",
+    "max_level": 3,
+    "ranks": [
+      "Discourages monsters from engaging\r\nyou even if you've been spotted.",
+      "Highly discourages monsters from\r\nengaging you even if you've\r\nbeen spotted.",
+      "Prevents monsters from engaging\r\nyou even if you've been spotted."
+    ]
+  },
+  {
+    "id": 1489568384,
+    "name": "Elemental Absorption",
+    "max_level": 3,
+    "ranks": [
+      "While active, slightly increases\r\nelemental attack, and resistance\r\nto element taken at activation by 4.",
+      "While active, moderately increases\r\nelemental attack, and resistance\r\nto element taken at activation by 6.",
+      "While active, increases elemental\r\nattack, and resistance to element\r\ntaken at activation by 8."
+    ]
+  },
+  {
+    "id": 1522518528,
+    "name": "Iron Skin",
+    "max_level": 3,
+    "ranks": [
+      "Reduces the duration of defense\r\ndown by 50%.",
+      "Reduces the duration of defense\r\ndown by 75%.",
+      "Prevents defense down."
+    ]
+  },
+  {
+    "id": 1763191040,
+    "name": "Latent Power",
+    "max_level": 5,
+    "ranks": [
+      "While active, affinity +10%\r\nand reduces stamina\r\ndepletion by 30%.",
+      "While active, affinity +20%\r\nand reduces stamina\r\ndepletion by 30%.",
+      "While active, affinity +30%\r\nand reduces stamina\r\ndepletion by 50%.",
+      "While active, affinity +40%\r\nand reduces stamina\r\ndepletion by 50%.",
+      "While active, affinity +50%\r\nand reduces stamina\r\ndepletion by 50%."
+    ]
+  },
+  {
+    "id": 1845834112,
+    "name": "Outdoorsman",
+    "max_level": 1,
+    "ranks": [
+      "Improves fishing, grilling,\r\nand transporting abilities."
+    ]
+  },
+  {
+    "id": 1865909632,
+    "name": "Agitator",
+    "max_level": 5,
+    "ranks": [
+      "Attack +4 and affinity +3%\r\nwhile active.",
+      "Attack +8 and affinity +5%\r\nwhile active.",
+      "Attack +12 and affinity +7%\r\nwhile active.",
+      "Attack +16 and affinity +10%\r\nwhile active.",
+      "Attack +20 and affinity +15%\r\nwhile active."
+    ]
+  },
+  {
+    "id": 1934955136,
+    "name": "Palico Rally",
+    "max_level": 5,
+    "ranks": [
+      "Increases Palico attack power\r\nand defense by 5%.",
+      "Increases Palico attack power\r\nand defense by 10%.",
+      "Increases Palico attack power\r\nand defense by 15%.",
+      "Increases Palico attack power\r\nand defense by 20%.",
+      "Increases Palico attack power\r\nand defense by 25%."
+    ]
+  },
+  {
+    "id": 1940820864,
+    "name": "Bleeding Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Reduces damage while bleeding.",
+      "Greatly reduces damage while\r\nbleeding.",
+      "Prevents bleeding."
+    ]
+  },
+  {
+    "id": 1966172160,
+    "name": "Bind Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Allows you to quickly recover from\r\nwebbed status or frostblight.",
+      "Allows you to very quickly recover\r\nfrom webbed status or frostblight.",
+      "Prevents webbed status and frostblight."
+    ]
+  },
+  {
+    "id": 2045149568,
+    "name": "Hunger Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Extends the time until your\r\nstamina cap reduces by 50%.",
+      "Extends the time until your\r\nstamina cap reduces by 100%.",
+      "Prevents your stamina cap\r\nfrom decreasing."
+    ]
+  },
+  {
+    "id": 2083363072,
+    "name": "Convert Element",
+    "max_level": 3,
+    "ranks": [
+      "While active, deals extra dragon damage\r\nafter dealing enough elemental damage.\r\nSlightly increases dragon attack.",
+      "Increases additional dragon damage\r\nand increases dragon attack.",
+      "Further increases additional dragon\r\ndamage and greatly increases dragon\r\nattack."
+    ]
+  },
+  {
+    "id": 2106877312,
+    "name": "Peak Performance",
+    "max_level": 5,
+    "ranks": [
+      "Attack +3 while active.",
+      "Attack +6 while active.",
+      "Attack +10 while active.",
+      "Attack +15 while active.",
+      "Attack +20 while active."
+    ]
+  },
+  {
+    "id": 2143068800,
+    "name": "Thunder Resistance",
+    "max_level": 3,
+    "ranks": [
+      "Thunder resistance +6",
+      "Thunder resistance +12",
+      "Thunder resistance +20\r\nDefense +10"
+    ]
+  }
+]
